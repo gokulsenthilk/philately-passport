@@ -1,0 +1,6182 @@
+{
+ "meta": {
+  "generated": "2026-11-17",
+  "disclaimer": "Unofficial compilation from public sources. Not affiliated with India Post.",
+  "passports": {
+   "KA": {
+    "name": "Karnataka Philately Passport",
+    "edition": "v3 2026",
+    "slots": 100,
+    "price": 600
+   },
+   "TN": {
+    "name": "Tamil Nadu Philately Passport",
+    "edition": "Oct 2026",
+    "slots": 58,
+    "price": 650
+   }
+  },
+  "sources": {
+   "ppc-list:praneethsaichunduru.github.io": "https://praneethsaichunduru.github.io/ppcsofindia.github.io/list-pincode.html",
+   "ka-list:philatelypassport.web.app": "https://philatelypassport.web.app/cancellations/",
+   "osm": "https://www.openstreetmap.org (ODbL)",
+   "geonames": "https://download.geonames.org/export/zip/ (CC-BY 4.0)"
+  }
+ },
+ "locations": [
+  {
+   "id": "ka-001-aihole-chalukya-temples",
+   "passport": "KA",
+   "order": 1,
+   "state": "Karnataka",
+   "district": "Bagalkot",
+   "place": "Aihole Chalukya Temples",
+   "ppcTheme": "Chalukyan Royal Emblem",
+   "ppcSince": "28.02.1990",
+   "guide": "The Chalukyan royal emblem, from Aihole, the 'cradle of Indian temple architecture'.",
+   "postOffice": "Aihole Branch Post Office",
+   "postOfficeRank": "Aihole BO",
+   "officeType": "BO",
+   "pin": "587124",
+   "lat": 16.02679,
+   "lng": 75.883537,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of healthcare \"PHC Aihole\" (osm:node/7205448465) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/aihole-heritage-complex/",
+    "ppc-list:praneethsaichunduru.github.io#321"
+   ]
+  },
+  {
+   "id": "ka-002-badami-cave-temples",
+   "passport": "KA",
+   "order": 2,
+   "state": "Karnataka",
+   "district": "Bagalkot",
+   "place": "Badami Cave Temples",
+   "ppcTheme": "Lord Nataraja",
+   "ppcSince": "29.09.1987",
+   "guide": "Nataraja carved at the Badami cave temples.",
+   "postOffice": "Badami Post Office",
+   "postOfficeRank": "Badami SO",
+   "officeType": "SO",
+   "pin": "587201",
+   "lat": 15.921668,
+   "lng": 75.677894,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of amenity \"Government Hospital\" (osm:node/7205448416) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/badami-cave-temples/",
+    "ppc-list:praneethsaichunduru.github.io#322"
+   ]
+  },
+  {
+   "id": "ka-003-pattadakal-temples",
+   "passport": "KA",
+   "order": 3,
+   "state": "Karnataka",
+   "district": "Bagalkot",
+   "place": "Pattadakal Temples",
+   "ppcTheme": "Galaganatha Temple",
+   "ppcSince": "30.09.1987",
+   "guide": "The Galaganatha Temple at Pattadakal, a UNESCO World Heritage site.",
+   "postOffice": "Pattadakallu Branch Post Office",
+   "postOfficeRank": "Pattadakal BO",
+   "officeType": "BO",
+   "pin": "587201",
+   "lat": 15.9421,
+   "lng": 75.7127,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Pattadkal\" in PIN 587201; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/pattadakal-temples/",
+    "ppc-list:praneethsaichunduru.github.io#323"
+   ]
+  },
+  {
+   "id": "ka-004-ballari-fort",
+   "passport": "KA",
+   "order": 4,
+   "state": "Karnataka",
+   "district": "Ballari",
+   "place": "Ballari Fort",
+   "ppcTheme": "Ballari Fort",
+   "ppcSince": "26.11.2024",
+   "guide": "Ballari Fort on its granite hill above the city.",
+   "postOffice": "Ballary Fort Post Office",
+   "postOfficeRank": "Ballari Fort SO",
+   "officeType": "SO",
+   "pin": "583102",
+   "lat": 15.148671,
+   "lng": 76.91041,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of historic \"Ballari Fort\" (osm:relation/12327099) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/ballari-fort/",
+    "ppc-list:praneethsaichunduru.github.io#307"
+   ]
+  },
+  {
+   "id": "ka-005-sandur-kumaraswamy-temple",
+   "passport": "KA",
+   "order": 5,
+   "state": "Karnataka",
+   "district": "Ballari",
+   "place": "Sandur Kumaraswamy Temple",
+   "ppcTheme": "Parvati - Kumaraswamy Temple",
+   "ppcSince": "26.11.2024",
+   "guide": "The Parvati and Kumaraswamy temples in the Sandur hills.",
+   "postOffice": "Sandur Post Office",
+   "postOfficeRank": "Sandur SO",
+   "officeType": "SO",
+   "pin": "583119",
+   "lat": 15.083275,
+   "lng": 76.543411,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Sanduru\" (osm:node/654191231) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/sandur-kumaraswamy-temple/",
+    "ppc-list:praneethsaichunduru.github.io#308"
+   ]
+  },
+  {
+   "id": "ka-006-belagavi-clock-tower",
+   "passport": "KA",
+   "order": 6,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Belagavi Clock Tower",
+   "ppcTheme": "Clock Tower of Belagavi",
+   "ppcSince": "23.12.2020",
+   "guide": "The clock tower of Belagavi city.",
+   "postOffice": "Belagavi Head Post Office",
+   "postOfficeRank": "Belagavi HO-PB",
+   "officeType": "HO",
+   "pin": "590001",
+   "lat": 15.857267,
+   "lng": 74.506934,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Belagavi\" (osm:node/343333679) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/belagavi-clock-tower/",
+    "ppc-list:praneethsaichunduru.github.io#325"
+   ]
+  },
+  {
+   "id": "ka-007-bhimgad-wildlife-sanctuary",
+   "passport": "KA",
+   "order": 7,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Bhimgad Wildlife Sanctuary",
+   "ppcTheme": "Bhimgad Wildlife Sanctuary",
+   "ppcSince": "15.03.2022",
+   "guide": "The forests of the Bhimgad Wildlife Sanctuary in the Western Ghats.",
+   "postOffice": "Shiroli Branch Post Office",
+   "postOfficeRank": "Shiroli BO",
+   "officeType": "BO",
+   "pin": "591302",
+   "lat": 15.5648,
+   "lng": 74.4286,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Shiroli\" in PIN 591302; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/bhimgad-wildlife-sanctuary/",
+    "ppc-list:praneethsaichunduru.github.io#332"
+   ]
+  },
+  {
+   "id": "ka-008-gokak-falls",
+   "passport": "KA",
+   "order": 8,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Gokak Falls",
+   "ppcTheme": "Gokak Falls",
+   "ppcSince": "08.01.2025",
+   "guide": "Gokak Falls, where the Ghataprabha drops over a sandstone cliff.",
+   "postOffice": "Gokak Falls Post Office",
+   "postOfficeRank": "Gokak Falls SO",
+   "officeType": "SO",
+   "pin": "591308",
+   "lat": 16.192376,
+   "lng": 74.776988,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of waterfall \"Gokak Falls\" (osm:node/5358257038) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/gokak-falls/",
+    "ppc-list:praneethsaichunduru.github.io#333"
+   ]
+  },
+  {
+   "id": "ka-009-halashi-kadamba-emblem",
+   "passport": "KA",
+   "order": 9,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Halashi Kadamba Emblem",
+   "ppcTheme": "Royal Logo of Kadamba",
+   "ppcSince": "04.05.1993",
+   "guide": "The royal emblem of the Kadambas, from their old centre at Halashi.",
+   "postOffice": "Halashi Branch Post Office",
+   "postOfficeRank": "Halashi BO",
+   "officeType": "BO",
+   "pin": "591142",
+   "lat": 15.540588,
+   "lng": 74.591415,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "low",
+    "pin": "low",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Halashi\" (osm:node/2425833878) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [
+    "PIN differs between sources: 591142 (passport list) vs 591120 (PPC list, office Halashi BO)."
+   ],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/halashi-kadamba-emblem/",
+    "ppc-list:praneethsaichunduru.github.io#329"
+   ]
+  },
+  {
+   "id": "ka-010-hooli-panchalingeshwara-temple",
+   "passport": "KA",
+   "order": 10,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Hooli Panchalingeshwara Temple",
+   "ppcTheme": "Panchalingeswara Temple",
+   "ppcSince": "23.12.2020",
+   "guide": "The Panchalingeshwara Temple at Hooli.",
+   "postOffice": "Hooli Branch Post Office",
+   "postOfficeRank": "Hooli BO",
+   "officeType": "BO",
+   "pin": "591126",
+   "lat": 15.795685,
+   "lng": 75.191754,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Hooli\" (osm:node/2261609156) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/hooli-panchalingeshwara-temple/",
+    "ppc-list:praneethsaichunduru.github.io#330"
+   ]
+  },
+  {
+   "id": "ka-011-kamal-basadi-belagavi-fort",
+   "passport": "KA",
+   "order": 11,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Kamal Basadi, Belagavi Fort",
+   "ppcTheme": "Kamal Basadi",
+   "ppcSince": "23.12.2020",
+   "guide": "Kamal Basadi inside Belagavi Fort, a Jain temple with a lotus-carved ceiling.",
+   "postOffice": "Belagavi Fort Post Office",
+   "postOfficeRank": "Belagavi Fort SO",
+   "officeType": "SO",
+   "pin": "590016",
+   "lat": 15.9214,
+   "lng": 74.5751,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 590016; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kamal-basadi-jain-temple/",
+    "ppc-list:praneethsaichunduru.github.io#326"
+   ]
+  },
+  {
+   "id": "ka-012-kittur-rani-chennamma",
+   "passport": "KA",
+   "order": 12,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Kittur Rani Chennamma",
+   "ppcTheme": "Kittur Rani Chennamma",
+   "ppcSince": "23.10.2024",
+   "guide": "Rani Chennamma of Kittur, who fought the East India Company in 1824.",
+   "postOffice": "Kittur Post Office",
+   "postOfficeRank": "Kittur SO",
+   "officeType": "SO",
+   "pin": "591115",
+   "lat": 15.599333,
+   "lng": 74.78789,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Kitturu\" (osm:node/245632442) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kittur-rani-channamma-fort/",
+    "ppc-list:praneethsaichunduru.github.io#327"
+   ]
+  },
+  {
+   "id": "ka-013-sangolli-rayanna-nandgad",
+   "passport": "KA",
+   "order": 13,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Sangolli Rayanna, Nandgad",
+   "ppcTheme": "Krantiveera Sangolli Rayanna",
+   "ppcSince": "10.01.2025",
+   "guide": "Krantiveera Sangolli Rayanna, the Kittur army chief and freedom fighter.",
+   "postOffice": "Nandgad Post Office",
+   "postOfficeRank": "Nandgad SO",
+   "officeType": "SO",
+   "pin": "591120",
+   "lat": 15.5775,
+   "lng": 74.569,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Nandgad\" in PIN 591120; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/sangolli-rayanna-nandgad/",
+    "ppc-list:praneethsaichunduru.github.io#328"
+   ]
+  },
+  {
+   "id": "ka-014-saundatti-yellamma-temple",
+   "passport": "KA",
+   "order": 14,
+   "state": "Karnataka",
+   "district": "Belagavi",
+   "place": "Saundatti Yellamma Temple",
+   "ppcTheme": "Sri Renuka Yallamma Devasthan",
+   "ppcSince": "14.03.2022",
+   "guide": "The Renuka Yellamma temple on Yellamma hill near Saundatti.",
+   "postOffice": "Yallamma Hill Post Office",
+   "postOfficeRank": "Yallamma Hill SO",
+   "officeType": "SO",
+   "pin": "591173",
+   "lat": 15.7643,
+   "lng": 75.0708,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Yallammahill\" in PIN 591173; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/saundatti-yellamma-temple/",
+    "ppc-list:praneethsaichunduru.github.io#331"
+   ]
+  },
+  {
+   "id": "ka-015-ashoka-pillar-jayanagar",
+   "passport": "KA",
+   "order": 15,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Ashoka Pillar, Jayanagar",
+   "ppcTheme": "Ashoka Pillar",
+   "ppcSince": "18.04.2024",
+   "guide": "The Ashoka Pillar at Jayanagar, a landmark roundabout pillar in one of Bengaluru's oldest planned layouts.",
+   "postOffice": "Jayanagar 3rd Block Post Office",
+   "postOfficeRank": "Jayanagar 3rd Block SO",
+   "officeType": "SO",
+   "pin": "560011",
+   "lat": 12.930376,
+   "lng": 77.583314,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Jayanagar 3rd Block PO\" (osm:node/303917702) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/ashoka-pillar/",
+    "ppc-list:praneethsaichunduru.github.io#228"
+   ]
+  },
+  {
+   "id": "ka-016-bannerghatta-butterfly-park",
+   "passport": "KA",
+   "order": 16,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Bannerghatta Butterfly Park",
+   "ppcTheme": "Butterfly-Malabar Banded Peacock",
+   "ppcSince": "23.05.2009",
+   "guide": "The Malabar Banded Peacock butterfly, a jewel of the Bannerghatta Butterfly Park south of the city.",
+   "postOffice": "Bannerghatta Post Office",
+   "postOfficeRank": "Bannerghatta SO",
+   "officeType": "SO",
+   "pin": "560083",
+   "lat": 13.2257,
+   "lng": 77.575,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Bannerghatta\" in PIN 560083; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/bannerghatta-national-park-butterfly-sanctuary/",
+    "ppc-list:praneethsaichunduru.github.io#232"
+   ]
+  },
+  {
+   "id": "ka-017-beaulieu-heritage-building",
+   "passport": "KA",
+   "order": 17,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Beaulieu Heritage Building",
+   "ppcTheme": "Beaulieu",
+   "ppcSince": "13.10.2025",
+   "guide": "A heritage bungalow in central Bengaluru; the cancellation celebrates one of the city's surviving colonial-era homes.",
+   "postOffice": "Dr. Ambedkar Veedhi Post Office",
+   "postOfficeRank": "Dr. Ambedkar Veedhi SO",
+   "officeType": "SO",
+   "pin": "560001",
+   "lat": 12.978742,
+   "lng": 77.591639,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of railway \"Dr. B. R. Ambedkar Station\" (osm:node/6400857556) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/beaulieu-heritage-mansion/",
+    "ppc-list:praneethsaichunduru.github.io#225"
+   ]
+  },
+  {
+   "id": "ka-018-high-court-of-karnataka",
+   "passport": "KA",
+   "order": 18,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "High Court of Karnataka",
+   "ppcTheme": "Karnataka High Court Building",
+   "ppcSince": "21.01.2022",
+   "guide": "The red Attara Kacheri building facing Vidhana Soudha, home of the High Court of Karnataka since the colonial era.",
+   "postOffice": "High Court Post Office",
+   "postOfficeRank": "High Court SO",
+   "officeType": "SO",
+   "pin": "560001",
+   "lat": 12.977239,
+   "lng": 77.591522,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"High Court Post Office\" (osm:node/2722800863) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/high-court-attara-kacheri/",
+    "ppc-list:praneethsaichunduru.github.io#224"
+   ]
+  },
+  {
+   "id": "ka-019-isro",
+   "passport": "KA",
+   "order": 19,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "ISRO",
+   "ppcTheme": "U R Rao Satellite Centre",
+   "ppcSince": "19.05.2025",
+   "guide": "Honours ISRO's U R Rao Satellite Centre, where India's satellites are designed and built.",
+   "postOffice": "NAL Post Office",
+   "postOfficeRank": "NAL SO",
+   "officeType": "SO",
+   "pin": "560017",
+   "lat": 12.959839,
+   "lng": 77.650095,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"NAL Sub Office\" (osm:node/1760618743) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/isro-headquarters-landmark/",
+    "ppc-list:praneethsaichunduru.github.io#230"
+   ]
+  },
+  {
+   "id": "ka-020-indian-institute-of-science",
+   "passport": "KA",
+   "order": 20,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Indian Institute of Science",
+   "ppcTheme": "Indian Institute of Science Building",
+   "ppcSince": "21.01.2022",
+   "guide": "The iconic main building of the Indian Institute of Science, founded in 1909 with support from J. N. Tata.",
+   "postOffice": "Science Institute Post Office",
+   "postOfficeRank": "Science Institute SO",
+   "officeType": "SO",
+   "pin": "560012",
+   "lat": 13.022235,
+   "lng": 77.567183,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of amenity \"Indian Institute of Science\" (osm:relation/9676004) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/indian-institute-of-science-iisc/",
+    "ppc-list:praneethsaichunduru.github.io#229"
+   ]
+  },
+  {
+   "id": "ka-021-kempegowda-tower-lalbagh",
+   "passport": "KA",
+   "order": 21,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Kempegowda Tower, Lalbagh",
+   "ppcTheme": "Kempegowda Tower",
+   "ppcSince": "23.07.2013",
+   "guide": "One of four boundary towers attributed to Kempegowda, the founder of Bengaluru; this one stands on a rock in Lalbagh.",
+   "postOffice": "Basavanagudi Head Post Office",
+   "postOfficeRank": "Basavanagudi HO",
+   "officeType": "HO",
+   "pin": "560004",
+   "lat": 12.944761,
+   "lng": 77.574061,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Basawanagudi Post Office\" (osm:node/1058171422) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kempegowda-tower/",
+    "ppc-list:praneethsaichunduru.github.io#226"
+   ]
+  },
+  {
+   "id": "ka-022-rajajinagar-foundation-pillar",
+   "passport": "KA",
+   "order": 22,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Rajajinagar Foundation Pillar",
+   "ppcTheme": "Rajajinagar Foundation Pillar",
+   "ppcSince": "26.11.2024",
+   "guide": "Marks the founding pillar of Rajajinagar, one of Bengaluru's earliest planned residential extensions.",
+   "postOffice": "Rajajinagar Head Post Office",
+   "postOfficeRank": "Rajajinagar HO",
+   "officeType": "HO",
+   "pin": "560010",
+   "lat": 12.993422,
+   "lng": 77.554341,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Rajajinagar Head Post Office\" (osm:way/314895195) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/rajajinagar-foundation-pillar/",
+    "ppc-list:praneethsaichunduru.github.io#227"
+   ]
+  },
+  {
+   "id": "ka-023-sandesh-museum-of-communication",
+   "passport": "KA",
+   "order": 23,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Sandesh Museum of Communication",
+   "ppcTheme": "Sandesha Museum",
+   "ppcSince": "19.05.2025",
+   "guide": "India Post's museum of communication in Bengaluru, telling the story of the post, telegraph and telephone.",
+   "postOffice": "Museum Road Post Office",
+   "postOfficeRank": "Museum Road SO",
+   "officeType": "SO",
+   "pin": "560025",
+   "lat": 12.973043,
+   "lng": 77.603466,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"India Post Museum Road\" (osm:node/1492519137) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/sandesh-museum-of-communication/",
+    "ppc-list:praneethsaichunduru.github.io#231"
+   ]
+  },
+  {
+   "id": "ka-024-vidhana-soudha",
+   "passport": "KA",
+   "order": 24,
+   "state": "Karnataka",
+   "district": "Bengaluru Urban",
+   "place": "Vidhana Soudha",
+   "ppcTheme": "Vidhana Soudha",
+   "ppcSince": "05.01.1979",
+   "guide": "Seat of the state legislature, built in the 1950s in a grand Neo-Dravidian style; the GPO stands right opposite.",
+   "postOffice": "Bengaluru GPO",
+   "postOfficeRank": "Bengaluru GPO-PB",
+   "officeType": "GPO",
+   "pin": "560001",
+   "lat": 12.976794,
+   "lng": 77.590082,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Bengaluru\" (osm:relation/7902476) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/vidhana-soudha/",
+    "ppc-list:praneethsaichunduru.github.io#223"
+   ]
+  },
+  {
+   "id": "ka-025-anubhava-mantapa-basavakalyana",
+   "passport": "KA",
+   "order": 25,
+   "state": "Karnataka",
+   "district": "Bidar",
+   "place": "Anubhava Mantapa, Basavakalyana",
+   "ppcTheme": "Anubhava Mantapa",
+   "ppcSince": "10.01.2019",
+   "guide": "Anubhava Mantapa at Basavakalyana, the 12th-century assembly of Basavanna and the Sharanas.",
+   "postOffice": "Basavakalyana Post Office",
+   "postOfficeRank": "Basavakalyan SO",
+   "officeType": "SO",
+   "pin": "585327",
+   "lat": 17.869767,
+   "lng": 76.950953,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Basavakalyan\" (osm:node/245642325) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/anubhava-mantapa-basavakalyana/",
+    "ppc-list:praneethsaichunduru.github.io#317"
+   ]
+  },
+  {
+   "id": "ka-026-gurudwara-nanak-jhira-sahib",
+   "passport": "KA",
+   "order": 26,
+   "state": "Karnataka",
+   "district": "Bidar",
+   "place": "Gurudwara Nanak Jhira Sahib",
+   "ppcTheme": "Guru Nanak Jhira",
+   "ppcSince": "09.01.2019",
+   "guide": "Gurudwara Nanak Jhira Sahib in Bidar, at a spring associated with Guru Nanak.",
+   "postOffice": "Bidar Gurunanak Jhira Post Office",
+   "postOfficeRank": "Guru Nanak Jhira SO",
+   "officeType": "SO",
+   "pin": "585402",
+   "lat": 17.9373,
+   "lng": 77.4016,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 585402; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/gurudwara-nanak-jhira-sahib/",
+    "ppc-list:praneethsaichunduru.github.io#319"
+   ]
+  },
+  {
+   "id": "ka-027-kamthana-parshvanath-jain-temple",
+   "passport": "KA",
+   "order": 27,
+   "state": "Karnataka",
+   "district": "Bidar",
+   "place": "Kamthana Parshvanath Jain Temple",
+   "ppcTheme": "Shri 1008 Parshwanath Bhagawan",
+   "ppcSince": "09.01.2025",
+   "guide": "The Parshwanath Jain temple at Kamthana, Bidar.",
+   "postOffice": "Kamthana Post Office",
+   "postOfficeRank": "Kamthana SO",
+   "officeType": "SO",
+   "pin": "585226",
+   "lat": 17.9528,
+   "lng": 77.2265,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Kamthana\" in PIN 585226; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kamthana-jain-temple/",
+    "ppc-list:praneethsaichunduru.github.io#316"
+   ]
+  },
+  {
+   "id": "ka-028-mahmud-gawan-madrasa",
+   "passport": "KA",
+   "order": 28,
+   "state": "Karnataka",
+   "district": "Bidar",
+   "place": "Mahmud Gawan Madrasa",
+   "ppcTheme": "Madrasa of Mohammed Gawan",
+   "ppcSince": "11.12.2005",
+   "guide": "The Madrasa of Mahmud Gawan, a 15th-century college in Bidar.",
+   "postOffice": "Bidar Head Post Office",
+   "postOfficeRank": "Bidar HO",
+   "officeType": "HO",
+   "pin": "585401",
+   "lat": 17.914937,
+   "lng": 77.488049,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of local_authority \"Bidar\" (osm:relation/19120456) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mahmud-gawan-madrasa/",
+    "ppc-list:praneethsaichunduru.github.io#318"
+   ]
+  },
+  {
+   "id": "ka-029-br-hills-wildlife-sanctuary",
+   "passport": "KA",
+   "order": 29,
+   "state": "Karnataka",
+   "district": "Chamarajanagar",
+   "place": "BR Hills Wildlife Sanctuary",
+   "ppcTheme": "Porcupine",
+   "ppcSince": "21.01.2022",
+   "guide": "The Indian crested porcupine of the Biligiri Rangaswamy (BR) Hills Tiger Reserve.",
+   "postOffice": "Kyathadevaragudi Branch Post Office",
+   "postOfficeRank": "Kyathadevaragudi BO",
+   "officeType": "BO",
+   "pin": "571342",
+   "lat": 11.9569,
+   "lng": 77.0998,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Kyathadevaragudi\" in PIN 571342; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/br-hills-wildlife-sanctuary/",
+    "ppc-list:praneethsaichunduru.github.io#252"
+   ]
+  },
+  {
+   "id": "ka-030-bandipur-tiger-reserve",
+   "passport": "KA",
+   "order": 30,
+   "state": "Karnataka",
+   "district": "Chamarajanagar",
+   "place": "Bandipur Tiger Reserve",
+   "ppcTheme": "Tiger Face",
+   "ppcSince": "23.06.1978",
+   "guide": "Bandipur Tiger Reserve, one of India's best-known tiger habitats on the Mysuru-Ooty road.",
+   "postOffice": "Bandipur Branch Post Office",
+   "postOfficeRank": "Bandipur BO",
+   "officeType": "BO",
+   "pin": "571126",
+   "lat": 11.9269,
+   "lng": 77.0629,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Bandipura\" in PIN 571126; the post office itself is not pinned"
+   },
+   "notes": [
+    "Bandipur BO has two PPCs (Tiger Face, Tiger Paw); which one the booklet uses is unconfirmed."
+   ],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/bandipur-tiger-reserve/",
+    "ppc-list:praneethsaichunduru.github.io#248"
+   ]
+  },
+  {
+   "id": "ka-031-male-mahadeshwara-hills",
+   "passport": "KA",
+   "order": 31,
+   "state": "Karnataka",
+   "district": "Chamarajanagar",
+   "place": "Male Mahadeshwara Hills",
+   "ppcTheme": "Elephant",
+   "ppcSince": "21.01.2022",
+   "guide": "Elephants of the forests around Male Mahadeshwara Hills, a major pilgrimage site.",
+   "postOffice": "Male Mahadeshwara Hills Post Office",
+   "postOfficeRank": "Mahadeshwara Malai SO",
+   "officeType": "SO",
+   "pin": "571490",
+   "lat": 11.943397,
+   "lng": 77.49118,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of nature_reserve \"Malai Mahadeshwara WLS\" (osm:relation/9329557) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/male-mahadeshwara-hills/",
+    "ppc-list:praneethsaichunduru.github.io#256"
+   ]
+  },
+  {
+   "id": "ka-032-nandi-hills",
+   "passport": "KA",
+   "order": 32,
+   "state": "Karnataka",
+   "district": "Chikballapur",
+   "place": "Nandi Hills",
+   "ppcTheme": "Nandi Statue",
+   "ppcSince": "09.06.1989",
+   "guide": "The Nandi monolith associated with Nandi Hills, the hill fort and sunrise point north of Bengaluru.",
+   "postOffice": "Nandi Hills Branch Post Office",
+   "postOfficeRank": "Nandi Hills BO",
+   "officeType": "BO",
+   "pin": "562101",
+   "lat": 13.5782,
+   "lng": 77.8362,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Nandi Hills\" in PIN 562101; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/nandi-hills-historical-site/",
+    "ppc-list:praneethsaichunduru.github.io#235"
+   ]
+  },
+  {
+   "id": "ka-033-chikkamagaluru-coffee-estates",
+   "passport": "KA",
+   "order": 33,
+   "state": "Karnataka",
+   "district": "Chikkamagaluru",
+   "place": "Chikkamagaluru Coffee Estates",
+   "ppcTheme": "Coffee Estates of Chikkamagaluru",
+   "ppcSince": "22.05.2025",
+   "guide": "The coffee estates of Chikkamagaluru, where coffee was first grown in India.",
+   "postOffice": "Chikkamagaluru Head Post Office",
+   "postOfficeRank": "Chikkamagaluru HO",
+   "officeType": "HO",
+   "pin": "577101",
+   "lat": 13.315587,
+   "lng": 75.774063,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Head Post Office, Chikmagalur\" (osm:node/1738006993) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/chikkamagaluru-coffee-estates/",
+    "ppc-list:praneethsaichunduru.github.io#287"
+   ]
+  },
+  {
+   "id": "ka-034-sringeri-vidyashankara-temple",
+   "passport": "KA",
+   "order": 34,
+   "state": "Karnataka",
+   "district": "Chikkamagaluru",
+   "place": "Sringeri Vidyashankara Temple",
+   "ppcTheme": "Sri Vidyasankara Temple",
+   "ppcSince": "27.01.1985",
+   "guide": "The Vidyashankara Temple at Sringeri, with its zodiac pillars, beside the Tunga river.",
+   "postOffice": "Sringeri Post Office",
+   "postOfficeRank": "Sringeri SO",
+   "officeType": "SO",
+   "pin": "577139",
+   "lat": 13.426172,
+   "lng": 75.255369,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Sringeri\" (osm:node/1422424829) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/vidyashankara-temple/",
+    "ppc-list:praneethsaichunduru.github.io#288"
+   ]
+  },
+  {
+   "id": "ka-035-onake-obavva-chitradurga-fort",
+   "passport": "KA",
+   "order": 35,
+   "state": "Karnataka",
+   "district": "Chitradurga",
+   "place": "Onake Obavva, Chitradurga Fort",
+   "ppcTheme": "Onake Obavva",
+   "ppcSince": "21.01.2017",
+   "guide": "Onake Obavva, the woman who defended Chitradurga Fort with a pestle (onake).",
+   "postOffice": "Chitradurga Head Post Office",
+   "postOfficeRank": "Chitradurga HO",
+   "officeType": "HO",
+   "pin": "577501",
+   "lat": 14.226644,
+   "lng": 76.400512,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Chitradurga\" (osm:node/571409087) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/chitradurga-fort-seven-circles/",
+    "ppc-list:praneethsaichunduru.github.io#294"
+   ]
+  },
+  {
+   "id": "ka-036-dharmasthala-manjunatha-temple",
+   "passport": "KA",
+   "order": 36,
+   "state": "Karnataka",
+   "district": "Dakshina Kannada",
+   "place": "Dharmasthala Manjunatha Temple",
+   "ppcTheme": "Sri Manjunatheswara Temple",
+   "ppcSince": "02.01.1989",
+   "guide": "Sri Manjunatha Temple at Dharmasthala, famed for its tradition of free meals for pilgrims.",
+   "postOffice": "Dharmasthala Post Office",
+   "postOfficeRank": "Dharmasthala SO",
+   "officeType": "SO",
+   "pin": "574216",
+   "lat": 12.951957,
+   "lng": 75.381312,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Dharmasthala\" (osm:node/245614706) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/dharmasthala-manjunatha-temple/",
+    "ppc-list:praneethsaichunduru.github.io#269"
+   ]
+  },
+  {
+   "id": "ka-037-kateel-durgaparameshwari-temple",
+   "passport": "KA",
+   "order": 37,
+   "state": "Karnataka",
+   "district": "Dakshina Kannada",
+   "place": "Kateel Durgaparameshwari Temple",
+   "ppcTheme": "Sri Durga Parameshwari Temple",
+   "ppcSince": "20.09.2000",
+   "guide": "Sri Durgaparameshwari Temple at Kateel, built on an islet in the Nandini river.",
+   "postOffice": "Kateel Post Office",
+   "postOfficeRank": "Kateel SO",
+   "officeType": "SO",
+   "pin": "574148",
+   "lat": 13.045026,
+   "lng": 74.870066,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of locality \"Kateel\" (osm:node/1706014465) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kateel-durgaparameshwari-temple/",
+    "ppc-list:praneethsaichunduru.github.io#268"
+   ]
+  },
+  {
+   "id": "ka-038-kukke-subrahmanya-temple",
+   "passport": "KA",
+   "order": 38,
+   "state": "Karnataka",
+   "district": "Dakshina Kannada",
+   "place": "Kukke Subrahmanya Temple",
+   "ppcTheme": "Vasuki",
+   "ppcSince": "14.04.2005",
+   "guide": "Vasuki, the serpent king worshipped at Kukke Subrahmanya Temple.",
+   "postOffice": "Subrahmanya Post Office",
+   "postOfficeRank": "Subramanya SO",
+   "officeType": "SO",
+   "pin": "574238",
+   "lat": 12.666054,
+   "lng": 75.613376,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Subrahmanya\" (osm:node/2074883589) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kukke-subrahmanya-temple/",
+    "ppc-list:praneethsaichunduru.github.io#271"
+   ]
+  },
+  {
+   "id": "ka-039-mangaluru-lighthouse",
+   "passport": "KA",
+   "order": 39,
+   "state": "Karnataka",
+   "district": "Dakshina Kannada",
+   "place": "Mangaluru Lighthouse",
+   "ppcTheme": "Mangaluru Lighthouse",
+   "ppcSince": "11.09.1989",
+   "guide": "The Mangaluru lighthouse on Lighthouse Hill, a city landmark.",
+   "postOffice": "Mangaluru Head Post Office",
+   "postOfficeRank": "Mangaluru HO-PB",
+   "officeType": "HO",
+   "pin": "575001",
+   "lat": 12.869825,
+   "lng": 74.843013,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Mangaluru\" (osm:node/245612641) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mangaluru-lighthouse/",
+    "ppc-list:praneethsaichunduru.github.io#273"
+   ]
+  },
+  {
+   "id": "ka-040-moodabidri-thousand-pillar-basadi",
+   "passport": "KA",
+   "order": 40,
+   "state": "Karnataka",
+   "district": "Dakshina Kannada",
+   "place": "Moodabidri Thousand Pillar Basadi",
+   "ppcTheme": "Saavira Kambada Basadi",
+   "ppcSince": "18.11.2016",
+   "guide": "The 'thousand pillar' Saavira Kambada Basadi at Moodabidri, a 15th-century Jain temple.",
+   "postOffice": "Moodabidri Post Office",
+   "postOfficeRank": "Moodbidri SO",
+   "officeType": "SO",
+   "pin": "574227",
+   "lat": 13.068365,
+   "lng": 74.994715,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of residential \"Moodbidri Interstate/interdistict Bus Stand\" (osm:way/1297334805) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/moodabidri-thousand-pillar-jain-temple/",
+    "ppc-list:praneethsaichunduru.github.io#270"
+   ]
+  },
+  {
+   "id": "ka-041-rani-abbakka-ullal",
+   "passport": "KA",
+   "order": 41,
+   "state": "Karnataka",
+   "district": "Dakshina Kannada",
+   "place": "Rani Abbakka, Ullal",
+   "ppcTheme": "Rani Abbakka Devi",
+   "ppcSince": "29.05.2025",
+   "guide": "Rani Abbakka Chowta of Ullal, the queen who resisted the Portuguese in the 16th century.",
+   "postOffice": "Ullal Post Office",
+   "postOfficeRank": "Ullal SO",
+   "officeType": "SO",
+   "pin": "575020",
+   "lat": 12.81812,
+   "lng": 74.845938,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Ullal\" (osm:node/245610394) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/rani-abbakka-ullal/",
+    "ppc-list:praneethsaichunduru.github.io#274"
+   ]
+  },
+  {
+   "id": "ka-042-venur-gommateshwara",
+   "passport": "KA",
+   "order": 42,
+   "state": "Karnataka",
+   "district": "Dakshina Kannada",
+   "place": "Venur Gommateshwara",
+   "ppcTheme": "Baahubali (Lord Gomateswara Statue)",
+   "ppcSince": "18.11.2016",
+   "guide": "The Bahubali (Gommateshwara) monolith at Venur on the banks of the Phalguni river.",
+   "postOffice": "Venur Post Office",
+   "postOfficeRank": "Venur SO",
+   "officeType": "SO",
+   "pin": "574242",
+   "lat": 13.0121,
+   "lng": 75.1439,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Venur\" in PIN 574242; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/venur-gommateshwara/",
+    "ppc-list:praneethsaichunduru.github.io#272"
+   ]
+  },
+  {
+   "id": "ka-043-davanagere-clock-tower",
+   "passport": "KA",
+   "order": 43,
+   "state": "Karnataka",
+   "district": "Davanagere",
+   "place": "Davanagere Clock Tower",
+   "ppcTheme": "Sri Chennagiri Rengappa Clock Tower",
+   "ppcSince": "19.01.2017",
+   "guide": "The Chennagiri Rangappa clock tower, a Davanagere landmark.",
+   "postOffice": "Davangere Head Post Office",
+   "postOfficeRank": "Davanagere HO",
+   "officeType": "HO",
+   "pin": "577001",
+   "lat": 14.468927,
+   "lng": 75.919951,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Head Post Office Davanagere\" (osm:way/257908349) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/davanagere-clock-tower/",
+    "ppc-list:praneethsaichunduru.github.io#286"
+   ]
+  },
+  {
+   "id": "ka-044-adikavi-pampa-annigeri",
+   "passport": "KA",
+   "order": 44,
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "place": "Adikavi Pampa, Annigeri",
+   "ppcTheme": "Adikavi Pampa",
+   "ppcSince": "13.05.2025",
+   "guide": "Adikavi Pampa, the 10th-century 'first poet' of Kannada, associated with Annigeri.",
+   "postOffice": "Annigeri Post Office",
+   "postOfficeRank": "Annigeri SO",
+   "officeType": "SO",
+   "pin": "582201",
+   "lat": 15.426012,
+   "lng": 75.433335,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Annigeri\" (osm:node/245631851) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/adikavi-pampa-annigeri/",
+    "ppc-list:praneethsaichunduru.github.io#306"
+   ]
+  },
+  {
+   "id": "ka-045-bendre-bhavana-dharwad",
+   "passport": "KA",
+   "order": 45,
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "place": "Bendre Bhavana, Dharwad",
+   "ppcTheme": "Bendre Bhavan",
+   "ppcSince": "14.05.2025",
+   "guide": "Bendre Bhavana, home of Kannada poet D. R. Bendre in Dharwad.",
+   "postOffice": "Narayanapura Post Office",
+   "postOfficeRank": "Narayanapura SO",
+   "officeType": "SO",
+   "pin": "580008",
+   "lat": 15.461492,
+   "lng": 74.995358,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Narayanpur Post Office\" (osm:node/9383217044) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/bendre-bhavana-dharwad/",
+    "ppc-list:praneethsaichunduru.github.io#295"
+   ]
+  },
+  {
+   "id": "ka-046-vivekananda-statue-unkal-lake",
+   "passport": "KA",
+   "order": 46,
+   "state": "Karnataka",
+   "district": "Dharwad",
+   "place": "Vivekananda Statue, Unkal Lake",
+   "ppcTheme": "Unkal Lake",
+   "ppcSince": "26.11.2024",
+   "guide": "Unkal Lake in Hubballi, with its Swami Vivekananda statue.",
+   "postOffice": "Hubli Head Post Office",
+   "postOfficeRank": "Hubballi HO",
+   "officeType": "HO",
+   "pin": "580020",
+   "lat": 15.351838,
+   "lng": 75.137985,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Hubballi\" (osm:node/670289984) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/unkal-lake-vivekananda-statue/",
+    "ppc-list:praneethsaichunduru.github.io#296"
+   ]
+  },
+  {
+   "id": "ka-047-kumaravyasa-gadag",
+   "passport": "KA",
+   "order": 47,
+   "state": "Karnataka",
+   "district": "Gadag",
+   "place": "Kumaravyasa, Gadag",
+   "ppcTheme": "Kumaravyasa",
+   "ppcSince": "26.11.2024",
+   "guide": "Kumaravyasa, the 15th-century poet of the Kannada Mahabharata, from Gadag district.",
+   "postOffice": "Gadag Head Post Office",
+   "postOfficeRank": "Gadag HO",
+   "officeType": "HO",
+   "pin": "582101",
+   "lat": 15.432582,
+   "lng": 75.636379,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Gadag Head Post Office\" (osm:way/133266615) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kumaravyasa-gadag/",
+    "ppc-list:praneethsaichunduru.github.io#304"
+   ]
+  },
+  {
+   "id": "ka-048-lakkundi-brahma-jinalaya",
+   "passport": "KA",
+   "order": 48,
+   "state": "Karnataka",
+   "district": "Gadag",
+   "place": "Lakkundi Brahma Jinalaya",
+   "ppcTheme": "Brahma Jinalaya",
+   "ppcSince": "13.05.2025",
+   "guide": "The Brahma Jinalaya at Lakkundi, an early Kalyani Chalukya Jain temple.",
+   "postOffice": "Lakkundi Post Office",
+   "postOfficeRank": "Lakkundi SO",
+   "officeType": "SO",
+   "pin": "582115",
+   "lat": 15.38998,
+   "lng": 75.717159,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Lakkundi\" (osm:node/775949946) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/lakkundi-temple-complex/",
+    "ppc-list:praneethsaichunduru.github.io#305"
+   ]
+  },
+  {
+   "id": "ka-049-belur-chennakeshava-temple",
+   "passport": "KA",
+   "order": 49,
+   "state": "Karnataka",
+   "district": "Hassan",
+   "place": "Belur Chennakeshava Temple",
+   "ppcTheme": "Darpana Sundari",
+   "ppcSince": "02.01.1978",
+   "guide": "Darpana Sundari, the 'lady with the mirror' bracket figure of Belur's Chennakeshava Temple.",
+   "postOffice": "Belur Post Office",
+   "postOfficeRank": "Belur SO",
+   "officeType": "SO",
+   "pin": "573115",
+   "lat": 13.164567,
+   "lng": 75.863485,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Belur\" (osm:node/245618812) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/belur-chennakeshava-temple/",
+    "ppc-list:praneethsaichunduru.github.io#259"
+   ]
+  },
+  {
+   "id": "ka-050-halebidu-hoysaleswara-temple",
+   "passport": "KA",
+   "order": 50,
+   "state": "Karnataka",
+   "district": "Hassan",
+   "place": "Halebidu Hoysaleswara Temple",
+   "ppcTheme": "Natya Saraswati",
+   "ppcSince": "02.01.1978",
+   "guide": "Natya Saraswati, a celebrated dancing figure from the Hoysaleswara Temple at Halebidu.",
+   "postOffice": "Halebeedu Post Office",
+   "postOfficeRank": "Halebeedu SO",
+   "officeType": "SO",
+   "pin": "573121",
+   "lat": 13.169153,
+   "lng": 76.000167,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of secondary \"Halebeedu Hagare Road\" (osm:way/53061027) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/halebidu-hoysaleswara-temple/",
+    "ppc-list:praneethsaichunduru.github.io#260"
+   ]
+  },
+  {
+   "id": "ka-051-shravanabelagola-gommateshwara",
+   "passport": "KA",
+   "order": 51,
+   "state": "Karnataka",
+   "district": "Hassan",
+   "place": "Shravanabelagola Gommateshwara",
+   "ppcTheme": "Gomateswara",
+   "ppcSince": "02.01.1978",
+   "guide": "The 57-ft monolith of Gommateshwara (Bahubali) on Vindhyagiri at Shravanabelagola.",
+   "postOffice": "Shravanabelagola Post Office",
+   "postOfficeRank": "Shravanabelagola SO",
+   "officeType": "SO",
+   "pin": "573135",
+   "lat": 12.858127,
+   "lng": 76.487011,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Shravanabelagola\" (osm:node/245612228) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/shravanabelagola-monolithic-gommateshwara-statue/",
+    "ppc-list:praneethsaichunduru.github.io#262"
+   ]
+  },
+  {
+   "id": "ka-052-ranebennur-blackbuck-sanctuary",
+   "passport": "KA",
+   "order": 52,
+   "state": "Karnataka",
+   "district": "Haveri",
+   "place": "Ranebennur Blackbuck Sanctuary",
+   "ppcTheme": "Black Buck Sanctuary",
+   "ppcSince": "09.05.2025",
+   "guide": "Blackbuck of the Ranebennur sanctuary.",
+   "postOffice": "Ranebennur Post Office",
+   "postOfficeRank": "Ranebennur SO",
+   "officeType": "SO",
+   "pin": "581115",
+   "lat": 14.61658,
+   "lng": 75.634153,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Ranebennur\" (osm:node/245628328) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/ranebennur-blackbuck-sanctuary/",
+    "ppc-list:praneethsaichunduru.github.io#297"
+   ]
+  },
+  {
+   "id": "ka-053-santa-shishunala-sharifa",
+   "passport": "KA",
+   "order": 53,
+   "state": "Karnataka",
+   "district": "Haveri",
+   "place": "Santa Shishunala Sharifa",
+   "ppcTheme": "Sri Sharifa Shivayogi and Guru Govind Shivayogi",
+   "ppcSince": "26.11.2024",
+   "guide": "Saint-poet Shishunala Sharifa and his guru Govinda Bhatta, symbols of communal harmony.",
+   "postOffice": "Shishuvinhal Branch Post Office",
+   "postOfficeRank": "Shishuvinahal BO",
+   "officeType": "BO",
+   "pin": "581126",
+   "lat": 15.0691,
+   "lng": 75.3066,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Shishuvinhal\" in PIN 581126; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/shishunala-sharifa-shishuvinhal/",
+    "ppc-list:praneethsaichunduru.github.io#298"
+   ]
+  },
+  {
+   "id": "ka-054-kalaburagi-fort-bara-gazi-cannon",
+   "passport": "KA",
+   "order": 54,
+   "state": "Karnataka",
+   "district": "Kalaburagi",
+   "place": "Kalaburagi Fort & Bara Gazi Cannon",
+   "ppcTheme": "Bara Gazi Toph",
+   "ppcSince": "26.11.2024",
+   "guide": "The Bara Gazi cannon on the ramparts of Kalaburagi Fort.",
+   "postOffice": "Kalaburgi Head Post Office",
+   "postOfficeRank": "Kalaburagi HO",
+   "officeType": "HO",
+   "pin": "585101",
+   "lat": 17.331,
+   "lng": 76.833423,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Kalaburagi\" (osm:node/245640372) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kalaburagi-fort-bara-gazi-cannon/",
+    "ppc-list:praneethsaichunduru.github.io#314"
+   ]
+  },
+  {
+   "id": "ka-055-kodava-emblem-madikeri",
+   "passport": "KA",
+   "order": 55,
+   "state": "Karnataka",
+   "district": "Kodagu",
+   "place": "Kodava Emblem, Madikeri",
+   "ppcTheme": "Odi Kathi & Peechi Kathi",
+   "ppcSince": "07.09.1989",
+   "guide": "The Odi Kathi and Peechi Kathi, traditional knives that are a symbol of Kodava identity.",
+   "postOffice": "Madikeri Head Post Office",
+   "postOfficeRank": "Madikeri HO",
+   "officeType": "HO",
+   "pin": "571201",
+   "lat": 12.422315,
+   "lng": 75.740253,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Madikeri Head Post Office\" (osm:node/1900767854) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kodava-emblem-madikeri/",
+    "ppc-list:praneethsaichunduru.github.io#250"
+   ]
+  },
+  {
+   "id": "ka-056-nagarahole-national-park",
+   "passport": "KA",
+   "order": 56,
+   "state": "Karnataka",
+   "district": "Kodagu",
+   "place": "Nagarahole National Park",
+   "ppcTheme": "Gloriosa Superba (Wild Lily)",
+   "ppcSince": "06.11.1987",
+   "guide": "The Gloriosa lily, a striking wildflower of the Nagarahole forests.",
+   "postOffice": "Nagarahole Branch Post Office",
+   "postOfficeRank": "Nagarahole BO",
+   "officeType": "BO",
+   "pin": "571258",
+   "lat": 11.993076,
+   "lng": 76.067944,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "low",
+    "pin": "low",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of hamlet \"Nagarahole\" (osm:node/838536067) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [
+    "PIN differs between sources: 571258 (passport list) vs 571250 (PPC list, office Nagarahole BO)."
+   ],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/nagarahole-national-park/",
+    "ppc-list:praneethsaichunduru.github.io#251"
+   ]
+  },
+  {
+   "id": "ka-057-kgf-miner-statue",
+   "passport": "KA",
+   "order": 57,
+   "state": "Karnataka",
+   "district": "Kolar",
+   "place": "KGF Miner Statue",
+   "ppcTheme": "Gold Miner",
+   "ppcSince": "16.11.2018",
+   "guide": "A tribute to the miners of the Kolar Gold Fields, once among the deepest gold mines in the world.",
+   "postOffice": "Oorgaum (KGF) Post Office",
+   "postOfficeRank": "Championreefs SO",
+   "officeType": "SO",
+   "pin": "563120",
+   "lat": 13.1393,
+   "lng": 78.2177,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "low",
+    "pin": "low",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 563120; could be several km off"
+   },
+   "notes": [
+    "PIN differs between sources: 563120 (passport list) vs 563117 (PPC list, office Championreefs SO)."
+   ],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kgf-miner-statue/",
+    "ppc-list:praneethsaichunduru.github.io#237"
+   ]
+  },
+  {
+   "id": "ka-058-masti-venkatesha-iyengar-masti",
+   "passport": "KA",
+   "order": 58,
+   "state": "Karnataka",
+   "district": "Kolar",
+   "place": "Masti Venkatesha Iyengar, Masti",
+   "ppcTheme": "Masti Venkatesha Iyengar",
+   "ppcSince": "08.05.2025",
+   "guide": "Masti Venkatesha Iyengar, Jnanpith-winning Kannada writer, remembered at his native village Masti.",
+   "postOffice": "Masthi Post Office",
+   "postOfficeRank": "Masthi SO",
+   "officeType": "SO",
+   "pin": "563139",
+   "lat": 12.874197,
+   "lng": 77.997897,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of healthcare \"Masthi PHC\" (osm:node/7202724042) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/masti-venkatesha-iyengar/",
+    "ppc-list:praneethsaichunduru.github.io#238"
+   ]
+  },
+  {
+   "id": "ka-059-anjanadri-hill-anegundi",
+   "passport": "KA",
+   "order": 59,
+   "state": "Karnataka",
+   "district": "Koppal",
+   "place": "Anjanadri Hill, Anegundi",
+   "ppcTheme": "Kishkinda: Anjanadri Hill",
+   "ppcSince": "28.05.2025",
+   "guide": "Anjanadri Hill near Anegundi, revered as the birthplace of Hanuman.",
+   "postOffice": "Anegundi Branch Post Office",
+   "postOfficeRank": "Anegundi BO",
+   "officeType": "BO",
+   "pin": "583227",
+   "lat": 15.351137,
+   "lng": 76.492144,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Anegundi\" (osm:node/676635872) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/anjanadri-hill-anegundi/",
+    "ppc-list:praneethsaichunduru.github.io#309"
+   ]
+  },
+  {
+   "id": "ka-060-gavisiddeshwara-math-koppal",
+   "passport": "KA",
+   "order": 60,
+   "state": "Karnataka",
+   "district": "Koppal",
+   "place": "Gavisiddeshwara Math, Koppal",
+   "ppcTheme": "Sri Gavi Siddeshwar Samsthana Sri Gavimath",
+   "ppcSince": "26.11.2024",
+   "guide": "The Gavisiddeshwara Math in Koppal, known for its huge annual fair.",
+   "postOffice": "Koppal Head Post Office",
+   "postOfficeRank": "Koppal HO",
+   "officeType": "HO",
+   "pin": "583231",
+   "lat": 15.348414,
+   "lng": 76.154742,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Koppala\" (osm:node/571433514) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/gavisiddeshwara-math-koppal/",
+    "ppc-list:praneethsaichunduru.github.io#310"
+   ]
+  },
+  {
+   "id": "ka-061-kokkare-bellur-pelicanry",
+   "passport": "KA",
+   "order": 61,
+   "state": "Karnataka",
+   "district": "Mandya",
+   "place": "Kokkare Bellur Pelicanry",
+   "ppcTheme": "Spot-Billed Pelican",
+   "ppcSince": "28.01.1992",
+   "guide": "Spot-billed pelicans nesting among villagers' trees at Kokkare Bellur, a community-protected pelicanry.",
+   "postOffice": "Kokkare Bellur Branch Post Office",
+   "postOfficeRank": "Kokkare Bellur BO",
+   "officeType": "BO",
+   "pin": "571433",
+   "lat": 12.509774,
+   "lng": 77.088326,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Kokkare Belluru\" (osm:node/3244713201) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kokkare-bellur-pelicanry/",
+    "ppc-list:praneethsaichunduru.github.io#253"
+   ]
+  },
+  {
+   "id": "ka-062-tipu-sultan-srirangapatna",
+   "passport": "KA",
+   "order": 62,
+   "state": "Karnataka",
+   "district": "Mandya",
+   "place": "Tipu Sultan, Srirangapatna",
+   "ppcTheme": "Crown and Sword of Tipu Sultan",
+   "ppcSince": "20.06.1987",
+   "guide": "The crown and sword of Tipu Sultan, the 'Tiger of Mysore', who ruled from Srirangapatna.",
+   "postOffice": "Srirangapatna Post Office",
+   "postOfficeRank": "Srirangapatna HO",
+   "officeType": "HO",
+   "pin": "571438",
+   "lat": 12.422644,
+   "lng": 76.684931,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Srirangapatna\" (osm:node/666625964) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [
+    "Srirangapatna HO has two PPCs (Gumbaz; Crown and Sword of Tipu Sultan); the booklet theme suggests the latter."
+   ],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/tipu-sultan-srirangapatna/",
+    "ppc-list:praneethsaichunduru.github.io#255"
+   ]
+  },
+  {
+   "id": "ka-063-chamundi-hills",
+   "passport": "KA",
+   "order": 63,
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "place": "Chamundi Hills",
+   "ppcTheme": "Mahishasura",
+   "ppcSince": "10.12.2005",
+   "guide": "The giant Mahishasura statue on Chamundi Hills, the demon slain by goddess Chamundeshwari.",
+   "postOffice": "Chamundi Betta Branch Post Office",
+   "postOfficeRank": "Chamundibetta BO",
+   "officeType": "BO",
+   "pin": "570010",
+   "lat": 12.2513,
+   "lng": 76.7776,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Chamundi Betta\" in PIN 570010; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/chamundi-hills-nandi-monolith/",
+    "ppc-list:praneethsaichunduru.github.io#243"
+   ]
+  },
+  {
+   "id": "ka-064-mysuru-dasara-elephant",
+   "passport": "KA",
+   "order": 64,
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "place": "Mysuru Dasara Elephant",
+   "ppcTheme": "Elephant Carrying Howdah",
+   "ppcSince": "11.10.2002",
+   "guide": "The caparisoned elephant carrying the golden howdah, the heart of the Mysuru Dasara Jamboo Savari.",
+   "postOffice": "Mysuru Head Post Office",
+   "postOfficeRank": "Mysuru HO-PB",
+   "officeType": "HO",
+   "pin": "570001",
+   "lat": 12.304146,
+   "lng": 76.652952,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of local_authority \"Mysuru\" (osm:relation/19125269) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mysuru-dasara-elephant/",
+    "ppc-list:praneethsaichunduru.github.io#239"
+   ]
+  },
+  {
+   "id": "ka-065-mysuru-dasara-emblem",
+   "passport": "KA",
+   "order": 65,
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "place": "Mysuru Dasara Emblem",
+   "ppcTheme": "Mysuru: Our Heritage - Your Destination",
+   "ppcSince": "27.05.2025",
+   "guide": "A Mysuru heritage-tourism emblem: 'Our Heritage, Your Destination'.",
+   "postOffice": "Saraswathipuram Head Post Office",
+   "postOfficeRank": "Saraswathipuram HO",
+   "officeType": "HO",
+   "pin": "570009",
+   "lat": 12.303408,
+   "lng": 76.629621,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Sarasvatipuram Post Office\" (osm:way/313191840) matched by name"
+   },
+   "notes": [
+    "Theme match to \"Mysuru: Our Heritage - Your Destination\" is a guess."
+   ],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mysuru-dasara-emblem/",
+    "ppc-list:praneethsaichunduru.github.io#241"
+   ]
+  },
+  {
+   "id": "ka-066-mysuru-silver-jubilee-clock-tower",
+   "passport": "KA",
+   "order": 66,
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "place": "Mysuru Silver Jubilee Clock Tower",
+   "ppcTheme": "Silver Jubilee Clock Tower",
+   "ppcSince": "23.05.2025",
+   "guide": "Mysuru's Silver Jubilee Clock Tower, built to mark the 25-year reign of Krishnaraja Wadiyar IV.",
+   "postOffice": "Lakshmipuram Post Office",
+   "postOfficeRank": "Lakshmipuram SO",
+   "officeType": "SO",
+   "pin": "570004",
+   "lat": 12.295988,
+   "lng": 76.645566,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of local_authority \"Lakshmipuram\" (osm:relation/19125286) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mysuru-silver-jubilee-clock-tower/",
+    "ppc-list:praneethsaichunduru.github.io#240"
+   ]
+  },
+  {
+   "id": "ka-067-nada-mantapa-ganapathy-sachchidananda-as",
+   "passport": "KA",
+   "order": 67,
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "place": "Nada Mantapa, Ganapathy Sachchidananda Ashram",
+   "ppcTheme": "Nada Mantapa",
+   "ppcSince": "31.05.2008",
+   "guide": "The Nada Mantapa music hall at the Sri Ganapathy Sachchidananda Ashrama in Mysuru.",
+   "postOffice": "SGS Ashram Post Office",
+   "postOfficeRank": "S.G.S. Ashram, Mysuru SO",
+   "officeType": "SO",
+   "pin": "570025",
+   "lat": 12.3537,
+   "lng": 76.5368,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"G S Ashram\" in PIN 570025; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/nada-mantapa-sgs-ashram/",
+    "ppc-list:praneethsaichunduru.github.io#245"
+   ]
+  },
+  {
+   "id": "ka-068-somanathapura-chennakeshava-temple",
+   "passport": "KA",
+   "order": 68,
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "place": "Somanathapura Chennakeshava Temple",
+   "ppcTheme": "Sri Chennakesava Temple",
+   "ppcSince": "02.01.1978",
+   "guide": "The star-shaped Hoysala Chennakeshava Temple at Somanathapura, completed in 1268 CE.",
+   "postOffice": "Somanathapura Branch Post Office",
+   "postOfficeRank": "Somanathapura BO",
+   "officeType": "BO",
+   "pin": "571120",
+   "lat": 12.276153,
+   "lng": 76.883304,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Somanathapura\" (osm:node/634785128) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/somnathpur-keshava-temple/",
+    "ppc-list:praneethsaichunduru.github.io#246"
+   ]
+  },
+  {
+   "id": "ka-069-talakad-panchalinga-temples",
+   "passport": "KA",
+   "order": 69,
+   "state": "Karnataka",
+   "district": "Mysuru",
+   "place": "Talakad Panchalinga Temples",
+   "ppcTheme": "Panchalinga Darshan",
+   "ppcSince": "01.12.1986",
+   "guide": "Talakad's sand-swept temples, celebrated in the Panchalinga Darshana held every few years.",
+   "postOffice": "Talakad Post Office",
+   "postOfficeRank": "Talakad SO",
+   "officeType": "SO",
+   "pin": "571122",
+   "lat": 12.190866,
+   "lng": 77.028597,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of healthcare \"Talakad CHC\" (osm:node/7202979388) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/talakad-panchalinga-temples/",
+    "ppc-list:praneethsaichunduru.github.io#247"
+   ]
+  },
+  {
+   "id": "ka-070-appanacharya-s-house-bichali",
+   "passport": "KA",
+   "order": 70,
+   "state": "Karnataka",
+   "district": "Raichur",
+   "place": "Appanacharya's House, Bichali",
+   "ppcTheme": "Sri Appannacharya Swamiji's House - Abode of Sri Guru Raghavendra Swami",
+   "ppcSince": "26.11.2024",
+   "guide": "The house of Sri Appanacharya at Bichali, linked to Guru Raghavendra Swamy.",
+   "postOffice": "Bichali Branch Post Office",
+   "postOfficeRank": "Bichali BO",
+   "officeType": "BO",
+   "pin": "584140",
+   "lat": 15.9603,
+   "lng": 76.9364,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Bichal\" in PIN 584140; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/appanacharya-house-bichali/",
+    "ppc-list:praneethsaichunduru.github.io#313"
+   ]
+  },
+  {
+   "id": "ka-071-grizzled-giant-squirrel-helagalli",
+   "passport": "KA",
+   "order": 71,
+   "state": "Karnataka",
+   "district": "Ramanagara",
+   "place": "Grizzled Giant Squirrel, Helagalli",
+   "ppcTheme": "Grizzled Giant Squirrel",
+   "ppcSince": "21.01.2022",
+   "guide": "The Grizzled Giant Squirrel, a rare forest squirrel found along the Kaveri valley near Helagalli.",
+   "postOffice": "Helagalli Branch Post Office",
+   "postOfficeRank": "Helagalli BO",
+   "officeType": "BO",
+   "pin": "562117",
+   "lat": 12.5828,
+   "lng": 77.2467,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Helagahalli\" in PIN 562117; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/grizzled-giant-squirrel-helagalli/",
+    "ppc-list:praneethsaichunduru.github.io#236"
+   ]
+  },
+  {
+   "id": "ka-072-agumbe-king-cobra",
+   "passport": "KA",
+   "order": 72,
+   "state": "Karnataka",
+   "district": "Shivamogga",
+   "place": "Agumbe King Cobra",
+   "ppcTheme": "Kalinga - King Cobra",
+   "ppcSince": "07.12.2018",
+   "guide": "The king cobra of Agumbe, the rainforest village known as the 'Cherrapunji of the South'.",
+   "postOffice": "Agumbe Post Office",
+   "postOfficeRank": "Agumbe SO",
+   "officeType": "SO",
+   "pin": "577411",
+   "lat": 13.508483,
+   "lng": 75.096257,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Agumbe\" (osm:node/910403408) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/agumbe-king-cobra/",
+    "ppc-list:praneethsaichunduru.github.io#289"
+   ]
+  },
+  {
+   "id": "ka-073-humcha-padmavathi-temple",
+   "passport": "KA",
+   "order": 73,
+   "state": "Karnataka",
+   "district": "Shivamogga",
+   "place": "Humcha Padmavathi Temple",
+   "ppcTheme": "Sri Hombuja Jain Math",
+   "ppcSince": "13.10.2019",
+   "guide": "The Hombuja Jain Math at Humcha and its Padmavathi temple.",
+   "postOffice": "Humcha Branch Post Office",
+   "postOfficeRank": "Humcha SO",
+   "officeType": "SO",
+   "pin": "577436",
+   "lat": 13.862356,
+   "lng": 75.207323,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Humcha\" (osm:node/1895752947) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/humcha-padmavathi-temple/",
+    "ppc-list:praneethsaichunduru.github.io#293"
+   ]
+  },
+  {
+   "id": "ka-074-jog-falls",
+   "passport": "KA",
+   "order": 74,
+   "state": "Karnataka",
+   "district": "Shivamogga",
+   "place": "Jog Falls",
+   "ppcTheme": "Jog Falls",
+   "ppcSince": "22.05.2025",
+   "guide": "Jog Falls, where the Sharavathi plunges about 250 m in four streams.",
+   "postOffice": "Jog Falls Post Office",
+   "postOfficeRank": "Jog Falls SO",
+   "officeType": "SO",
+   "pin": "577435",
+   "lat": 14.229298,
+   "lng": 74.812309,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of waterfall \"Jog Falls\" (osm:node/459795464) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/jog-falls/",
+    "ppc-list:praneethsaichunduru.github.io#292"
+   ]
+  },
+  {
+   "id": "ka-075-kavishaila-kuppalli",
+   "passport": "KA",
+   "order": 75,
+   "state": "Karnataka",
+   "district": "Shivamogga",
+   "place": "Kavishaila, Kuppalli",
+   "ppcTheme": "Kavi Shaila",
+   "ppcSince": "30.05.2025",
+   "guide": "Kavishaila at Kuppalli, the rock memorial to poet Kuvempu near his childhood home.",
+   "postOffice": "Devangi Post Office",
+   "postOfficeRank": "Devangi SO",
+   "officeType": "SO",
+   "pin": "577415",
+   "lat": 13.630228,
+   "lng": 75.282734,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Devangi\" (osm:node/1837354116) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kavishaila-kuppalli/",
+    "ppc-list:praneethsaichunduru.github.io#291"
+   ]
+  },
+  {
+   "id": "ka-076-kundadri-jain-shrine",
+   "passport": "KA",
+   "order": 76,
+   "state": "Karnataka",
+   "district": "Shivamogga",
+   "place": "Kundadri Jain Shrine",
+   "ppcTheme": "Kundadri Shri Parshwanatha Basadi",
+   "ppcSince": "13.11.2024",
+   "guide": "The Parshwanatha Basadi atop Kundadri hill, a quiet Jain shrine with sweeping views.",
+   "postOffice": "Kendalbailu Branch Post Office",
+   "postOfficeRank": "Kendalbailu BO",
+   "officeType": "BO",
+   "pin": "577411",
+   "lat": 13.6391,
+   "lng": 75.1149,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Kendalbailu\" in PIN 577411; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kundadri-jain-shrine/",
+    "ppc-list:praneethsaichunduru.github.io#290"
+   ]
+  },
+  {
+   "id": "ka-077-mandaragiri-pinchi-basadi",
+   "passport": "KA",
+   "order": 77,
+   "state": "Karnataka",
+   "district": "Tumakuru",
+   "place": "Mandaragiri Pinchi Basadi",
+   "ppcTheme": "Pinchi Basadi, Mandaragiri",
+   "ppcSince": "22.02.2020",
+   "guide": "Pinchi Basadi on Mandaragiri hill near Tumakuru, a Jain shrine shaped like a peacock-feather whisk.",
+   "postOffice": "Hirehalli Post Office",
+   "postOfficeRank": "Hirehalli SO",
+   "officeType": "SO",
+   "pin": "572168",
+   "lat": 13.280665,
+   "lng": 77.188783,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of railway \"Hirehalli\" (osm:node/389475413) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mandaragiri-pinchi-basadi/",
+    "ppc-list:praneethsaichunduru.github.io#258"
+   ]
+  },
+  {
+   "id": "ka-078-siddaganga-math",
+   "passport": "KA",
+   "order": 78,
+   "state": "Karnataka",
+   "district": "Tumakuru",
+   "place": "Siddaganga Math",
+   "ppcTheme": "His Holiness Sri Sivakumara Mahaswamiji",
+   "ppcSince": "21.02.2020",
+   "guide": "Dr Sri Shivakumara Swamiji of Siddaganga Math, revered for free education and food for children.",
+   "postOffice": "Siddaganga Mutt Post Office",
+   "postOfficeRank": "Siddaganga Mutt SO",
+   "officeType": "SO",
+   "pin": "572104",
+   "lat": 13.32056,
+   "lng": 77.149658,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of religious \"Siddaganga Mutt\" (osm:way/414067383) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/siddaganga-matha-landmark/",
+    "ppc-list:praneethsaichunduru.github.io#257"
+   ]
+  },
+  {
+   "id": "ka-079-k-shivarama-karanth-kota",
+   "passport": "KA",
+   "order": 79,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "K. Shivarama Karanth, Kota",
+   "ppcTheme": "Kota Shivarama Karanth",
+   "ppcSince": "30.05.2025",
+   "guide": "Dr K. Shivarama Karanth, polymath and Jnanpith-winning writer, born at Kota.",
+   "postOffice": "Kota Post Office",
+   "postOfficeRank": "Kota SO",
+   "officeType": "SO",
+   "pin": "576221",
+   "lat": 13.527529,
+   "lng": 74.704834,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Kota Post Office\" (osm:node/11968608291) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/shivarama-karanth-kota/",
+    "ppc-list:praneethsaichunduru.github.io#284"
+   ]
+  },
+  {
+   "id": "ka-080-karkala-jain-centre",
+   "passport": "KA",
+   "order": 80,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Karkala Jain Centre",
+   "ppcTheme": "Seated Tirthankara",
+   "ppcSince": "05.02.1991",
+   "guide": "A seated Tirthankara from Karkala, the Jain centre known for its hilltop Bahubali statue.",
+   "postOffice": "Karkala Head Post Office",
+   "postOfficeRank": "Karkala HO",
+   "officeType": "HO",
+   "pin": "574104",
+   "lat": 13.214541,
+   "lng": 74.995186,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Karkala\" (osm:node/245619070) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/karkala-gommateshwara-statue/",
+    "ppc-list:praneethsaichunduru.github.io#263"
+   ]
+  },
+  {
+   "id": "ka-081-kathale-basadi-barkur",
+   "passport": "KA",
+   "order": 81,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Kathale Basadi, Barkur",
+   "ppcTheme": "Kathale Basadi",
+   "ppcSince": "17.01.2015",
+   "guide": "Kathale Basadi at Barkur, a Jain temple from the old Tuluva capital.",
+   "postOffice": "Barkur Post Office",
+   "postOfficeRank": "Barkur SO",
+   "officeType": "SO",
+   "pin": "576210",
+   "lat": 13.477027,
+   "lng": 74.759868,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of railway \"Barkur\" (osm:node/2548066547) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kathale-basadi-barkur/",
+    "ppc-list:praneethsaichunduru.github.io#282"
+   ]
+  },
+  {
+   "id": "ka-082-kaup-lighthouse",
+   "passport": "KA",
+   "order": 82,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Kaup Lighthouse",
+   "ppcTheme": "Kaup Lighthouse",
+   "ppcSince": "20.08.2017",
+   "guide": "The Kaup lighthouse on a rocky Udupi beach, with sweeping views of the coast.",
+   "postOffice": "Kaup Post Office",
+   "postOfficeRank": "Kaup SO",
+   "officeType": "SO",
+   "pin": "574106",
+   "lat": 13.230676,
+   "lng": 74.748401,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Kapu\" (osm:node/867155742) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kaup-lighthouse/",
+    "ppc-list:praneethsaichunduru.github.io#265"
+   ]
+  },
+  {
+   "id": "ka-083-kollur-mookambika-temple",
+   "passport": "KA",
+   "order": 83,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Kollur Mookambika Temple",
+   "ppcTheme": "Sri Mookambika Temple, Kollur",
+   "ppcSince": "13.11.2002",
+   "guide": "Sri Mookambika Temple at Kollur, at the foot of Kodachadri hill.",
+   "postOffice": "Kollur Post Office",
+   "postOfficeRank": "Kollur SO",
+   "officeType": "SO",
+   "pin": "576220",
+   "lat": 13.862691,
+   "lng": 74.810873,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Post Office, Kolluru\" (osm:way/205016761) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/kollur-mookambika-temple/",
+    "ppc-list:praneethsaichunduru.github.io#283"
+   ]
+  },
+  {
+   "id": "ka-084-mahakavi-muddana-nandalike",
+   "passport": "KA",
+   "order": 84,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Mahakavi Muddana, Nandalike",
+   "ppcTheme": "Kavi Muddana & Manorame",
+   "ppcSince": "24.01.2015",
+   "guide": "Poet Muddana and his work 'Ramashwamedham', told as a dialogue with his wife Manorame.",
+   "postOffice": "Nandalike Branch Post Office",
+   "postOfficeRank": "Nandalike BO",
+   "officeType": "BO",
+   "pin": "576111",
+   "lat": 13.186343,
+   "lng": 74.874315,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of hamlet \"Nandalike\" (osm:node/6369725395) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/muddana-nandalike/",
+    "ppc-list:praneethsaichunduru.github.io#278"
+   ]
+  },
+  {
+   "id": "ka-085-mandarthi-durgaparameshwari-temple",
+   "passport": "KA",
+   "order": 85,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Mandarthi Durgaparameshwari Temple",
+   "ppcTheme": "Yakshagana of Mandarthi",
+   "ppcSince": "14.10.2005",
+   "guide": "Yakshagana of Mandarthi, the coastal dance-drama tradition linked to the Durgaparameshwari Temple.",
+   "postOffice": "Mandarthi Post Office",
+   "postOfficeRank": "Mandarthi SO",
+   "officeType": "SO",
+   "pin": "576223",
+   "lat": 13.496153,
+   "lng": 74.811286,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Mandarthi Post Office\" (osm:node/11951689943) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mandarthi-durgaparameshwari-temple/",
+    "ppc-list:praneethsaichunduru.github.io#285"
+   ]
+  },
+  {
+   "id": "ka-086-manipal-venugopal-temple",
+   "passport": "KA",
+   "order": 86,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Manipal Venugopal Temple",
+   "ppcTheme": "Sri Venugopala Swamy Temple",
+   "ppcSince": "04.12.1988",
+   "guide": "Sri Venugopala Swamy Temple in Manipal.",
+   "postOffice": "Manipal Head Post Office",
+   "postOfficeRank": "Manipal HO",
+   "officeType": "HO",
+   "pin": "576104",
+   "lat": 13.348958,
+   "lng": 74.785982,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Manipal Post Office\" (osm:way/408570404) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/manipal-venugopal-temple/",
+    "ppc-list:praneethsaichunduru.github.io#276"
+   ]
+  },
+  {
+   "id": "ka-087-mattu-gulla-brinjal-katapadi",
+   "passport": "KA",
+   "order": 87,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Mattu Gulla Brinjal, Katapadi",
+   "ppcTheme": "Mattu Gulla",
+   "ppcSince": "26.11.2024",
+   "guide": "Mattu Gulla, the GI-tagged green brinjal grown at Mattu village near Katapadi.",
+   "postOffice": "Katapadi Post Office",
+   "postOfficeRank": "Katapadi SO",
+   "officeType": "SO",
+   "pin": "574105",
+   "lat": 13.2704,
+   "lng": 74.739,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Katapadi(Udupi)\" in PIN 574105; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/mattu-gulla-katapadi/",
+    "ppc-list:praneethsaichunduru.github.io#264"
+   ]
+  },
+  {
+   "id": "ka-088-panchagangavali-river-kundapura",
+   "passport": "KA",
+   "order": 88,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Panchagangavali River, Kundapura",
+   "ppcTheme": "Panchagangavali",
+   "ppcSince": "23.05.2025",
+   "guide": "The Panchagangavali, where five rivers meet near Kundapura.",
+   "postOffice": "Kundapura Head Post Office",
+   "postOfficeRank": "Kundapura HO",
+   "officeType": "HO",
+   "pin": "576201",
+   "lat": 13.613374,
+   "lng": 74.728686,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of railway \"Kundapura\" (osm:node/1716178626) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/panchagangavali-kundapura/",
+    "ppc-list:praneethsaichunduru.github.io#281"
+   ]
+  },
+  {
+   "id": "ka-089-shankarapura-jasmine",
+   "passport": "KA",
+   "order": 89,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Shankarapura Jasmine",
+   "ppcTheme": "Shankarpura Mallige",
+   "ppcSince": "26.11.2024",
+   "guide": "Shankarapura Mallige, the fragrant GI-tagged jasmine of Udupi.",
+   "postOffice": "Shankarapura Post Office",
+   "postOfficeRank": "Shankarpura SO",
+   "officeType": "SO",
+   "pin": "574115",
+   "lat": 13.1846,
+   "lng": 74.9134,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Shankarapura\" in PIN 574115; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/shankarapura-jasmine/",
+    "ppc-list:praneethsaichunduru.github.io#267"
+   ]
+  },
+  {
+   "id": "ka-090-someshwara-wildlife-sanctuary",
+   "passport": "KA",
+   "order": 90,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Someshwara Wildlife Sanctuary",
+   "ppcTheme": "Indian Spotted Chevrotain (Mouse Deer)",
+   "ppcSince": "31.07.2020",
+   "guide": "The Indian spotted chevrotain (mouse deer) of the Someshwara Wildlife Sanctuary.",
+   "postOffice": "Someshwara Branch Post Office",
+   "postOfficeRank": "Someshwara BO",
+   "officeType": "BO",
+   "pin": "576112",
+   "lat": 13.490766,
+   "lng": 75.067528,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Someshwara\" (osm:node/245621919) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/someshwara-wildlife-sanctuary/",
+    "ppc-list:praneethsaichunduru.github.io#279"
+   ]
+  },
+  {
+   "id": "ka-091-st-lawrence-basilica-attur",
+   "passport": "KA",
+   "order": 91,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "St Lawrence Basilica, Attur",
+   "ppcTheme": "St. Lawrence Minor Basilica",
+   "ppcSince": "18.01.2018",
+   "guide": "St Lawrence Minor Basilica at Attur, Karkala, a much-loved shrine for people of all faiths.",
+   "postOffice": "Attur Branch Post Office",
+   "postOfficeRank": "Attur BO",
+   "officeType": "BO",
+   "pin": "576117",
+   "lat": 13.204694,
+   "lng": 74.972921,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of water \"Miraculous Attur Pond\" (osm:way/1177107983) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/attur-st-lawrence-basilica/",
+    "ppc-list:praneethsaichunduru.github.io#280"
+   ]
+  },
+  {
+   "id": "ka-092-st-mary-s-islands-malpe",
+   "passport": "KA",
+   "order": 92,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "St. Mary's Islands, Malpe",
+   "ppcTheme": "St. Mary’s Islands",
+   "ppcSince": "17.01.2015",
+   "guide": "St Mary's Islands off Malpe, known for their hexagonal columnar basalt.",
+   "postOffice": "Malpe Post Office",
+   "postOfficeRank": "Malpe SO",
+   "officeType": "SO",
+   "pin": "576108",
+   "lat": 13.350742,
+   "lng": 74.703691,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of suburb \"Malpe\" (osm:node/672742464) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/malpe-st-mary-s-island/",
+    "ppc-list:praneethsaichunduru.github.io#277"
+   ]
+  },
+  {
+   "id": "ka-093-udupi-sri-krishna-mutt",
+   "passport": "KA",
+   "order": 93,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Udupi Sri Krishna Mutt",
+   "ppcTheme": "Deity of Sri Krishna",
+   "ppcSince": "14.01.1985",
+   "guide": "The deity of Sri Krishna at the Udupi Krishna Matha, seen through the Kanakana Kindi window.",
+   "postOffice": "Udupi Head Post Office",
+   "postOfficeRank": "Udupi HO",
+   "officeType": "HO",
+   "pin": "576101",
+   "lat": 13.341917,
+   "lng": 74.747323,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Udupi\" (osm:node/245620117) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/udupi-sri-krishna-mutt/",
+    "ppc-list:praneethsaichunduru.github.io#275"
+   ]
+  },
+  {
+   "id": "ka-094-varanga-kere-basadi",
+   "passport": "KA",
+   "order": 94,
+   "state": "Karnataka",
+   "district": "Udupi",
+   "place": "Varanga Kere Basadi",
+   "ppcTheme": "Kere Basadi",
+   "ppcSince": "05.01.2024",
+   "guide": "Kere Basadi, the Jain temple that sits in the middle of a lake at Varanga.",
+   "postOffice": "Varanga Branch Post Office",
+   "postOfficeRank": "Varanga BO",
+   "officeType": "BO",
+   "pin": "574108",
+   "lat": 13.395931,
+   "lng": 75.003662,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Varanga\" (osm:node/1930311401) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/varanga-kere-basadi/",
+    "ppc-list:praneethsaichunduru.github.io#266"
+   ]
+  },
+  {
+   "id": "ka-095-manjuguni-venkataramana-temple",
+   "passport": "KA",
+   "order": 95,
+   "state": "Karnataka",
+   "district": "Uttara Kannada",
+   "place": "Manjuguni Venkataramana Temple",
+   "ppcTheme": "Symbols of Sri Venkataramana Temple",
+   "ppcSince": "17.12.2017",
+   "guide": "Symbols of the Venkataramana Temple at Manjuguni, the 'Tirupati of Karnataka'.",
+   "postOffice": "Manjuguni Branch Post Office",
+   "postOfficeRank": "Manjuguni BO",
+   "officeType": "BO",
+   "pin": "581315",
+   "lat": 14.604329,
+   "lng": 74.295729,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Manjuguni\" (osm:node/2505798786) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/manjuguni-venkataramana-temple/",
+    "ppc-list:praneethsaichunduru.github.io#299"
+   ]
+  },
+  {
+   "id": "ka-096-murudeshwar-shiva-statue",
+   "passport": "KA",
+   "order": 96,
+   "state": "Karnataka",
+   "district": "Uttara Kannada",
+   "place": "Murudeshwar Shiva Statue",
+   "ppcTheme": "Lord Shiva",
+   "ppcSince": "16.12.2017",
+   "guide": "The giant Shiva statue at Murudeshwar, facing the Arabian Sea.",
+   "postOffice": "Murudeshwara Post Office",
+   "postOfficeRank": "Murudeshwar SO",
+   "officeType": "SO",
+   "pin": "581350",
+   "lat": 14.7941,
+   "lng": 74.6229,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 581350; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/murudeshwar-shiva-statue/",
+    "ppc-list:praneethsaichunduru.github.io#300"
+   ]
+  },
+  {
+   "id": "ka-097-daroji-sloth-bear-sanctuary",
+   "passport": "KA",
+   "order": 97,
+   "state": "Karnataka",
+   "district": "Vijayanagara",
+   "place": "Daroji Sloth Bear Sanctuary",
+   "ppcTheme": "Sloth Bear-Daroji Bear Sanctuary",
+   "ppcSince": "05.01.2011",
+   "guide": "The sloth bear of Daroji, India's first sloth bear sanctuary.",
+   "postOffice": "Kannada University Campus Post Office",
+   "postOfficeRank": "Kannada University Campus SO",
+   "officeType": "SO",
+   "pin": "583276",
+   "lat": 15.1096,
+   "lng": 76.5334,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 583276; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/daroji-sloth-bear-sanctuary/",
+    "ppc-list:praneethsaichunduru.github.io#312"
+   ]
+  },
+  {
+   "id": "ka-098-hampi-stone-chariot",
+   "passport": "KA",
+   "order": 98,
+   "state": "Karnataka",
+   "district": "Vijayanagara",
+   "place": "Hampi Stone Chariot",
+   "ppcTheme": "Stone Chariot",
+   "ppcSince": "02.01.1978",
+   "guide": "The Stone Chariot of the Vittala Temple at Hampi.",
+   "postOffice": "Hampi Post Office",
+   "postOfficeRank": "Hampi SO",
+   "officeType": "SO",
+   "pin": "583239",
+   "lat": 15.3358,
+   "lng": 76.46102,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Hampi\" (osm:node/345110048) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/hampi-stone-chariot/",
+    "ppc-list:praneethsaichunduru.github.io#311"
+   ]
+  },
+  {
+   "id": "ka-099-gol-gumbaz",
+   "passport": "KA",
+   "order": 99,
+   "state": "Karnataka",
+   "district": "Vijayapura",
+   "place": "Gol Gumbaz",
+   "ppcTheme": "Gol Gumbaz",
+   "ppcSince": "28.09.1987",
+   "guide": "Gol Gumbaz, the vast dome of Adil Shah's tomb with its famous whispering gallery.",
+   "postOffice": "Vijayapura Head Post Office",
+   "postOfficeRank": "Vijayapura HO",
+   "officeType": "HO",
+   "pin": "586101",
+   "lat": 16.826991,
+   "lng": 75.717539,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Vijayapura\" (osm:node/245638671) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/gol-gumbaz-whispering-gallery/",
+    "ppc-list:praneethsaichunduru.github.io#320"
+   ]
+  },
+  {
+   "id": "ka-100-bonal-bird-sanctuary",
+   "passport": "KA",
+   "order": 100,
+   "state": "Karnataka",
+   "district": "Yadgir",
+   "place": "Bonal Bird Sanctuary",
+   "ppcTheme": "Bonal Bird Sanctuary",
+   "ppcSince": "26.11.2024",
+   "guide": "Waterbirds of the Bonal Bird Sanctuary near Shorapur.",
+   "postOffice": "Bonal Branch Post Office",
+   "postOfficeRank": "Bonal BO",
+   "officeType": "BO",
+   "pin": "585224",
+   "lat": 16.5153,
+   "lng": 76.6556,
+   "booklet": {
+    "status": "listed",
+    "note": "Listed among the 100 Karnataka passport locations by an unofficial tracker; not verified against the printed booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "high",
+    "postOffice": "medium",
+    "pin": "high",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Bonal\" in PIN 585224; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ka-list:philatelypassport.web.app/cancellations/bonal-bird-sanctuary/",
+    "ppc-list:praneethsaichunduru.github.io#315"
+   ]
+  },
+  {
+   "id": "tn-001-chennai-general-post-office",
+   "passport": "TN",
+   "order": 1,
+   "state": "Tamil Nadu",
+   "district": "Chennai",
+   "place": "Chennai General Post Office",
+   "ppcTheme": "Chennai General Post Office",
+   "ppcSince": "06.02.2025",
+   "guide": "The Chennai GPO, an Indo-Saracenic landmark on Rajaji Salai completed in 1884.",
+   "postOffice": "Chennai GPO",
+   "postOfficeRank": "Chennai GPO",
+   "officeType": "GPO",
+   "pin": "600001",
+   "lat": 13.080091,
+   "lng": 80.280798,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (dtnext 13-Nov-2026). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Chennai\" (osm:relation/1766358) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#334"
+   ]
+  },
+  {
+   "id": "tn-002-anna-road-post-office-warwick-electric-t",
+   "passport": "TN",
+   "order": 2,
+   "state": "Tamil Nadu",
+   "district": "Chennai",
+   "place": "Anna Road Post Office (Warwick Electric Theatre)",
+   "ppcTheme": "Anna Road Post Office (Warwick Electric Theatre)",
+   "ppcSince": "31.03.1998",
+   "guide": "Warwick Electric Theatre (1913), said to be South India's first, now the Anna Road post office building; the Philatelic Bureau is here.",
+   "postOffice": "Anna Road HO",
+   "postOfficeRank": "Anna Road HO",
+   "officeType": "HO",
+   "pin": "600002",
+   "lat": 13.125312,
+   "lng": 80.155581,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (New Indian Express 17-Nov-2026; dtnext). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of residential \"Anna Road\" (osm:way/843855625) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#335"
+   ]
+  },
+  {
+   "id": "tn-003-punnai-leaves-and-peacock",
+   "passport": "TN",
+   "order": 3,
+   "state": "Tamil Nadu",
+   "district": "Chennai",
+   "place": "Punnai Leaves and Peacock",
+   "ppcTheme": "Punnai Leaves and Peacock",
+   "ppcSince": "14.11.1979",
+   "guide": "Punnai leaves and a peacock, symbols of Mylapore and its Kapaleeshwarar temple.",
+   "postOffice": "Mylapore HO",
+   "postOfficeRank": "Mylapore HO",
+   "officeType": "HO",
+   "pin": "600004",
+   "lat": 13.034302,
+   "lng": 80.271873,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (dtnext). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Mylapore\" (osm:way/208567682) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#336"
+   ]
+  },
+  {
+   "id": "tn-004-university-of-madras",
+   "passport": "TN",
+   "order": 4,
+   "state": "Tamil Nadu",
+   "district": "Chennai",
+   "place": "University of Madras",
+   "ppcTheme": "University of Madras",
+   "ppcSince": "11.10.2023",
+   "guide": "The University of Madras, founded in 1857, and its Senate House.",
+   "postOffice": "Madras University SO",
+   "postOfficeRank": "Madras University SO",
+   "officeType": "SO",
+   "pin": "600005",
+   "lat": 12.994156,
+   "lng": 80.236683,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (dtnext). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of amenity \"Indian Institute of Technology - Madras\" (osm:way/24730814) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#337"
+   ]
+  },
+  {
+   "id": "tn-005-pulicat-lighthouse",
+   "passport": "TN",
+   "order": 5,
+   "state": "Tamil Nadu",
+   "district": "Thiruvallur",
+   "place": "Pulicat Lighthouse",
+   "ppcTheme": "Pulicat Lighthouse",
+   "ppcSince": "21.08.2021",
+   "guide": "The Pulicat lighthouse beside the Pulicat lagoon.",
+   "postOffice": "Pulicat SO",
+   "postOfficeRank": "Pulicat SO",
+   "officeType": "SO",
+   "pin": "601205",
+   "lat": 13.417661,
+   "lng": 80.31667,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (TNC 31-Oct-2026 (Pulicat)). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Pulicat\" (osm:node/322481124) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#338"
+   ]
+  },
+  {
+   "id": "tn-006-shore-temple",
+   "passport": "TN",
+   "order": 6,
+   "state": "Tamil Nadu",
+   "district": "Chengalpattu",
+   "place": "Shore Temple",
+   "ppcTheme": "Shore Temple",
+   "ppcSince": "01.01.1965",
+   "guide": "The Shore Temple at Mamallapuram, an 8th-century Pallava temple by the sea.",
+   "postOffice": "Mamallapuram SO",
+   "postOfficeRank": "Mamallapuram SO",
+   "officeType": "SO",
+   "pin": "603104",
+   "lat": 12.619598,
+   "lng": 80.19365,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Mahabalipuram\" (osm:node/6187308686) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#339"
+   ]
+  },
+  {
+   "id": "tn-007-painted-stork",
+   "passport": "TN",
+   "order": 7,
+   "state": "Tamil Nadu",
+   "district": "Chengalpattu",
+   "place": "Painted Stork",
+   "ppcTheme": "Painted Stork",
+   "ppcSince": "03.06.1974",
+   "guide": "Painted storks of Vedanthangal, one of India's oldest bird sanctuaries.",
+   "postOffice": "Vedanthangal BO",
+   "postOfficeRank": "Vedanthangal BO",
+   "officeType": "BO",
+   "pin": "603314",
+   "lat": 12.560854,
+   "lng": 79.86184,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Vedanthangal\" (osm:node/469112052) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#340"
+   ]
+  },
+  {
+   "id": "tn-008-gingee-fort",
+   "passport": "TN",
+   "order": 8,
+   "state": "Tamil Nadu",
+   "district": "Villupuram",
+   "place": "Gingee Fort",
+   "ppcTheme": "Gingee Fort",
+   "ppcSince": "29.12.1979",
+   "guide": "Gingee Fort, the hilltop citadel once called the 'Troy of the East'.",
+   "postOffice": "Gingee SO",
+   "postOfficeRank": "Gingee SO",
+   "officeType": "SO",
+   "pin": "604202",
+   "lat": 12.108994,
+   "lng": 79.246211,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (dtnext (Gingee Fort)). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of amenity \"State Bank of India\" (osm:node/2156886933) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#341"
+   ]
+  },
+  {
+   "id": "tn-009-aayi-mandapam",
+   "passport": "TN",
+   "order": 9,
+   "state": "Puducherry",
+   "district": "Puducherry",
+   "place": "Aayi Mandapam",
+   "ppcTheme": "Aayi Mandapam",
+   "ppcSince": "13.03.1998",
+   "guide": "Aayi Mandapam in Bharathi Park, Puducherry.",
+   "postOffice": "Pondicherry HO-PB",
+   "postOfficeRank": "Pondicherry HO-PB",
+   "officeType": "HO",
+   "pin": "605001",
+   "lat": 11.934057,
+   "lng": 79.830645,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (dtnext (Puducherry HO)). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Puducherry\" (osm:node/245600130) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#391"
+   ]
+  },
+  {
+   "id": "tn-010-logo-of-sri-aurobindo-ashram-and-the-mot",
+   "passport": "TN",
+   "order": 10,
+   "state": "Puducherry",
+   "district": "Puducherry",
+   "place": "Logo of Sri Aurobindo Ashram and The Mother",
+   "ppcTheme": "Logo of Sri Aurobindo Ashram and The Mother",
+   "ppcSince": "15.08.2013",
+   "guide": "The emblem of Sri Aurobindo and The Mother, Puducherry.",
+   "postOffice": "Sri Aurobindo Ashram SO",
+   "postOfficeRank": "Sri Aurobindo Ashram SO",
+   "officeType": "SO",
+   "pin": "605002",
+   "lat": 11.936804,
+   "lng": 79.83429,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of religious \"Sri Aurobindo Ashram\" (osm:way/283536972) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#392"
+   ]
+  },
+  {
+   "id": "tn-011-oil-lamp",
+   "passport": "TN",
+   "order": 11,
+   "state": "Tamil Nadu",
+   "district": "Tiruvannamalai",
+   "place": "Oil Lamp",
+   "ppcTheme": "Oil Lamp",
+   "ppcSince": "12.12.1997",
+   "guide": "The oil lamp of the Karthigai Deepam festival at Tiruvannamalai.",
+   "postOffice": "Tiruvannamalai HO",
+   "postOfficeRank": "Tiruvannamalai HO",
+   "officeType": "HO",
+   "pin": "606601",
+   "lat": 12.234323,
+   "lng": 79.076199,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Tiruvannamalai\" (osm:way/84649892) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#342"
+   ]
+  },
+  {
+   "id": "tn-012-logo-of-sri-ramanasramam",
+   "passport": "TN",
+   "order": 12,
+   "state": "Tamil Nadu",
+   "district": "Tiruvannamalai",
+   "place": "Logo of Sri Ramanasramam",
+   "ppcTheme": "Logo of Sri Ramanasramam",
+   "ppcSince": "01.09.2014",
+   "guide": "Sri Ramanasramam, the ashram of Ramana Maharshi.",
+   "postOffice": "Sri Ramanasramam SO",
+   "postOfficeRank": "Sri Ramanasramam SO",
+   "officeType": "SO",
+   "pin": "606603",
+   "lat": 12.2607,
+   "lng": 79.0515,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 606603; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#343"
+   ]
+  },
+  {
+   "id": "tn-013-sathya-gnana-sabha",
+   "passport": "TN",
+   "order": 13,
+   "state": "Tamil Nadu",
+   "district": "Cuddalore",
+   "place": "Sathya Gnana Sabha",
+   "ppcTheme": "Sathya Gnana Sabha",
+   "ppcSince": "30.01.1999",
+   "guide": "The Sathya Gnana Sabha at Vadalur, founded by Saint Ramalinga Vallalar.",
+   "postOffice": "Vadalur SO",
+   "postOfficeRank": "Vadalur SO",
+   "officeType": "SO",
+   "pin": "607303",
+   "lat": 11.555187,
+   "lng": 79.555067,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Vadalur\" (osm:node/6316093497) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#344"
+   ]
+  },
+  {
+   "id": "tn-014-lord-nataraja",
+   "passport": "TN",
+   "order": 14,
+   "state": "Tamil Nadu",
+   "district": "Cuddalore",
+   "place": "Lord Nataraja",
+   "ppcTheme": "Lord Nataraja",
+   "ppcSince": "12.01.2025",
+   "guide": "Lord Nataraja of the Chidambaram temple.",
+   "postOffice": "Chidambaram HO",
+   "postOfficeRank": "Chidambaram HO",
+   "officeType": "HO",
+   "pin": "608001",
+   "lat": 11.40295,
+   "lng": 79.692252,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Chidambaram Head Post Office\" (osm:node/3206090441) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#345"
+   ]
+  },
+  {
+   "id": "tn-015-pichavaram-mangrove-forest",
+   "passport": "TN",
+   "order": 15,
+   "state": "Tamil Nadu",
+   "district": "Cuddalore",
+   "place": "Pichavaram Mangrove Forest",
+   "ppcTheme": "Pichavaram Mangrove Forest",
+   "ppcSince": "26.07.2024",
+   "guide": "The Pichavaram mangrove forest and its waterways.",
+   "postOffice": "Killai SO",
+   "postOfficeRank": "Killai SO",
+   "officeType": "SO",
+   "pin": "608102",
+   "lat": 11.447803,
+   "lng": 79.767997,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Killai\" (osm:node/1669869309) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#346"
+   ]
+  },
+  {
+   "id": "tn-016-thyagarajaswamy-temple-chariot",
+   "passport": "TN",
+   "order": 16,
+   "state": "Tamil Nadu",
+   "district": "Tiruvarur",
+   "place": "Thyagarajaswamy Temple Chariot",
+   "ppcTheme": "Thyagarajaswamy Temple Chariot",
+   "ppcSince": "14.10.1989",
+   "guide": "The giant temple chariot of Tiruvarur Thyagarajaswamy temple.",
+   "postOffice": "Tiruvarur HO",
+   "postOfficeRank": "Tiruvarur HO",
+   "officeType": "HO",
+   "pin": "610001",
+   "lat": 10.774598,
+   "lng": 79.627972,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of amenity \"Tiruvarur Medical Centre\" (osm:node/7252225833) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#347"
+   ]
+  },
+  {
+   "id": "tn-017-dargah-sharif",
+   "passport": "TN",
+   "order": 17,
+   "state": "Tamil Nadu",
+   "district": "Nagapattinam",
+   "place": "Dargah Sharif",
+   "ppcTheme": "Dargah Sharif",
+   "ppcSince": "08.10.1976",
+   "guide": "The Nagore Dargah, shrine of Hazrat Syed Shahul Hameed.",
+   "postOffice": "Nagore SO",
+   "postOfficeRank": "Nagore SO",
+   "officeType": "SO",
+   "pin": "611002",
+   "lat": 10.816698,
+   "lng": 79.840364,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Nagore\" (osm:node/985507397) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#348"
+   ]
+  },
+  {
+   "id": "tn-018-shrine-basilica-of-mother-mary",
+   "passport": "TN",
+   "order": 18,
+   "state": "Tamil Nadu",
+   "district": "Nagapattinam",
+   "place": "Shrine Basilica of Mother Mary",
+   "ppcTheme": "Shrine Basilica of Mother Mary",
+   "ppcSince": "29.11.1976",
+   "guide": "The Basilica of Our Lady of Good Health at Velankanni.",
+   "postOffice": "Vailankanni SO",
+   "postOfficeRank": "Vailankanni SO",
+   "officeType": "SO",
+   "pin": "611111",
+   "lat": 10.68024,
+   "lng": 79.849567,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of amenity \"Shrine Basilica of Our Lady of Health Vailankanni\" (osm:way/672541959) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#349"
+   ]
+  },
+  {
+   "id": "tn-019-pranava-mantra-vel-of-lord-murugan",
+   "passport": "TN",
+   "order": 19,
+   "state": "Tamil Nadu",
+   "district": "Thanjavur",
+   "place": "Pranava Mantra & Vel of Lord Murugan",
+   "ppcTheme": "Pranava Mantra & Vel of Lord Murugan",
+   "ppcSince": "30.05.2026",
+   "guide": "Pranava mantra and Vel at Swamimalai, one of Murugan's six abodes.",
+   "postOffice": "Swamimalai SO",
+   "postOfficeRank": "Swamimalai SO",
+   "officeType": "SO",
+   "pin": "612302",
+   "lat": 10.956686,
+   "lng": 79.32604,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Swamimalai\" (osm:node/1207479981) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#350"
+   ]
+  },
+  {
+   "id": "tn-020-bull-and-elephant-sculpture",
+   "passport": "TN",
+   "order": 20,
+   "state": "Tamil Nadu",
+   "district": "Thanjavur",
+   "place": "Bull and Elephant Sculpture",
+   "ppcTheme": "Bull and Elephant Sculpture",
+   "ppcSince": "09.10.2024",
+   "guide": "The bull-elephant illusion sculpture of the Airavatesvara temple, Darasuram.",
+   "postOffice": "Darasuram SO",
+   "postOfficeRank": "Darasuram SO",
+   "officeType": "SO",
+   "pin": "612702",
+   "lat": 10.944634,
+   "lng": 79.356271,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of railway \"Darasuram\" (osm:node/5300821191) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#351"
+   ]
+  },
+  {
+   "id": "tn-021-great-nandi",
+   "passport": "TN",
+   "order": 21,
+   "state": "Tamil Nadu",
+   "district": "Ariyalur",
+   "place": "Great Nandi",
+   "ppcTheme": "Great Nandi",
+   "ppcSince": "09.10.2024",
+   "guide": "The great Nandi of Gangaikonda Cholapuram.",
+   "postOffice": "Gangaikondacholapuram SO",
+   "postOfficeRank": "Gangaikondacholapuram SO",
+   "officeType": "SO",
+   "pin": "612901",
+   "lat": 11.207535,
+   "lng": 79.449093,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Gangaikondacholapuram\" (osm:node/1192534130) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#352"
+   ]
+  },
+  {
+   "id": "tn-022-brihadeeswara-swamy-temple",
+   "passport": "TN",
+   "order": 22,
+   "state": "Tamil Nadu",
+   "district": "Thanjavur",
+   "place": "Brihadeeswara Swamy Temple",
+   "ppcTheme": "Brihadeeswara Swamy Temple",
+   "ppcSince": "10.12.1974",
+   "guide": "The Brihadeeswara Temple, Thanjavur, built by Rajaraja Chola I.",
+   "postOffice": "Thanjavur HO",
+   "postOfficeRank": "Thanjavur HO",
+   "officeType": "HO",
+   "pin": "613001",
+   "lat": 10.778645,
+   "lng": 79.140871,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Head Post Office, Thanjavur\" (osm:node/671862060) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#353"
+   ]
+  },
+  {
+   "id": "tn-023-kallanai-the-grand-anicut",
+   "passport": "TN",
+   "order": 23,
+   "state": "Tamil Nadu",
+   "district": "Thanjavur",
+   "place": "Kallanai - The Grand Anicut",
+   "ppcTheme": "Kallanai - The Grand Anicut",
+   "ppcSince": "15.08.2025",
+   "guide": "Kallanai, the Grand Anicut across the Kaveri, attributed to Karikala Chola.",
+   "postOffice": "Thogur SO",
+   "postOfficeRank": "Thogur SO",
+   "officeType": "SO",
+   "pin": "613102",
+   "lat": 10.830334,
+   "lng": 78.811069,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Thogur\" (osm:node/9375019794) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#354"
+   ]
+  },
+  {
+   "id": "tn-024-saint-tyagaraja",
+   "passport": "TN",
+   "order": 24,
+   "state": "Tamil Nadu",
+   "district": "Thanjavur",
+   "place": "Saint Tyagaraja",
+   "ppcTheme": "Saint Tyagaraja",
+   "ppcSince": "20.01.1976",
+   "guide": "Saint Tyagaraja, composer of Carnatic music, honoured at Thiruvaiyaru.",
+   "postOffice": "Thiruvaiyaru SO",
+   "postOfficeRank": "Thiruvaiyaru SO",
+   "officeType": "SO",
+   "pin": "613204",
+   "lat": 10.87972,
+   "lng": 79.10393,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Thiruvaiyaru\" (osm:node/885541408) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#355"
+   ]
+  },
+  {
+   "id": "tn-025-flamingo",
+   "passport": "TN",
+   "order": 25,
+   "state": "Tamil Nadu",
+   "district": "Nagapattinam",
+   "place": "Flamingo",
+   "ppcTheme": "Flamingo",
+   "ppcSince": "02.12.1977",
+   "guide": "Flamingos of Point Calimere (Kodikkarai).",
+   "postOffice": "Kodikkarai SO",
+   "postOfficeRank": "Kodikkarai SO",
+   "officeType": "SO",
+   "pin": "614807",
+   "lat": 10.8494,
+   "lng": 79.7389,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 614807; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#356"
+   ]
+  },
+  {
+   "id": "tn-026-rock-fort",
+   "passport": "TN",
+   "order": 26,
+   "state": "Tamil Nadu",
+   "district": "Tiruchirappalli",
+   "place": "Rock Fort",
+   "ppcTheme": "Rock Fort",
+   "ppcSince": "17.12.1974",
+   "guide": "The Rockfort of Tiruchirappalli.",
+   "postOffice": "Tiruchirappalli PB",
+   "postOfficeRank": "Tiruchirappalli PB",
+   "officeType": null,
+   "pin": "620001",
+   "lat": 10.807114,
+   "lng": 78.688094,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "missing",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Tiruchirappalli\" (osm:relation/10318360) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#357"
+   ]
+  },
+  {
+   "id": "tn-027-adiseshan-of-lord-ranganatha",
+   "passport": "TN",
+   "order": 27,
+   "state": "Tamil Nadu",
+   "district": "Tiruchirappalli",
+   "place": "Adiseshan of Lord Ranganatha",
+   "ppcTheme": "Adiseshan of Lord Ranganatha",
+   "ppcSince": "17.01.1981",
+   "guide": "Adiseshan, serpent bed of Lord Ranganatha at Srirangam.",
+   "postOffice": "Srirangam HO",
+   "postOfficeRank": "Srirangam HO",
+   "officeType": "HO",
+   "pin": "620006",
+   "lat": 10.857331,
+   "lng": 78.693085,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of suburb \"Srirangam\" (osm:node/367564056) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#358"
+   ]
+  },
+  {
+   "id": "tn-028-sri-ramanathaswamy-temple-corridor",
+   "passport": "TN",
+   "order": 28,
+   "state": "Tamil Nadu",
+   "district": "Ramanathapuram",
+   "place": "Sri Ramanathaswamy Temple Corridor",
+   "ppcTheme": "Sri Ramanathaswamy Temple Corridor",
+   "ppcSince": "07.03.1978",
+   "guide": "The long corridors of the Ramanathaswamy temple, Rameswaram.",
+   "postOffice": "Rameswaram SO",
+   "postOfficeRank": "Rameswaram SO",
+   "officeType": "SO",
+   "pin": "623526",
+   "lat": 9.4401,
+   "lng": 78.6733,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Rameswaram Road\" in PIN 623526; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#359"
+   ]
+  },
+  {
+   "id": "tn-029-kodaikanal-observatory",
+   "passport": "TN",
+   "order": 29,
+   "state": "Tamil Nadu",
+   "district": "Dindigul",
+   "place": "Kodaikanal Observatory",
+   "ppcTheme": "Kodaikanal Observatory",
+   "ppcSince": "05.09.1979",
+   "guide": "The Kodaikanal Solar Observatory, founded in 1899.",
+   "postOffice": "Kodaikanal SO",
+   "postOfficeRank": "Kodaikanal SO",
+   "officeType": "SO",
+   "pin": "624101",
+   "lat": 10.236237,
+   "lng": 77.494642,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Kodaikanal S.O\" (osm:node/1168847666) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#360"
+   ]
+  },
+  {
+   "id": "tn-030-decorated-kavadi-with-vel-spear-and-peac",
+   "passport": "TN",
+   "order": 30,
+   "state": "Tamil Nadu",
+   "district": "Dindigul",
+   "place": "Decorated Kavadi with Vel (Spear) and Peacock Feather of Lord Murugan",
+   "ppcTheme": "Decorated Kavadi with Vel (Spear) and Peacock Feather of Lord Murugan",
+   "ppcSince": "08.09.1978",
+   "guide": "The kavadi, Vel and peacock feather of Palani Murugan.",
+   "postOffice": "Palani HO",
+   "postOfficeRank": "Palani HO",
+   "officeType": "HO",
+   "pin": "624601",
+   "lat": 10.452326,
+   "lng": 77.515108,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Palani Head Post Office\" (osm:node/1771171089) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#361"
+   ]
+  },
+  {
+   "id": "tn-031-flag-of-pandya-dynasty-with-aquarius-emb",
+   "passport": "TN",
+   "order": 31,
+   "state": "Tamil Nadu",
+   "district": "Madurai",
+   "place": "Flag of Pandya Dynasty with Aquarius Emblem",
+   "ppcTheme": "Flag of Pandya Dynasty with Aquarius Emblem",
+   "ppcSince": "06.09.1981",
+   "guide": "The Pandya flag with the fish emblem, from Madurai.",
+   "postOffice": "Madurai HO",
+   "postOfficeRank": "Madurai HO",
+   "officeType": "HO",
+   "pin": "625001",
+   "lat": 9.926115,
+   "lng": 78.114098,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Madurai\" (osm:relation/11268397) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#362"
+   ]
+  },
+  {
+   "id": "tn-032-meenakshi-amman-temple",
+   "passport": "TN",
+   "order": 32,
+   "state": "Tamil Nadu",
+   "district": "Madurai",
+   "place": "Meenakshi Amman Temple",
+   "ppcTheme": "Meenakshi Amman Temple",
+   "ppcSince": "28.04.2017",
+   "guide": "Meenakshi Amman Temple, Madurai.",
+   "postOffice": "Madurai Bazaar SO",
+   "postOfficeRank": "Madurai Bazaar SO",
+   "officeType": "SO",
+   "pin": "625001",
+   "lat": 9.92064,
+   "lng": 78.118566,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of tourism \"Madurai. Bazaar\" (osm:node/9859758919) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#363"
+   ]
+  },
+  {
+   "id": "tn-033-rajagopuram-of-arulmigu-subramaniya-swam",
+   "passport": "TN",
+   "order": 33,
+   "state": "Tamil Nadu",
+   "district": "Madurai",
+   "place": "Rajagopuram of Arulmigu Subramaniya Swamy Temple",
+   "ppcTheme": "Rajagopuram of Arulmigu Subramaniya Swamy Temple",
+   "ppcSince": "30.05.2026",
+   "guide": "The rajagopuram of the Thiruparankundram Murugan temple.",
+   "postOffice": "Thiruparankundram SO",
+   "postOfficeRank": "Thiruparankundram SO",
+   "officeType": "SO",
+   "pin": "625005",
+   "lat": 9.876329,
+   "lng": 78.071195,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of bare_rock \"Thiruparankundram\" (osm:way/807725225) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#364"
+   ]
+  },
+  {
+   "id": "tn-034-lord-murugan-of-pazhamudircholai-avvaiya",
+   "passport": "TN",
+   "order": 34,
+   "state": "Tamil Nadu",
+   "district": "Madurai",
+   "place": "Lord Murugan of Pazhamudircholai & Avvaiyar",
+   "ppcTheme": "Lord Murugan of Pazhamudircholai & Avvaiyar",
+   "ppcSince": "30.05.2026",
+   "guide": "Murugan of Pazhamudircholai and the poet Avvaiyar.",
+   "postOffice": "Alagarkovil SO",
+   "postOfficeRank": "Alagarkovil SO",
+   "officeType": "SO",
+   "pin": "625301",
+   "lat": 10.06844,
+   "lng": 78.215709,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Alagarkovil\" (osm:node/315046026) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#365"
+   ]
+  },
+  {
+   "id": "tn-035-lion-tailed-macaque",
+   "passport": "TN",
+   "order": 35,
+   "state": "Tamil Nadu",
+   "district": "Tirunelveli",
+   "place": "Lion Tailed Macaque",
+   "ppcTheme": "Lion Tailed Macaque",
+   "ppcSince": "03.10.1978",
+   "guide": "The lion-tailed macaque of the Kalakad-Mundanthurai Tiger Reserve.",
+   "postOffice": "Kalakad SO",
+   "postOfficeRank": "Kalakad SO",
+   "officeType": "SO",
+   "pin": "627501",
+   "lat": 8.500806,
+   "lng": 77.617435,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of primary \"Nanguneri - Kalakad Road\" (osm:way/548612227) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#366"
+   ]
+  },
+  {
+   "id": "tn-036-courtallam-waterfalls",
+   "passport": "TN",
+   "order": 36,
+   "state": "Tamil Nadu",
+   "district": "Tenkasi",
+   "place": "Courtallam Waterfalls",
+   "ppcTheme": "Courtallam Waterfalls",
+   "ppcSince": "01.08.1977",
+   "guide": "The Courtallam (Kuttalam) waterfalls.",
+   "postOffice": "Courtallam SO",
+   "postOfficeRank": "Courtallam SO",
+   "officeType": "SO",
+   "pin": "627802",
+   "lat": 8.932883,
+   "lng": 77.271463,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Courtallam\" (osm:node/353064240) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#367"
+   ]
+  },
+  {
+   "id": "tn-037-manapad-lighthouse",
+   "passport": "TN",
+   "order": 37,
+   "state": "Tamil Nadu",
+   "district": "Thoothukudi",
+   "place": "Manapad Lighthouse",
+   "ppcTheme": "Manapad Lighthouse",
+   "ppcSince": "05.01.2017",
+   "guide": "The Manapad lighthouse on the Thoothukudi coast.",
+   "postOffice": "Manapad SO",
+   "postOfficeRank": "Manapad SO",
+   "officeType": "SO",
+   "pin": "628209",
+   "lat": 8.376483,
+   "lng": 78.056134,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Manappadu\" (osm:node/5008899225) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#368"
+   ]
+  },
+  {
+   "id": "tn-038-arulmigu-subramaniya-swamy-temple-bay-of",
+   "passport": "TN",
+   "order": 38,
+   "state": "Tamil Nadu",
+   "district": "Thoothukudi",
+   "place": "Arulmigu Subramaniya Swamy Temple & Bay of Bengal",
+   "ppcTheme": "Arulmigu Subramaniya Swamy Temple & Bay of Bengal",
+   "ppcSince": "30.05.2026",
+   "guide": "The Tiruchendur Murugan temple by the Bay of Bengal.",
+   "postOffice": "Tiruchendur HO",
+   "postOfficeRank": "Tiruchendur HO",
+   "officeType": "HO",
+   "pin": "628215",
+   "lat": 8.495568,
+   "lng": 78.123324,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Tiruchendur\" (osm:node/3421197615) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#369"
+   ]
+  },
+  {
+   "id": "tn-039-mahakavi-subramanya-bharatiyar-face",
+   "passport": "TN",
+   "order": 39,
+   "state": "Tamil Nadu",
+   "district": "Thoothukudi",
+   "place": "Mahakavi Subramanya Bharatiyar Face",
+   "ppcTheme": "Mahakavi Subramanya Bharatiyar Face",
+   "ppcSince": "11.12.1991",
+   "guide": "Mahakavi Subramania Bharati, born at Ettayapuram.",
+   "postOffice": "Ettayapuram SO",
+   "postOfficeRank": "Ettayapuram SO",
+   "officeType": "SO",
+   "pin": "628902",
+   "lat": 9.180611,
+   "lng": 78.023053,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of county \"Ettayapuram\" (osm:relation/10311690) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#370"
+   ]
+  },
+  {
+   "id": "tn-040-mahakavi-subramanya-bharatiyar-manimanda",
+   "passport": "TN",
+   "order": 40,
+   "state": "Tamil Nadu",
+   "district": "Thoothukudi",
+   "place": "Mahakavi Subramanya Bharatiyar Manimandapam",
+   "ppcTheme": "Mahakavi Subramanya Bharatiyar Manimandapam",
+   "ppcSince": "11.12.1991",
+   "guide": "The Bharati Manimandapam memorial at Ettayapuram.",
+   "postOffice": "Ettayapuram SO",
+   "postOfficeRank": "Ettayapuram SO",
+   "officeType": "SO",
+   "pin": "628902",
+   "lat": 9.180611,
+   "lng": 78.023053,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of county \"Ettayapuram\" (osm:relation/10311690) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#371"
+   ]
+  },
+  {
+   "id": "tn-041-muttom-lighthouse",
+   "passport": "TN",
+   "order": 41,
+   "state": "Tamil Nadu",
+   "district": "Kanniyakumari",
+   "place": "Muttom Lighthouse",
+   "ppcTheme": "Muttom Lighthouse",
+   "ppcSince": "05.01.2017",
+   "guide": "The Muttom lighthouse on the Kanniyakumari coast.",
+   "postOffice": "Muttom SO",
+   "postOfficeRank": "Muttom SO",
+   "officeType": "SO",
+   "pin": "629202",
+   "lat": 8.124165,
+   "lng": 77.317108,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Muttom Post Office\" (osm:node/9094987453) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#372"
+   ]
+  },
+  {
+   "id": "tn-042-vivekananda-rock-memorial",
+   "passport": "TN",
+   "order": 42,
+   "state": "Tamil Nadu",
+   "district": "Kanniyakumari",
+   "place": "Vivekananda Rock Memorial",
+   "ppcTheme": "Vivekananda Rock Memorial",
+   "ppcSince": "21.11.1975",
+   "guide": "The Vivekananda Rock Memorial at Kanniyakumari.",
+   "postOffice": "Kanniyakumari SO",
+   "postOfficeRank": "Kanniyakumari SO",
+   "officeType": "SO",
+   "pin": "629702",
+   "lat": 8.087964,
+   "lng": 77.546741,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (TNC (Kanyakumari — could also be Muttom)). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of railway \"Kanniyakumari\" (osm:node/2595195129) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#373"
+   ]
+  },
+  {
+   "id": "tn-043-deities-of-deivanai-murugan-valli",
+   "passport": "TN",
+   "order": 43,
+   "state": "Tamil Nadu",
+   "district": "Thiruvallur",
+   "place": "Deities of Deivanai, Murugan & Valli",
+   "ppcTheme": "Deities of Deivanai, Murugan & Valli",
+   "ppcSince": "30.05.2026",
+   "guide": "Murugan with Valli and Deivanai at Tiruttani.",
+   "postOffice": "Tiruttani SO",
+   "postOfficeRank": "Tiruttani SO",
+   "officeType": "SO",
+   "pin": "631209",
+   "lat": 13.161083,
+   "lng": 79.551584,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of county \"Tiruttani\" (osm:relation/6286164) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#374"
+   ]
+  },
+  {
+   "id": "tn-044-chakravaha",
+   "passport": "TN",
+   "order": 44,
+   "state": "Tamil Nadu",
+   "district": "Kanchipuram",
+   "place": "Chakravaha",
+   "ppcTheme": "Chakravaha",
+   "ppcSince": "18.04.2023",
+   "guide": "Chakravaha design from Kanchipuram, the temple and silk city.",
+   "postOffice": "Kanchipuram HO",
+   "postOfficeRank": "Kanchipuram HO",
+   "officeType": "HO",
+   "pin": "631501",
+   "lat": 12.836393,
+   "lng": 79.70533,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (dtnext (Kancheepuram)). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of city \"Kanchipuram\" (osm:node/256777854) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#375"
+   ]
+  },
+  {
+   "id": "tn-045-logo-of-cmc-hospital",
+   "passport": "TN",
+   "order": 45,
+   "state": "Tamil Nadu",
+   "district": "Vellore",
+   "place": "Logo of CMC Hospital",
+   "ppcTheme": "Logo of CMC Hospital",
+   "ppcSince": "09.12.2014",
+   "guide": "The logo of Christian Medical College, Vellore.",
+   "postOffice": "CMC Hospital, Vellore SO",
+   "postOfficeRank": "CMC Hospital, Vellore SO",
+   "officeType": "SO",
+   "pin": "632004",
+   "lat": 12.92555,
+   "lng": 79.133377,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of highway \"CMC Hospital\" (osm:node/4693433970) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#376"
+   ]
+  },
+  {
+   "id": "tn-046-vellore-fort-with-moat",
+   "passport": "TN",
+   "order": 46,
+   "state": "Tamil Nadu",
+   "district": "Vellore",
+   "place": "Vellore Fort with Moat",
+   "ppcTheme": "Vellore Fort with Moat",
+   "ppcSince": "03.03.2017",
+   "guide": "Vellore Fort with its moat.",
+   "postOffice": "Vellore Fort SO",
+   "postOfficeRank": "Vellore Fort SO",
+   "officeType": "SO",
+   "pin": "632004",
+   "lat": 12.920467,
+   "lng": 79.128182,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of historic \"Vellore Fort\" (osm:way/557512110) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#377"
+   ]
+  },
+  {
+   "id": "tn-047-vainu-bappu-observatory",
+   "passport": "TN",
+   "order": 47,
+   "state": "Tamil Nadu",
+   "district": "Tirupathur",
+   "place": "Vainu Bappu Observatory",
+   "ppcTheme": "Vainu Bappu Observatory",
+   "ppcSince": "05.12.1986",
+   "guide": "The Vainu Bappu Observatory at Kavalur.",
+   "postOffice": "Kavalur BO",
+   "postOfficeRank": "Kavalur BO",
+   "officeType": "BO",
+   "pin": "635701",
+   "lat": 12.8123,
+   "lng": 79.0104,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Kavalur\" in PIN 635701; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#378"
+   ]
+  },
+  {
+   "id": "tn-048-gandhi-charkha-and-bapu",
+   "passport": "TN",
+   "order": 48,
+   "state": "Tamil Nadu",
+   "district": "Salem",
+   "place": "Gandhi Charkha and Bapu",
+   "ppcTheme": "Gandhi Charkha and Bapu",
+   "ppcSince": "30.01.1997",
+   "guide": "Gandhi's charkha, commemorating his visit to Salem.",
+   "postOffice": "Hasthampatti SO",
+   "postOfficeRank": "Hasthampatti SO",
+   "officeType": "SO",
+   "pin": "636007",
+   "lat": 11.664352,
+   "lng": 78.15768,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "medium",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "osm-post-office",
+    "note": "OpenStreetMap post office \"Hasthampatti Post Office\" (osm:node/10593362312) matched by name"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#379"
+   ]
+  },
+  {
+   "id": "tn-049-lord-ardhanareeswar",
+   "passport": "TN",
+   "order": 49,
+   "state": "Tamil Nadu",
+   "district": "Namakkal",
+   "place": "Lord Ardhanareeswar",
+   "ppcTheme": "Lord Ardhanareeswar",
+   "ppcSince": "05.01.2017",
+   "guide": "Ardhanareeswarar of the Tiruchengode hill temple.",
+   "postOffice": "Tiruchengodu HO",
+   "postOfficeRank": "Tiruchengodu HO",
+   "officeType": "HO",
+   "pin": "637211",
+   "lat": 11.378661,
+   "lng": 77.894922,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Tiruchengodu\" (osm:node/245591866) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#380"
+   ]
+  },
+  {
+   "id": "tn-050-bhavani-koodal-and-rajagopuram",
+   "passport": "TN",
+   "order": 50,
+   "state": "Tamil Nadu",
+   "district": "Erode",
+   "place": "Bhavani Koodal and Rajagopuram",
+   "ppcTheme": "Bhavani Koodal and Rajagopuram",
+   "ppcSince": "25.08.1977",
+   "guide": "The Bhavani confluence (Koodal) and the Sangameswarar temple.",
+   "postOffice": "Bhavani HO",
+   "postOfficeRank": "Bhavani HO",
+   "officeType": "HO",
+   "pin": "638301",
+   "lat": 11.469978,
+   "lng": 77.331215,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of river \"Bhavani\" (osm:way/70237216) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#381"
+   ]
+  },
+  {
+   "id": "tn-051-logo-of-tamil-nadu-agricultural-universi",
+   "passport": "TN",
+   "order": 51,
+   "state": "Tamil Nadu",
+   "district": "Coimbatore",
+   "place": "Logo of Tamil Nadu Agricultural University",
+   "ppcTheme": "Logo of Tamil Nadu Agricultural University",
+   "ppcSince": "01.07.2019",
+   "guide": "The Tamil Nadu Agricultural University, Coimbatore.",
+   "postOffice": "TNAU-Lawley Road SO",
+   "postOfficeRank": "TNAU-Lawley Road SO",
+   "officeType": "SO",
+   "pin": "641003",
+   "lat": 10.8745,
+   "lng": 76.9756,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 641003; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#382"
+   ]
+  },
+  {
+   "id": "tn-052-patteeswarar-temple",
+   "passport": "TN",
+   "order": 52,
+   "state": "Tamil Nadu",
+   "district": "Coimbatore",
+   "place": "Patteeswarar Temple",
+   "ppcTheme": "Patteeswarar Temple",
+   "ppcSince": "03.02.1976",
+   "guide": "The Patteeswarar temple at Perur.",
+   "postOffice": "Perur, Coimbatore SO",
+   "postOfficeRank": "Perur, Coimbatore SO",
+   "officeType": "SO",
+   "pin": "641010",
+   "lat": 10.976406,
+   "lng": 76.914178,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Perur\" (osm:node/294521062) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#383"
+   ]
+  },
+  {
+   "id": "tn-053-salim-ali-centre-for-ornithology-and-nat",
+   "passport": "TN",
+   "order": 53,
+   "state": "Tamil Nadu",
+   "district": "Coimbatore",
+   "place": "Salim Ali Centre for Ornithology and Natural History (SACON)",
+   "ppcTheme": "Salim Ali Centre for Ornithology and Natural History (SACON)",
+   "ppcSince": "06.06.2019",
+   "guide": "SACON, the Salim Ali Centre for Ornithology and Natural History.",
+   "postOffice": "Anaikatti BO",
+   "postOfficeRank": "Anaikatti BO",
+   "officeType": "BO",
+   "pin": "641108",
+   "lat": 11.116125,
+   "lng": 76.748041,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of village \"Anaikatti\" (osm:node/245589432) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#384"
+   ]
+  },
+  {
+   "id": "tn-054-adi-yogi",
+   "passport": "TN",
+   "order": 54,
+   "state": "Tamil Nadu",
+   "district": "Coimbatore",
+   "place": "Adi Yogi",
+   "ppcTheme": "Adi Yogi",
+   "ppcSince": "24.02.2017",
+   "guide": "The Adiyogi bust at the foothills of the Velliangiri mountains.",
+   "postOffice": "Ishana Vihar BO",
+   "postOfficeRank": "Ishana Vihar BO",
+   "officeType": "BO",
+   "pin": "641114",
+   "lat": 10.9562,
+   "lng": 76.7594,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Ishana Vihar\" in PIN 641114; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#385"
+   ]
+  },
+  {
+   "id": "tn-055-our-lady-of-holy-rosary-shrine",
+   "passport": "TN",
+   "order": 55,
+   "state": "Tamil Nadu",
+   "district": "Coimbatore",
+   "place": "Our Lady of Holy Rosary Shrine",
+   "ppcTheme": "Our Lady of Holy Rosary Shrine",
+   "ppcSince": "29.09.2017",
+   "guide": "The Our Lady of Holy Rosary shrine at Karumathampatti.",
+   "postOffice": "Karumathampatti SO",
+   "postOfficeRank": "Karumathampatti SO",
+   "officeType": "SO",
+   "pin": "641659",
+   "lat": 11.107654,
+   "lng": 77.177089,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Karumathampatti\" (osm:node/10959201995) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#386"
+   ]
+  },
+  {
+   "id": "tn-056-nilgiri-tahr",
+   "passport": "TN",
+   "order": 56,
+   "state": "Tamil Nadu",
+   "district": "Coimbatore",
+   "place": "Nilgiri Tahr",
+   "ppcTheme": "Nilgiri Tahr",
+   "ppcSince": "14.10.1980",
+   "guide": "The Nilgiri tahr, Tamil Nadu's state animal, at Top Slip (Anamalai).",
+   "postOffice": "Top Slip BO",
+   "postOfficeRank": "Top Slip BO",
+   "officeType": "BO",
+   "pin": "642133",
+   "lat": 10.4947,
+   "lng": 76.8744,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (dtnext (Anaimalai Tiger Reserve)). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "pin-centroid",
+    "note": "Median of GeoNames points for PIN 642133; could be several km off"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#387"
+   ]
+  },
+  {
+   "id": "tn-057-toda-hut",
+   "passport": "TN",
+   "order": 57,
+   "state": "Tamil Nadu",
+   "district": "The Nilgiris",
+   "place": "Toda Hut",
+   "ppcTheme": "Toda Hut",
+   "ppcSince": "15.07.1994",
+   "guide": "The Toda hut (mund) of the Nilgiris.",
+   "postOffice": "Udagamandalam HO",
+   "postOfficeRank": "Udagamandalam HO",
+   "officeType": "HO",
+   "pin": "643001",
+   "lat": 11.412677,
+   "lng": 76.70305,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "nominatim-locality",
+    "note": "Centre of town \"Udhagamandalam\" (osm:node/245592179) via Nominatim; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#388"
+   ]
+  },
+  {
+   "id": "tn-058-nilgiri-mountain-train",
+   "passport": "TN",
+   "order": 58,
+   "state": "Tamil Nadu",
+   "district": "The Nilgiris",
+   "place": "Nilgiri Mountain Train",
+   "ppcTheme": "Nilgiri Mountain Train",
+   "ppcSince": "10.08.2019",
+   "guide": "The Nilgiri Mountain Railway, a UNESCO World Heritage site.",
+   "postOffice": "Coonoor Railway Station SO",
+   "postOfficeRank": "Coonoor Railway Station SO",
+   "officeType": "SO",
+   "pin": "643102",
+   "lat": 11.4559,
+   "lng": 76.6419,
+   "booklet": {
+    "status": "candidate",
+    "note": "Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Coonoor Bazaar\" in PIN 643102; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#389"
+   ]
+  },
+  {
+   "id": "tn-059-indian-bison-gaur",
+   "passport": "TN",
+   "order": 59,
+   "state": "Tamil Nadu",
+   "district": "The Nilgiris",
+   "place": "Indian Bison (Gaur)",
+   "ppcTheme": "Indian Bison (Gaur)",
+   "ppcSince": "05.04.1975",
+   "guide": "The Indian gaur of Mudumalai.",
+   "postOffice": "Mudumalai Sanctuary BO",
+   "postOfficeRank": "Mudumalai Sanctuary BO",
+   "officeType": "BO",
+   "pin": "643211",
+   "lat": 11.4559,
+   "lng": 76.6419,
+   "booklet": {
+    "status": "press-mentioned",
+    "note": "Location named in press coverage of the passport (TNC (Mudumalai)). Tamil Nadu circle PPC; press says the passport covers the circle's 58 PPCs, this list has 59 candidates, so one may not be in the booklet."
+   },
+   "confidence": {
+    "place": "medium",
+    "ppcTheme": "medium",
+    "postOffice": "medium",
+    "pin": "medium",
+    "officeType": "high",
+    "coords": "approximate",
+    "guide": "editorial"
+   },
+   "geocode": {
+    "method": "geonames-locality",
+    "note": "GeoNames locality \"Mudumalai Sanctuary\" in PIN 643211; the post office itself is not pinned"
+   },
+   "notes": [],
+   "sources": [
+    "ppc-list:praneethsaichunduru.github.io#390"
+   ]
+  }
+ ]
+}

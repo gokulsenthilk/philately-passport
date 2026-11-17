@@ -1,0 +1,79 @@
+@use 'leaflet/dist/leaflet.css';
+
+:root {
+  --paper: #fbf6ea;
+  --paper-deep: #f1e8d2;
+  --card: #fffdf7;
+  --ink: #23201b;
+  --ink-soft: #5e574b;
+  --ink-faint: #b9ae97;
+  --ink-blue: #1f3a5f;
+  --ink-cancel: #2b3f8f;
+  --postal-red: #b3261e;
+  --amber: #b7791f;
+  --ok: #2f7d4a;
+  --line: #ddd0b3;
+  --font-display: 'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  --font-body: system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', 'Noto Sans Kannada', 'Noto Sans Tamil', sans-serif;
+  --font-mono: 'Courier Prime', 'Courier New', ui-monospace, monospace;
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  font-family: var(--font-body); color: var(--ink); line-height: 1.5;
+  background:
+    radial-gradient(circle at 20% 10%, rgb(255 255 255 / .6), transparent 40%),
+    repeating-linear-gradient(0deg, rgb(0 0 0 / .012) 0 1px, transparent 1px 3px),
+    var(--paper);
+}
+h1, h2, h3 { font-family: var(--font-display); line-height: 1.2; margin: .2em 0 .5em; }
+h1 { font-size: clamp(1.5rem, 4vw, 2.2rem); }
+a { color: var(--ink-blue); }
+button, select, input { font: inherit; }
+
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 1rem;
+  box-shadow: 0 1px 0 rgb(0 0 0 / .03), 0 6px 18px -12px rgb(60 40 0 / .25);
+}
+/* Perforated postage-stamp edge: paper-coloured "holes" drawn over the card border only. */
+.perforated {
+  position: relative; background: var(--card); padding: 1.4rem; border-radius: 0;
+  box-shadow: 0 8px 24px -16px rgb(60 40 0 / .35);
+}
+.perforated::before {
+  content: ''; position: absolute; inset: -6px; pointer-events: none;
+  --dot: radial-gradient(circle, var(--paper) 5px, #0000 5.5px);
+  background:
+    var(--dot) 0 0 / 18px 12px repeat-x,
+    var(--dot) 0 100% / 18px 12px repeat-x,
+    var(--dot) 0 0 / 12px 18px repeat-y,
+    var(--dot) 100% 0 / 12px 18px repeat-y;
+}
+
+.btn {
+  display: inline-flex; align-items: center; gap: .4rem; padding: .55rem 1rem; border-radius: 4px; cursor: pointer;
+  border: 1.5px solid var(--ink-blue); background: var(--ink-blue); color: var(--paper); text-decoration: none; font-weight: 600; font-size: .92rem;
+}
+.btn.ghost { background: transparent; color: var(--ink-blue); }
+.btn.red { background: var(--postal-red); border-color: var(--postal-red); }
+.btn:disabled { opacity: .5; cursor: default; }
+
+.chip-row { display: flex; flex-wrap: wrap; gap: .4rem; }
+.chip { padding: .3rem .7rem; border-radius: 99px; border: 1px solid var(--line); background: var(--card); cursor: pointer; font-size: .85rem; color: var(--ink); }
+.chip.on { background: var(--ink-blue); color: var(--paper); border-color: var(--ink-blue); }
+
+.field { display: flex; flex-direction: column; gap: .2rem; font-size: .8rem; color: var(--ink-soft); }
+.field select, .field input { padding: .45rem .55rem; border: 1px solid var(--line); border-radius: 4px; background: var(--card); color: var(--ink); font-size: .95rem; }
+
+.muted { color: var(--ink-soft); }
+.mono { font-family: var(--font-mono); }
+.kicker { font: 700 .72rem var(--font-mono); letter-spacing: .14em; text-transform: uppercase; color: var(--postal-red); }
+
+/* Leaflet tweaks */
+.leaflet-container { font-family: var(--font-body); background: var(--paper-deep); }
+.leaflet-popup-content-wrapper { border-radius: 4px; background: var(--card); }
+.leaflet-popup-content { margin: .7rem .9rem; }

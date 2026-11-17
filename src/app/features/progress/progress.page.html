@@ -1,0 +1,29 @@
+<h1>{{ 'progress.title' | t }}</h1>
+<p class="muted">{{ visits.count() }} cancellations ticked · {{ photoTotal() }} photos stored on this device.</p>
+
+<div class="grid">
+  @for (s of summary(); track s.code) {
+    <section class="card">
+      <h2><a [routerLink]="['/passport', s.code]">{{ s.meta?.name }}</a></h2>
+      <pp-progress-bar label="Booklet" [done]="s.done" [total]="s.meta?.slots ?? s.total" />
+      <h3>By district</h3>
+      <div class="districts">
+        @for (d of s.districts; track d.name) {
+          <a [routerLink]="['/map']" [queryParams]="{ passport: s.code, district: d.name }" class="d">
+            <pp-progress-bar [label]="d.name" [done]="d.done" [total]="d.total" />
+          </a>
+        }
+      </div>
+    </section>
+  }
+</div>
+
+<section class="card backup">
+  <h2>Backup</h2>
+  <p class="muted small">Your ticks live only in this browser. Export a backup now and then (photos are not included).</p>
+  <div class="row">
+    <button class="btn" (click)="export()">{{ 'progress.export' | t }}</button>
+    <label class="btn ghost upload">{{ 'progress.import' | t }}<input type="file" accept="application/json" (change)="import($event)" /></label>
+  </div>
+  @if (message()) { <p>{{ message() }}</p> }
+</section>

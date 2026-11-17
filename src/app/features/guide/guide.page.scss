@@ -1,0 +1,6 @@
+section { margin-bottom: 1rem; }
+li { margin-bottom: .35rem; }
+.two { display: grid; gap: 1rem; }
+.small { font-size: .82rem; }
+.disclaimer { border-color: var(--postal-red); }
+@media (min-width: 760px) { .two { grid-template-columns: 1fr 1fr; } }

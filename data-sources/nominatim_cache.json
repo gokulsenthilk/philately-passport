@@ -1,0 +1,2998 @@
+{
+"Aihole, Bagalkot, Karnataka, India": [
+{
+"place_id": 249094137,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7205448465,
+"lat": "16.0267900",
+"lon": "75.8835370",
+"category": "healthcare",
+"type": "centre",
+"place_rank": 30,
+"importance": 4.0000762951049326e-05,
+"addresstype": "healthcare",
+"name": "PHC Aihole",
+"display_name": "PHC Aihole, SH133, Sulibhavi, Hunagunda taluku, Bagalkote, Karnataka, 587124, India",
+"boundingbox": [
+"16.0267400",
+"16.0268400",
+"75.8834870",
+"75.8835870"
+]
+}
+],
+"Badami, Bagalkot, Karnataka, India": [
+{
+"place_id": 253411809,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7205448416,
+"lat": "15.9216682",
+"lon": "75.6778945",
+"category": "amenity",
+"type": "hospital",
+"place_rank": 30,
+"importance": 5.537117570759163e-05,
+"addresstype": "amenity",
+"name": "Government Hospital, Badami",
+"display_name": "Government Hospital, Badami, Station Road, Agastya Tirtha, Badami, Badami taluku, Bagalkote, Karnataka, 587201, India",
+"boundingbox": [
+"15.9216182",
+"15.9217182",
+"75.6778445",
+"75.6779445"
+]
+}
+],
+"Pattadakal, Bagalkot, Karnataka, India": [],
+"Ballari Fort, Ballari, Karnataka, India": [
+{
+"place_id": 251711037,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 12327099,
+"lat": "15.1486711",
+"lon": "76.9104097",
+"category": "historic",
+"type": "fort",
+"place_rank": 30,
+"importance": 0.23094323434513592,
+"addresstype": "historic",
+"name": "Ballari Fort",
+"display_name": "Ballari Fort, Uphill Fort Entry Road, Cowl Bazar, Ballari, Bellary taluk, Ballari, Karnataka, 583102, India",
+"boundingbox": [
+"15.1457695",
+"15.1515370",
+"76.9078787",
+"76.9126753"
+]
+}
+],
+"Sandur, Ballari, Karnataka, India": [
+{
+"place_id": 250084740,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 654191231,
+"lat": "15.0832754",
+"lon": "76.5434110",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.1600375013351644,
+"addresstype": "town",
+"name": "Sanduru",
+"display_name": "Sanduru, Sanduru taluk, Ballari, Karnataka, 583119, India",
+"boundingbox": [
+"15.0432754",
+"15.1232754",
+"76.5034110",
+"76.5834110"
+]
+}
+],
+"Belagavi, Belagavi, Karnataka, India": [
+{
+"place_id": 252571702,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 343333679,
+"lat": "15.8572666",
+"lon": "74.5069343",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.5179244992877703,
+"addresstype": "city",
+"name": "Belagavi",
+"display_name": "Belagavi, Belagavi taluku, Belagavi, Karnataka, 590001, India",
+"boundingbox": [
+"15.6972666",
+"16.0172666",
+"74.3469343",
+"74.6669343"
+]
+}
+],
+"Shiroli, Belagavi, Karnataka, India": [],
+"Gokak Falls, Belagavi, Karnataka, India": [
+{
+"place_id": 249248380,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5358257038,
+"lat": "16.1923761",
+"lon": "74.7769884",
+"category": "waterway",
+"type": "waterfall",
+"place_rank": 20,
+"importance": 0.13338222400244143,
+"addresstype": "waterfall",
+"name": "Gokak Falls",
+"display_name": "Gokak Falls, Gokak taluku, Belagavi, Karnataka, 591307, India",
+"boundingbox": [
+"16.1923261",
+"16.1924261",
+"74.7769384",
+"74.7770384"
+]
+}
+],
+"Halashi, Belagavi, Karnataka, India": [
+{
+"place_id": 252999200,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2425833878,
+"lat": "15.5405882",
+"lon": "74.5914154",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Halashi",
+"display_name": "Halashi, Khanapura taluku, Belagavi, Karnataka, 591120, India",
+"boundingbox": [
+"15.5205882",
+"15.5605882",
+"74.5714154",
+"74.6114154"
+]
+}
+],
+"Hooli, Belagavi, Karnataka, India": [
+{
+"place_id": 252374881,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2261609156,
+"lat": "15.7956850",
+"lon": "75.1917541",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Hooli",
+"display_name": "Hooli, Savadatti taluku, Belagavi, Karnataka, India",
+"boundingbox": [
+"15.7756850",
+"15.8156850",
+"75.1717541",
+"75.2117541"
+]
+}
+],
+"Belagavi Fort, Belagavi, Karnataka, India": [],
+"Kittur, Belagavi, Karnataka, India": [
+{
+"place_id": 253008796,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245632442,
+"lat": "15.5993334",
+"lon": "74.7878902",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4769969149191,
+"addresstype": "town",
+"name": "Kitturu",
+"display_name": "Kitturu, Kitturu taluku, Belagavi, Karnataka, 591115, India",
+"boundingbox": [
+"15.5593334",
+"15.6393334",
+"74.7478902",
+"74.8278902"
+]
+}
+],
+"Nandgad, Belagavi, Karnataka, India": [],
+"Yallamma Hill, Belagavi, Karnataka, India": [],
+"Jayanagar 3rd Block, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 252295351,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 17252539,
+"lat": "12.9338630",
+"lon": "77.5830336",
+"category": "place",
+"type": "quarter",
+"place_rank": 20,
+"importance": 0.1334042778667887,
+"addresstype": "quarter",
+"name": "Jayanagar 3rd Block",
+"display_name": "Jayanagar 3rd Block, Yediyuru, Bengaluru West City Corporation, Bengaluru, Bangalore South, Bengaluru Urban, Karnataka, India",
+"boundingbox": [
+"12.9308145",
+"12.9366699",
+"77.5805981",
+"77.5860335"
+]
+}
+],
+"Bannerghatta, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 252514069,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 8124064,
+"lat": "12.5318901",
+"lon": "77.5470362",
+"category": "boundary",
+"type": "national_park",
+"place_rank": 24,
+"importance": 0.4000978874196021,
+"addresstype": "national_park",
+"name": "Bannerghatta National Park",
+"display_name": "Bannerghatta National Park, Gullahatti Kaval, Harohalli taluk, Bengaluru South, Karnataka, India",
+"boundingbox": [
+"12.3443525",
+"12.8229972",
+"77.4828815",
+"77.6368603"
+]
+}
+],
+"Dr. Ambedkar Veedhi, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 252417326,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 6400857556,
+"lat": "12.9787419",
+"lon": "77.5916385",
+"category": "railway",
+"type": "station",
+"place_rank": 30,
+"importance": 7.094453345536e-05,
+"addresstype": "railway",
+"name": "Dr. B. R. Ambedkar Station, Vidhana Soudha",
+"display_name": "Dr. B. R. Ambedkar Station, Vidhana Soudha, Doctor B R Ambedkar Veedhi, High Grounds, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+"boundingbox": [
+"12.9737419",
+"12.9837419",
+"77.5866385",
+"77.5966385"
+]
+}
+],
+"High Court, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 251874688,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 446900,
+"lat": "12.9778852",
+"lon": "77.5926731",
+"category": "amenity",
+"type": "courthouse",
+"place_rank": 30,
+"importance": 0.41155130284769104,
+"addresstype": "amenity",
+"name": "Karnataka High Court",
+"display_name": "Karnataka High Court, Doctor B R Ambedkar Veedhi, High Grounds, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+"boundingbox": [
+"12.9767601",
+"12.9790351",
+"77.5914933",
+"77.5937579"
+]
+}
+],
+"NAL, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 253903475,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 41722461,
+"lat": "12.9637621",
+"lon": "77.6517907",
+"category": "landuse",
+"type": "industrial",
+"place_rank": 24,
+"importance": 0.08007094453345538,
+"addresstype": "industrial",
+"name": "National Aerospace Laboratories",
+"display_name": "National Aerospace Laboratories, Jeevan Bhima Nagar, Jeevan Bhimanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore East, Bengaluru Urban, Karnataka, India",
+"boundingbox": [
+"12.9595489",
+"12.9679918",
+"77.6492863",
+"77.6550949"
+]
+}
+],
+"Science Institute, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 252440822,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9676004,
+"lat": "13.0222347",
+"lon": "77.5671832",
+"category": "amenity",
+"type": "university",
+"place_rank": 30,
+"importance": 0.5113978532928073,
+"addresstype": "amenity",
+"name": "Indian Institute of Science",
+"display_name": "Indian Institute of Science, CV Raman Road, Sadashivanagar, Sadashiva Nagara, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560012, India",
+"boundingbox": [
+"13.0122928",
+"13.0294474",
+"77.5586420",
+"77.5726673"
+]
+}
+],
+"Basavanagudi, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 252948795,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 429937956,
+"lat": "12.9417261",
+"lon": "77.5755021",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.14673761120012202,
+"addresstype": "suburb",
+"name": "Basavanagudi",
+"display_name": "Basavanagudi, Sunkenahalli, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560004, India",
+"boundingbox": [
+"12.9217261",
+"12.9617261",
+"77.5555021",
+"77.5955021"
+]
+}
+],
+"Rajajinagar, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 252684789,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5760198632,
+"lat": "13.0005232",
+"lon": "77.5496166",
+"category": "railway",
+"type": "stop",
+"place_rank": 30,
+"importance": 0.23992860907835414,
+"addresstype": "railway",
+"name": "Rajajinagar",
+"display_name": "Rajajinagar, Chord Road, Nagapura, Mahalakshmipuram, Nagapura, Bengaluru West City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560086, India",
+"boundingbox": [
+"13.0004732",
+"13.0005732",
+"77.5495666",
+"77.5496666"
+]
+}
+],
+"Museum Road, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 253151971,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 763290548,
+"lat": "12.9696688",
+"lon": "77.6054112",
+"category": "highway",
+"type": "secondary",
+"place_rank": 26,
+"importance": 0.0534042778667887,
+"addresstype": "secondary",
+"name": "Museum Road",
+"display_name": "Museum Road, Arab Lines, Ashok Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560025, India",
+"boundingbox": [
+"12.9684343",
+"12.9709016",
+"77.6048071",
+"77.6060119"
+]
+}
+],
+"Bengaluru, Bengaluru Urban, Karnataka, India": [
+{
+"place_id": 249224760,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 7902476,
+"lat": "12.9767936",
+"lon": "77.5900820",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 14,
+"importance": 0.6364646632219508,
+"addresstype": "city",
+"name": "Bengaluru",
+"display_name": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+"boundingbox": [
+"12.8334905",
+"13.1426196",
+"77.4598797",
+"77.7840639"
+]
+}
+],
+"Basavakalyan, Bidar, Karnataka, India": [
+{
+"place_id": 249330141,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245642325,
+"lat": "17.8697666",
+"lon": "76.9509533",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.3826968451717165,
+"addresstype": "town",
+"name": "Basavakalyan",
+"display_name": "Basavakalyan, Basavakalyana taluku, Bidar, Karnataka, 585327, India",
+"boundingbox": [
+"17.8297666",
+"17.9097666",
+"76.9109533",
+"76.9909533"
+]
+}
+],
+"Guru Nanak Jhira, Bidar, Karnataka, India": [],
+"Kamthana, Bidar, Karnataka, India": [],
+"Bidar, Bidar, Karnataka, India": [
+{
+"place_id": 246870427,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19120456,
+"lat": "17.9149369",
+"lon": "77.4880494",
+"category": "boundary",
+"type": "local_authority",
+"place_rank": 25,
+"importance": 0.4540735774087027,
+"addresstype": "local_authority",
+"name": "Bidar",
+"display_name": "Bidar, Bidar taluku, Bidar, Karnataka, 585400, India",
+"boundingbox": [
+"17.8571789",
+"17.9729826",
+"77.4307487",
+"77.5557138"
+]
+}
+],
+"Kyathadevaragudi, Chamarajanagar, Karnataka, India": [],
+"Bandipur, Chamarajanagar, Karnataka, India": [
+{
+"place_id": 253265808,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 159049291,
+"lat": "11.7866822",
+"lon": "76.4206959",
+"category": "boundary",
+"type": "national_park",
+"place_rank": 25,
+"importance": 0.4370378484181893,
+"addresstype": "national_park",
+"name": "Bandipur National Park",
+"display_name": "Bandipur National Park, Gundlupet taluk, Chamarajanagar, Karnataka, India",
+"boundingbox": [
+"11.5945587",
+"11.9795887",
+"76.2040472",
+"76.8880758"
+]
+}
+],
+"Mahadeshwara Malai, Chamarajanagar, Karnataka, India": [
+{
+"place_id": 254429502,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 9329557,
+"lat": "11.9433965",
+"lon": "77.4911803",
+"category": "leisure",
+"type": "nature_reserve",
+"place_rank": 24,
+"importance": 1e-10,
+"addresstype": "nature_reserve",
+"name": "Malai Mahadeshwara WLS",
+"display_name": "Malai Mahadeshwara WLS, Hanur taluk, Chamarajanagar, Karnataka, India",
+"boundingbox": [
+"11.7610752",
+"12.1272962",
+"77.2550010",
+"77.6599502"
+]
+}
+],
+"Nandi Hills, Chikballapur, Karnataka, India": [],
+"Chikkamagaluru, Chikkamagaluru, Karnataka, India": [
+{
+"place_id": 253718144,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245619852,
+"lat": "13.3180140",
+"lon": "75.7738743",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.45700694538322234,
+"addresstype": "city",
+"name": "Chikkamagaluru",
+"display_name": "Chikkamagaluru, Chikkamagaluru taluku, Chikkamagaluru, Karnataka, 577101, India",
+"boundingbox": [
+"13.1580140",
+"13.4780140",
+"75.6138743",
+"75.9338743"
+]
+}
+],
+"Sringeri, Chikkamagaluru, Karnataka, India": [
+{
+"place_id": 252667132,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1422424829,
+"lat": "13.4261724",
+"lon": "75.2553690",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16004000076295108,
+"addresstype": "town",
+"name": "Sringeri",
+"display_name": "Sringeri, Sringeri taluku, Chikkamagaluru, Karnataka, 577592, India",
+"boundingbox": [
+"13.3861724",
+"13.4661724",
+"75.2153690",
+"75.2953690"
+]
+}
+],
+"Chitradurga, Chitradurga, Karnataka, India": [
+{
+"place_id": 252611933,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 571409087,
+"lat": "14.2266443",
+"lon": "76.4005122",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.4122803330194641,
+"addresstype": "city",
+"name": "Chitradurga",
+"display_name": "Chitradurga, Chitradurga taluku, Chitradurga, Karnataka, 577500, India",
+"boundingbox": [
+"14.0666443",
+"14.3866443",
+"76.2405122",
+"76.5605122"
+]
+}
+],
+"Dharmasthala, Dakshina Kannada, Karnataka, India": [
+{
+"place_id": 250929246,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245614706,
+"lat": "12.9519571",
+"lon": "75.3813122",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Dharmasthala",
+"display_name": "Dharmasthala, Beltangadi taluk, Dakshina Kannada, Karnataka, 574216, India",
+"boundingbox": [
+"12.9319571",
+"12.9719571",
+"75.3613122",
+"75.4013122"
+]
+}
+],
+"Kateel, Dakshina Kannada, Karnataka, India": [
+{
+"place_id": 252927469,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1706014465,
+"lat": "13.0450256",
+"lon": "74.8700656",
+"category": "place",
+"type": "locality",
+"place_rank": 25,
+"importance": 0.06670416800183107,
+"addresstype": "locality",
+"name": "Kateel",
+"display_name": "Kateel, Kondemoola, Mulki taluk, Dakshina Kannada, Karnataka, 574148, India",
+"boundingbox": [
+"13.0350256",
+"13.0550256",
+"74.8600656",
+"74.8800656"
+]
+}
+],
+"Subramanya, Dakshina Kannada, Karnataka, India": [
+{
+"place_id": 252819054,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245608560,
+"lat": "12.6677868",
+"lon": "75.6131771",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.2827546027204031,
+"addresstype": "town",
+"name": "Subramanya",
+"display_name": "Subramanya, Kadaba taluk, Dakshina Kannada, Karnataka, 574238, India",
+"boundingbox": [
+"12.6277868",
+"12.7077868",
+"75.5731771",
+"75.6531771"
+]
+}
+],
+"Mangaluru, Dakshina Kannada, Karnataka, India": [
+{
+"place_id": 253589847,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245612641,
+"lat": "12.8698247",
+"lon": "74.8430125",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.5322100156129131,
+"addresstype": "city",
+"name": "Mangaluru",
+"display_name": "Mangaluru, Mangaluru taluk, Dakshina Kannada, Karnataka, 575001, India",
+"boundingbox": [
+"12.7098247",
+"13.0298247",
+"74.6830125",
+"75.0030125"
+]
+}
+],
+"Moodbidri, Dakshina Kannada, Karnataka, India": [
+{
+"place_id": 253674623,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1297334805,
+"lat": "13.0683654",
+"lon": "74.9947146",
+"category": "landuse",
+"type": "residential",
+"place_rank": 24,
+"importance": 0.0800438048371099,
+"addresstype": "residential",
+"name": "Moodbidri Interstate/interdistict Bus Stand",
+"display_name": "Moodbidri Interstate/interdistict Bus Stand, Moodabidri, Moodabidri taluk, Dakshina Kannada, Karnataka, 574227, India",
+"boundingbox": [
+"13.0682213",
+"13.0686417",
+"74.9946271",
+"74.9950137"
+]
+}
+],
+"Ullal, Dakshina Kannada, Karnataka, India": [
+{
+"place_id": 250990201,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245610394,
+"lat": "12.8181202",
+"lon": "74.8459375",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.31568281446101826,
+"addresstype": "town",
+"name": "Ullal",
+"display_name": "Ullal, Ullala taluk, Dakshina Kannada, Karnataka, 574159, India",
+"boundingbox": [
+"12.7781202",
+"12.8581202",
+"74.8059375",
+"74.8859375"
+]
+}
+],
+"Venur, Dakshina Kannada, Karnataka, India": [],
+"Davanagere, Davanagere, Karnataka, India": [
+{
+"place_id": 252835556,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 571395225,
+"lat": "14.4661266",
+"lon": "75.9206361",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.4003883115502947,
+"addresstype": "city",
+"name": "Davanagere",
+"display_name": "Davanagere, Davanagere Taluku, Davanagere, Karnataka, 577000, India",
+"boundingbox": [
+"14.3061266",
+"14.6261266",
+"75.7606361",
+"76.0806361"
+]
+}
+],
+"Annigeri, Dharwad, Karnataka, India": [
+{
+"place_id": 253622775,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245631851,
+"lat": "15.4260116",
+"lon": "75.4333351",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.1600441771572442,
+"addresstype": "town",
+"name": "Annigeri",
+"display_name": "Annigeri, Annigeri taluku, Dharwad, Karnataka, 582201, India",
+"boundingbox": [
+"15.3860116",
+"15.4660116",
+"75.3933351",
+"75.4733351"
+]
+}
+],
+"Narayanapura, Dharwad, Karnataka, India": [
+{
+"place_id": 252755266,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 352789549,
+"lat": "15.4593873",
+"lon": "74.9895260",
+"category": "leisure",
+"type": "park",
+"place_rank": 24,
+"importance": 0.08005240634775308,
+"addresstype": "park",
+"name": "Narayanpur Park",
+"display_name": "Narayanpur Park, Sadhanakeri, Dharwad, Dharawada taluku, Dharwad, Karnataka, 580001, India",
+"boundingbox": [
+"15.4590302",
+"15.4597808",
+"74.9892668",
+"74.9897803"
+]
+}
+],
+"Hubballi, Dharwad, Karnataka, India": [
+{
+"place_id": 252688964,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 670289984,
+"lat": "15.3518378",
+"lon": "75.1379848",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.41728026324015166,
+"addresstype": "city",
+"name": "Hubballi",
+"display_name": "Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580020, India",
+"boundingbox": [
+"15.1918378",
+"15.5118378",
+"74.9779848",
+"75.2979848"
+]
+}
+],
+"Gadag, Gadag, Karnataka, India": [
+{
+"place_id": 253374169,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245631838,
+"lat": "15.4221812",
+"lon": "75.6376639",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.3343910964012564,
+"addresstype": "town",
+"name": "Gadag-Betageri",
+"display_name": "Gadag-Betageri, Gadag taluk, Gadag, Karnataka, 582101, India",
+"boundingbox": [
+"15.3821812",
+"15.4621812",
+"75.5976639",
+"75.6776639"
+]
+}
+],
+"Lakkundi, Gadag, Karnataka, India": [
+{
+"place_id": 252424097,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 775949946,
+"lat": "15.3899798",
+"lon": "75.7171588",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.39038942373343144,
+"addresstype": "village",
+"name": "Lakkundi",
+"display_name": "Lakkundi, Gadag taluk, Gadag, Karnataka, India",
+"boundingbox": [
+"15.3699798",
+"15.4099798",
+"75.6971588",
+"75.7371588"
+]
+}
+],
+"Belur, Hassan, Karnataka, India": [
+{
+"place_id": 252385742,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245618812,
+"lat": "13.1645671",
+"lon": "75.8634851",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4351905570353818,
+"addresstype": "town",
+"name": "Belur",
+"display_name": "Belur, Beluru taluk, Hassan, Karnataka, 573115, India",
+"boundingbox": [
+"13.1245671",
+"13.2045671",
+"75.8234851",
+"75.9034851"
+]
+}
+],
+"Halebeedu, Hassan, Karnataka, India": [
+{
+"place_id": 252417067,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 53061027,
+"lat": "13.1691527",
+"lon": "76.0001666",
+"category": "highway",
+"type": "secondary",
+"place_rank": 26,
+"importance": 0.053370834668497714,
+"addresstype": "secondary",
+"name": "Halebeedu Hagare Road",
+"display_name": "Halebeedu Hagare Road, Harubihalli, Siddapura, Beluru taluk, Hassan, Karnataka, 573216, India",
+"boundingbox": [
+"13.1270935",
+"13.2096611",
+"75.9924189",
+"76.0006316"
+]
+}
+],
+"Shravanabelagola, Hassan, Karnataka, India": [
+{
+"place_id": 253096183,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245612228,
+"lat": "12.8581270",
+"lon": "76.4870114",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.456516836198595,
+"addresstype": "town",
+"name": "Shravanabelagola",
+"display_name": "Shravanabelagola, Channarayapattana taluk, Hassan, Karnataka, 573135, India",
+"boundingbox": [
+"12.8181270",
+"12.8981270",
+"76.4470114",
+"76.5270114"
+]
+}
+],
+"Ranebennur, Haveri, Karnataka, India": [
+{
+"place_id": 252655033,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245628328,
+"lat": "14.6165795",
+"lon": "75.6341529",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.18670721065079723,
+"addresstype": "city",
+"name": "Ranebennur",
+"display_name": "Ranebennur, Ranebennuru taluk, Haveri, Karnataka, 581115, India",
+"boundingbox": [
+"14.4565795",
+"14.7765795",
+"75.4741529",
+"75.7941529"
+]
+}
+],
+"Shishuvinahal, Haveri, Karnataka, India": [],
+"Kalaburagi, Kalaburagi, Karnataka, India": [
+{
+"place_id": 249311434,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245640372,
+"lat": "17.3310003",
+"lon": "76.8334228",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.4512030148252372,
+"addresstype": "city",
+"name": "Kalaburagi",
+"display_name": "Kalaburagi, Kalaburagi taluku, Kalaburagi, Karnataka, 585101, India",
+"boundingbox": [
+"17.1710003",
+"17.4910003",
+"76.6734228",
+"76.9934228"
+]
+}
+],
+"Madikeri, Kodagu, Karnataka, India": [
+{
+"place_id": 253392395,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 390887113,
+"lat": "12.4214900",
+"lon": "75.7387543",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16004722743572136,
+"addresstype": "town",
+"name": "Madikeri",
+"display_name": "Madikeri, Madikeri taluku, Kodagu, Karnataka, 571201, India",
+"boundingbox": [
+"12.3814900",
+"12.4614900",
+"75.6987543",
+"75.7787543"
+]
+}
+],
+"Nagarahole, Kodagu, Karnataka, India": [
+{
+"place_id": 253331047,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 838536067,
+"lat": "11.9930757",
+"lon": "76.0679436",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13337083466849772,
+"addresstype": "hamlet",
+"name": "Nagarahole",
+"display_name": "Nagarahole, Ponnampete taluk, Kodagu, Karnataka, 571250, India",
+"boundingbox": [
+"11.9730757",
+"12.0130757",
+"76.0479436",
+"76.0879436"
+]
+}
+],
+"Championreefs, Kolar, Karnataka, India": [],
+"Masthi, Kolar, Karnataka, India": [
+{
+"place_id": 253024776,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7202724042,
+"lat": "12.8741975",
+"lon": "77.9978968",
+"category": "healthcare",
+"type": "centre",
+"place_rank": 30,
+"importance": 3.750133516437045e-05,
+"addresstype": "healthcare",
+"name": "Masthi PHC",
+"display_name": "Masthi PHC, SH99, Bandahatti, Masti, Maluru taluk, Kolar, Karnataka, 563139, India",
+"boundingbox": [
+"12.8741475",
+"12.8742475",
+"77.9978468",
+"77.9979468"
+]
+}
+],
+"Anegundi, Koppal, Karnataka, India": [
+{
+"place_id": 252755455,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 676635872,
+"lat": "15.3511368",
+"lon": "76.4921443",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.1467219142442969,
+"addresstype": "village",
+"name": "Anegundi",
+"display_name": "Anegundi, Gangavati taluku, Koppal, Karnataka, India",
+"boundingbox": [
+"15.3311368",
+"15.3711368",
+"76.4721443",
+"76.5121443"
+]
+}
+],
+"Koppal, Koppal, Karnataka, India": [
+{
+"place_id": 252376039,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 571433514,
+"lat": "15.3484144",
+"lon": "76.1547421",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16004703364614326,
+"addresstype": "town",
+"name": "Koppala",
+"display_name": "Koppala, Koppala taluku, Koppal, Karnataka, 583231, India",
+"boundingbox": [
+"15.3084144",
+"15.3884144",
+"76.1147421",
+"76.1947421"
+]
+}
+],
+"Kokkare Bellur, Mandya, Karnataka, India": [
+{
+"place_id": 253379356,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3244713201,
+"lat": "12.5097738",
+"lon": "77.0883259",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Kokkare Belluru",
+"display_name": "Kokkare Belluru, Madduru taluk, Mandya, Karnataka, 571433, India",
+"boundingbox": [
+"12.4897738",
+"12.5297738",
+"77.0683259",
+"77.1083259"
+]
+}
+],
+"Srirangapatna, Mandya, Karnataka, India": [
+{
+"place_id": 252268975,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 666625964,
+"lat": "12.4226442",
+"lon": "76.6849312",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16006316243228808,
+"addresstype": "town",
+"name": "Srirangapatna",
+"display_name": "Srirangapatna, Srirangapattana taluk, Mandya, Karnataka, 571438, India",
+"boundingbox": [
+"12.3826442",
+"12.4626442",
+"76.6449312",
+"76.7249312"
+]
+}
+],
+"Chamundibetta, Mysuru, Karnataka, India": [],
+"Mysuru, Mysuru, Karnataka, India": [
+{
+"place_id": 252637532,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19125269,
+"lat": "12.3041464",
+"lon": "76.6529521",
+"category": "boundary",
+"type": "local_authority",
+"place_rank": 25,
+"importance": 0.5627508010057295,
+"addresstype": "local_authority",
+"name": "Mysuru",
+"display_name": "Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India",
+"boundingbox": [
+"12.2532165",
+"12.3550295",
+"76.5984090",
+"76.7056503"
+]
+}
+],
+"Saraswathipuram, Mysuru, Karnataka, India": [
+{
+"place_id": 250516582,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 232290202,
+"lat": "12.2984766",
+"lon": "76.6284048",
+"category": "highway",
+"type": "residential",
+"place_rank": 26,
+"importance": 0.05339649576562139,
+"addresstype": "residential",
+"name": "Saraswathipuram 12th Main",
+"display_name": "Saraswathipuram 12th Main, Sarasvatipuram, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India",
+"boundingbox": [
+"12.2963252",
+"12.3006227",
+"76.6282415",
+"76.6286184"
+]
+}
+],
+"Lakshmipuram, Mysuru, Karnataka, India": [
+{
+"place_id": 250114822,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 19125286,
+"lat": "12.2959875",
+"lon": "76.6455658",
+"category": "boundary",
+"type": "local_authority",
+"place_rank": 25,
+"importance": 0.06672982909895475,
+"addresstype": "local_authority",
+"name": "Lakshmipuram",
+"display_name": "Lakshmipuram, Chamarajapuram, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India",
+"boundingbox": [
+"12.2922270",
+"12.2995970",
+"76.6383466",
+"76.6538298"
+]
+}
+],
+"S.G.S. Ashram, Mysuru, Mysuru, Karnataka, India": [],
+"Somanathapura, Mysuru, Karnataka, India": [
+{
+"place_id": 250668223,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 634785128,
+"lat": "12.2761528",
+"lon": "76.8833039",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14672606012054623,
+"addresstype": "village",
+"name": "Somanathapura",
+"display_name": "Somanathapura, Tirumakudalu Narasipura taluk, Mysuru District, Karnataka, 571120, India",
+"boundingbox": [
+"12.2561528",
+"12.2961528",
+"76.8633039",
+"76.9033039"
+]
+}
+],
+"Talakad, Mysuru, Karnataka, India": [
+{
+"place_id": 249304209,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7202979388,
+"lat": "12.1908659",
+"lon": "77.0285965",
+"category": "healthcare",
+"type": "centre",
+"place_rank": 30,
+"importance": 3.750133516437045e-05,
+"addresstype": "healthcare",
+"name": "Talakad CHC",
+"display_name": "Talakad CHC, SH79, Doddanahundi, Madapura, Tirumakudalu Narasipura taluk, Mysuru District, Karnataka, 571122, India",
+"boundingbox": [
+"12.1908159",
+"12.1909159",
+"77.0285465",
+"77.0286465"
+]
+}
+],
+"Bichali, Raichur, Karnataka, India": [],
+"Helagalli, Ramanagara, Karnataka, India": [],
+"Agumbe, Shivamogga, Karnataka, India": [
+{
+"place_id": 249698526,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 910403408,
+"lat": "13.5084827",
+"lon": "75.0962575",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Agumbe",
+"display_name": "Agumbe, Tirthahalli taluk, Shimoga, Karnataka, 577411, India",
+"boundingbox": [
+"13.4884827",
+"13.5284827",
+"75.0762575",
+"75.1162575"
+]
+}
+],
+"Humcha, Shivamogga, Karnataka, India": [
+{
+"place_id": 252652182,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1895752947,
+"lat": "13.8623557",
+"lon": "75.2073232",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670666742961772,
+"addresstype": "village",
+"name": "Humcha",
+"display_name": "Humcha, Hosanagara taluk, Shimoga, Karnataka, India",
+"boundingbox": [
+"13.8423557",
+"13.8823557",
+"75.1873232",
+"75.2273232"
+]
+}
+],
+"Jog Falls, Shivamogga, Karnataka, India": [
+{
+"place_id": 252158226,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 459795464,
+"lat": "14.2292983",
+"lon": "74.8123093",
+"category": "waterway",
+"type": "waterfall",
+"place_rank": 20,
+"importance": 0.39122798236215983,
+"addresstype": "waterfall",
+"name": "Jog Falls",
+"display_name": "Jog Falls, Kargal, Sagara taluk, Shimoga, Karnataka, India",
+"boundingbox": [
+"14.2292483",
+"14.2293483",
+"74.8122593",
+"74.8123593"
+]
+}
+],
+"Devangi, Shivamogga, Karnataka, India": [
+{
+"place_id": 250894693,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1837354116,
+"lat": "13.6302282",
+"lon": "75.2827343",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14671216067750054,
+"addresstype": "village",
+"name": "Devangi",
+"display_name": "Devangi, Tirthahalli taluk, Shimoga, Karnataka, India",
+"boundingbox": [
+"13.6102282",
+"13.6502282",
+"75.2627343",
+"75.3027343"
+]
+}
+],
+"Kendalbailu, Shivamogga, Karnataka, India": [],
+"Hirehalli, Tumakuru, Karnataka, India": [
+{
+"place_id": 253172071,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 389475413,
+"lat": "13.2806649",
+"lon": "77.1887827",
+"category": "railway",
+"type": "station",
+"place_rank": 30,
+"importance": 5.758983749137129e-05,
+"addresstype": "railway",
+"name": "Hirehalli",
+"display_name": "Hirehalli, NH48, Kyatasandra, Chikkahalli, Tumkur taluk, Tumakuru, Karnataka, 572168, India",
+"boundingbox": [
+"13.2756649",
+"13.2856649",
+"77.1837827",
+"77.1937827"
+]
+}
+],
+"Siddaganga Mutt, Tumakuru, Karnataka, India": [
+{
+"place_id": 249532911,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 414067383,
+"lat": "13.3205598",
+"lon": "77.1496577",
+"category": "landuse",
+"type": "religious",
+"place_rank": 24,
+"importance": 0.08005758983749138,
+"addresstype": "religious",
+"name": "Siddaganga Mutt",
+"display_name": "Siddaganga Mutt, Kyatasandra, Tumakuru, Tumkur taluk, Tumakuru, Karnataka, 572101, India",
+"boundingbox": [
+"13.3168091",
+"13.3244827",
+"77.1460551",
+"77.1531951"
+]
+}
+],
+"Kota, Udupi, Karnataka, India": [
+{
+"place_id": 252654080,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1990717820,
+"lat": "13.5235898",
+"lon": "74.7049501",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Kota",
+"display_name": "Kota, Brahmavara taluku, Udupi, Karnataka, 576221, India",
+"boundingbox": [
+"13.5035898",
+"13.5435898",
+"74.6849501",
+"74.7249501"
+]
+}
+],
+"Karkala, Udupi, Karnataka, India": [
+{
+"place_id": 252482581,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245619070,
+"lat": "13.2145414",
+"lon": "74.9951861",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.3960456341796639,
+"addresstype": "town",
+"name": "Karkala",
+"display_name": "Karkala, Karkala taluk, Udupi, Karnataka, 574104, India",
+"boundingbox": [
+"13.1745414",
+"13.2545414",
+"74.9551861",
+"75.0351861"
+]
+}
+],
+"Barkur, Udupi, Karnataka, India": [
+{
+"place_id": 253616745,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2548066547,
+"lat": "13.4770273",
+"lon": "74.7598682",
+"category": "railway",
+"type": "station",
+"place_rank": 30,
+"importance": 0.33518014852624106,
+"addresstype": "railway",
+"name": "Barkur",
+"display_name": "Barkur, Barkuru Mandarthi Road, Heggunje, Mandarthi, Brahmavara taluku, Udupi, Karnataka, 576223, India",
+"boundingbox": [
+"13.4720273",
+"13.4820273",
+"74.7548682",
+"74.7648682"
+]
+}
+],
+"Kaup, Udupi, Karnataka, India": [
+{
+"place_id": 254201278,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 867155742,
+"lat": "13.2306764",
+"lon": "74.7484014",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.1467195063706416,
+"addresstype": "village",
+"name": "Kapu",
+"display_name": "Kapu, Kapu taluku, Udupi, Karnataka, 574106, India",
+"boundingbox": [
+"13.2106764",
+"13.2506764",
+"74.7284014",
+"74.7684014"
+]
+}
+],
+"Kollur, Udupi, Karnataka, India": [
+{
+"place_id": 250895831,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245625243,
+"lat": "13.8634049",
+"lon": "74.8137959",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.38727847050761693,
+"addresstype": "village",
+"name": "Kollur",
+"display_name": "Kollur, Bainduru taluku, Udupi, Karnataka, 576220, India",
+"boundingbox": [
+"13.8434049",
+"13.8834049",
+"74.7937959",
+"74.8337959"
+]
+}
+],
+"Nandalike, Udupi, Karnataka, India": [
+{
+"place_id": 251557341,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 6369725395,
+"lat": "13.1863428",
+"lon": "74.8743152",
+"category": "place",
+"type": "hamlet",
+"place_rank": 20,
+"importance": 0.13337083466849772,
+"addresstype": "hamlet",
+"name": "Nandalike",
+"display_name": "Nandalike, Belman, Karkala taluk, Udupi, Karnataka, 576111, India",
+"boundingbox": [
+"13.1663428",
+"13.2063428",
+"74.8543152",
+"74.8943152"
+]
+}
+],
+"Mandarthi, Udupi, Karnataka, India": [
+{
+"place_id": 252469304,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1818553547,
+"lat": "13.4964540",
+"lon": "74.8119766",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Mandarthi",
+"display_name": "Mandarthi, Brahmavara taluku, Udupi, Karnataka, 576223, India",
+"boundingbox": [
+"13.4764540",
+"13.5164540",
+"74.7919766",
+"74.8319766"
+]
+}
+],
+"Manipal, Udupi, Karnataka, India": [
+{
+"place_id": 251351079,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1351009057,
+"lat": "13.3519723",
+"lon": "74.7870308",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16005283970397496,
+"addresstype": "town",
+"name": "Manipal",
+"display_name": "Manipal, Udupi taluku, Udupi, Karnataka, 576104, India",
+"boundingbox": [
+"13.3119723",
+"13.3919723",
+"74.7470308",
+"74.8270308"
+]
+}
+],
+"Katapadi, Udupi, Karnataka, India": [],
+"Kundapura, Udupi, Karnataka, India": [
+{
+"place_id": 252774019,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1716178626,
+"lat": "13.6133737",
+"lon": "74.7286856",
+"category": "railway",
+"type": "station",
+"place_rank": 30,
+"importance": 0.33749181912886295,
+"addresstype": "railway",
+"name": "Kundapura",
+"display_name": "Kundapura, Railway Station Road, Kandhavara, Koni, Kundapura, Udupi, Karnataka, 576211, India",
+"boundingbox": [
+"13.6083737",
+"13.6183737",
+"74.7236856",
+"74.7336856"
+]
+}
+],
+"Shankarpura, Udupi, Karnataka, India": [],
+"Someshwara, Udupi, Karnataka, India": [
+{
+"place_id": 252294134,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245621919,
+"lat": "13.4907662",
+"lon": "75.0675281",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Someshwara",
+"display_name": "Someshwara, Hebri taluku, Udupi, Karnataka, 576129, India",
+"boundingbox": [
+"13.4707662",
+"13.5107662",
+"75.0475281",
+"75.0875281"
+]
+}
+],
+"Attur, Udupi, Karnataka, India": [
+{
+"place_id": 253518451,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 1177107983,
+"lat": "13.2046936",
+"lon": "74.9729214",
+"category": "natural",
+"type": "water",
+"place_rank": 22,
+"importance": 0.10671110322728311,
+"addresstype": "water",
+"name": "Miraculous Attur Pond",
+"display_name": "Miraculous Attur Pond, Parpale, Atturu, Karkala taluk, Udupi, Karnataka, 574104, India",
+"boundingbox": [
+"13.2045991",
+"13.2049096",
+"74.9728152",
+"74.9730276"
+]
+}
+],
+"Malpe, Udupi, Karnataka, India": [
+{
+"place_id": 250911165,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 672742464,
+"lat": "13.3507423",
+"lon": "74.7036914",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.1467195063706416,
+"addresstype": "suburb",
+"name": "Malpe",
+"display_name": "Malpe, Udupi, Udupi taluku, Udupi, Karnataka, 576101, India",
+"boundingbox": [
+"13.3307423",
+"13.3707423",
+"74.6836914",
+"74.7236914"
+]
+}
+],
+"Udupi, Udupi, Karnataka, India": [
+{
+"place_id": 252816771,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245620117,
+"lat": "13.3419169",
+"lon": "74.7473232",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.4682004470627894,
+"addresstype": "city",
+"name": "Udupi",
+"display_name": "Udupi, Udupi taluku, Udupi, Karnataka, 576101, India",
+"boundingbox": [
+"13.1819169",
+"13.5019169",
+"74.5873232",
+"74.9073232"
+]
+}
+],
+"Varanga, Udupi, Karnataka, India": [
+{
+"place_id": 253167251,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1930311401,
+"lat": "13.3959310",
+"lon": "75.0036620",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670666742961772,
+"addresstype": "village",
+"name": "Varanga",
+"display_name": "Varanga, Hebri taluku, Udupi, Karnataka, 574108, India",
+"boundingbox": [
+"13.3759310",
+"13.4159310",
+"74.9836620",
+"75.0236620"
+]
+}
+],
+"Manjuguni, Uttara Kannada, Karnataka, India": [
+{
+"place_id": 253142065,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2505798786,
+"lat": "14.6043288",
+"lon": "74.2957294",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.1467103158617532,
+"addresstype": "village",
+"name": "Manjuguni",
+"display_name": "Manjuguni, Ankola taluk, Uttara Kannada, Karnataka, 581319, India",
+"boundingbox": [
+"14.5843288",
+"14.6243288",
+"74.2757294",
+"74.3157294"
+]
+}
+],
+"Murudeshwar, Uttara Kannada, Karnataka, India": [],
+"Kannada University Campus, Vijayanagara, Karnataka, India": [],
+"Hampi, Vijayanagara, Karnataka, India": [
+{
+"place_id": 250075818,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 345110048,
+"lat": "15.3358000",
+"lon": "76.4610201",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.2574973608523206,
+"addresstype": "village",
+"name": "Hampi",
+"display_name": "Hampi, Hosapete taluk, Vijayanagara, Karnataka, 583239, India",
+"boundingbox": [
+"15.3158000",
+"15.3558000",
+"76.4410201",
+"76.4810201"
+]
+}
+],
+"Vijayapura, Vijayapura, Karnataka, India": [
+{
+"place_id": 245818803,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245638671,
+"lat": "16.8269911",
+"lon": "75.7175387",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.5066262793305429,
+"addresstype": "city",
+"name": "Vijayapura",
+"display_name": "Vijayapura, Bijapur Taluk, Vijayapura, Karnataka, 586101, India",
+"boundingbox": [
+"16.6669911",
+"16.9869911",
+"75.5575387",
+"75.8775387"
+]
+}
+],
+"Bonal, Yadgir, Karnataka, India": [],
+"Chennai, Chennai, Tamil Nadu, India": [
+{
+"place_id": 428949275,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 1766358,
+"lat": "13.0800915",
+"lon": "80.2807978",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.6796065306212251,
+"addresstype": "city",
+"name": "Chennai",
+"display_name": "Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, India",
+"boundingbox": [
+"12.8519771",
+"13.2351580",
+"80.1339233",
+"80.3328982"
+]
+}
+],
+"Anna Road, Chennai, Tamil Nadu, India": [
+{
+"place_id": 426583652,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 843855625,
+"lat": "13.1253115",
+"lon": "80.1555811",
+"category": "highway",
+"type": "residential",
+"place_rank": 26,
+"importance": 0.053406137941557914,
+"addresstype": "residential",
+"name": "Anna Road",
+"display_name": "Anna Road, Vijayalakshmi Puram, Ward 80, Zone 7 Ambattur, Chennai, Chennai Metropolitan Area, Ambattur, Chennai District, Tamil Nadu, 600053, India",
+"boundingbox": [
+"13.1223660",
+"13.1283028",
+"80.1552246",
+"80.1556292"
+]
+}
+],
+"Mylapore, Chennai, Tamil Nadu, India": [
+{
+"place_id": 252413275,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 247677540,
+"lat": "13.0316473",
+"lon": "80.2700166",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.4972941318707617,
+"addresstype": "suburb",
+"name": "Mylapore",
+"display_name": "Mylapore, Zone 9 Teynampet, Chennai, Chennai Metropolitan Area, Mylapore, Chennai District, Tamil Nadu, 600004, India",
+"boundingbox": [
+"13.0116473",
+"13.0516473",
+"80.2500166",
+"80.2900166"
+]
+}
+],
+"Madras University, Chennai, Tamil Nadu, India": [
+{
+"place_id": 248538838,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 24730814,
+"lat": "12.9941561",
+"lon": "80.2366826",
+"category": "amenity",
+"type": "university",
+"place_rank": 30,
+"importance": 0.45670105723186827,
+"addresstype": "amenity",
+"name": "Indian Institute of Technology - Madras",
+"display_name": "Indian Institute of Technology - Madras, Adayar, Ward 174, Zone 13 Adyar, Chennai, Chennai Metropolitan Area, Guindy, Chennai District, Tamil Nadu, 600036, India",
+"boundingbox": [
+"12.9826663",
+"13.0067032",
+"80.2231655",
+"80.2436005"
+]
+}
+],
+"Pulicat, Thiruvallur, Tamil Nadu, India": [
+{
+"place_id": 251387999,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 322481124,
+"lat": "13.4176606",
+"lon": "80.3166702",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.47558748422352304,
+"addresstype": "town",
+"name": "Pulicat",
+"display_name": "Pulicat, Chennai Metropolitan Area, Ponneri, Thiruvallur, Tamil Nadu, India",
+"boundingbox": [
+"13.3776606",
+"13.4576606",
+"80.2766702",
+"80.3566702"
+]
+}
+],
+"Mamallapuram, Chengalpattu, Tamil Nadu, India": [
+{
+"place_id": 254189051,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 6187308686,
+"lat": "12.6195981",
+"lon": "80.1936497",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4822251132095625,
+"addresstype": "town",
+"name": "Mahabalipuram",
+"display_name": "Mahabalipuram, Chennai Metropolitan Area, Tirukalukundram, Chengalpattu, Tamil Nadu, 603104, India",
+"boundingbox": [
+"12.5795981",
+"12.6595981",
+"80.1536497",
+"80.2336497"
+]
+}
+],
+"Vedanthangal, Chengalpattu, Tamil Nadu, India": [
+{
+"place_id": 251471627,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 469112052,
+"lat": "12.5608537",
+"lon": "79.8618404",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.1467187815671015,
+"addresstype": "village",
+"name": "Vedanthangal",
+"display_name": "Vedanthangal, Maduranthakam, Chengalpattu, Tamil Nadu, 603303, India",
+"boundingbox": [
+"12.5408537",
+"12.5808537",
+"79.8418404",
+"79.8818404"
+]
+}
+],
+"Gingee, Villupuram, Tamil Nadu, India": [
+{
+"place_id": 252629882,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2156886933,
+"lat": "12.1089943",
+"lon": "79.2462106",
+"category": "amenity",
+"type": "atm",
+"place_rank": 30,
+"importance": 3.750133516437045e-05,
+"addresstype": "amenity",
+"name": "State Bank of India",
+"display_name": "State Bank of India, Vettavalam to Villupuram road, Vettavalam, Kilpennathur, Tiruvannamalai, Tamil Nadu, 606754, India",
+"boundingbox": [
+"12.1089443",
+"12.1090443",
+"79.2461606",
+"79.2462606"
+]
+}
+],
+"Pondicherry, Puducherry, Puducherry, India": [
+{
+"place_id": 253789983,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245600130,
+"lat": "11.9340568",
+"lon": "79.8306447",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.5201262680716353,
+"addresstype": "city",
+"name": "Puducherry",
+"display_name": "Puducherry, Puducherry Taluk, Puducherry, 605001, India",
+"boundingbox": [
+"11.7740568",
+"12.0940568",
+"79.6706447",
+"79.9906447"
+]
+}
+],
+"Sri Aurobindo Ashram, Puducherry, Puducherry, India": [
+{
+"place_id": 253549104,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 283536972,
+"lat": "11.9368043",
+"lon": "79.8342897",
+"category": "landuse",
+"type": "religious",
+"place_rank": 24,
+"importance": 0.0800590211337453,
+"addresstype": "religious",
+"name": "Sri Aurobindo Ashram",
+"display_name": "Sri Aurobindo Ashram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry, 605001, India",
+"boundingbox": [
+"11.9365469",
+"11.9370459",
+"79.8339472",
+"79.8346392"
+]
+}
+],
+"Tiruvannamalai, Tiruvannamalai, Tamil Nadu, India": [
+{
+"place_id": 253102117,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 84649892,
+"lat": "12.2343228",
+"lon": "79.0761989",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.43372653935730887,
+"addresstype": "town",
+"name": "Tiruvannamalai",
+"display_name": "Tiruvannamalai, Tamil Nadu, India",
+"boundingbox": [
+"12.2123895",
+"12.2640942",
+"79.0533909",
+"79.0888862"
+]
+}
+],
+"Sri Ramanasramam, Tiruvannamalai, Tamil Nadu, India": [],
+"Vadalur, Cuddalore, Tamil Nadu, India": [
+{
+"place_id": 253803352,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 6316093497,
+"lat": "11.5551872",
+"lon": "79.5550670",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.37878580059237354,
+"addresstype": "town",
+"name": "Vadalur",
+"display_name": "Vadalur, Kurinjipadi, Cuddalore, Tamil Nadu, 607303, India",
+"boundingbox": [
+"11.5151872",
+"11.5951872",
+"79.5150670",
+"79.5950670"
+]
+}
+],
+"Chidambaram, Cuddalore, Tamil Nadu, India": [
+{
+"place_id": 251886408,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5300686639,
+"lat": "11.3920706",
+"lon": "79.7030250",
+"category": "railway",
+"type": "station",
+"place_rank": 30,
+"importance": 0.35892997054582615,
+"addresstype": "railway",
+"name": "Chidambaram",
+"display_name": "Chidambaram, Railway Feeder Road, Chidambaram, Cuddalore, Tamil Nadu, 608001, India",
+"boundingbox": [
+"11.3870706",
+"11.3970706",
+"79.6980250",
+"79.7080250"
+]
+}
+],
+"Killai, Cuddalore, Tamil Nadu, India": [
+{
+"place_id": 253268682,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1669869309,
+"lat": "11.4478030",
+"lon": "79.7679974",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670453574425873,
+"addresstype": "village",
+"name": "Killai",
+"display_name": "Killai, Chidambaram, Cuddalore, Tamil Nadu, 608102, India",
+"boundingbox": [
+"11.4278030",
+"11.4678030",
+"79.7479974",
+"79.7879974"
+]
+}
+],
+"Tiruvarur, Tiruvarur, Tamil Nadu, India": [
+{
+"place_id": 254159062,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 7252225833,
+"lat": "10.7745978",
+"lon": "79.6279725",
+"category": "amenity",
+"type": "hospital",
+"place_rank": 30,
+"importance": 4.890135042339235e-05,
+"addresstype": "amenity",
+"name": "Tiruvarur Medical Centre",
+"display_name": "Tiruvarur Medical Centre, Tiruvarur - Kodavasal - Kumbakonam Road, Manalmedu, Thiruvarur, Tamil Nadu, 610001, India",
+"boundingbox": [
+"10.7745478",
+"10.7746478",
+"79.6279225",
+"79.6280225"
+]
+}
+],
+"Nagore, Nagapattinam, Tamil Nadu, India": [
+{
+"place_id": 253649677,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 985507397,
+"lat": "10.8166979",
+"lon": "79.8403641",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16005395513847562,
+"addresstype": "town",
+"name": "Nagore",
+"display_name": "Nagore, Nagapattinam, Tamil Nadu, 611002, India",
+"boundingbox": [
+"10.7766979",
+"10.8566979",
+"79.8003641",
+"79.8803641"
+]
+}
+],
+"Vailankanni, Nagapattinam, Tamil Nadu, India": [
+{
+"place_id": 253293551,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 672541959,
+"lat": "10.6802404",
+"lon": "79.8495671",
+"category": "amenity",
+"type": "place_of_worship",
+"place_rank": 30,
+"importance": 0.32076214465567665,
+"addresstype": "amenity",
+"name": "Shrine Basilica of Our Lady of Health Vailankanni",
+"display_name": "Shrine Basilica of Our Lady of Health Vailankanni, Madha Kovil Road, Pilgrim quarters, Periyanayaki, Velankanni Special Grade Town Panchayath, Kilvelur, Nagapattinam, Tamil Nadu, 611111, India",
+"boundingbox": [
+"10.6800802",
+"10.6804228",
+"79.8491466",
+"79.8501362"
+]
+}
+],
+"Swamimalai, Thanjavur, Tamil Nadu, India": [
+{
+"place_id": 254059988,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1207479981,
+"lat": "10.9566860",
+"lon": "79.3260401",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14672028305485613,
+"addresstype": "village",
+"name": "Swamimalai",
+"display_name": "Swamimalai, Kumbakonam, Thanjavur, Tamil Nadu, 612303, India",
+"boundingbox": [
+"10.9366860",
+"10.9766860",
+"79.3060401",
+"79.3460401"
+]
+}
+],
+"Darasuram, Thanjavur, Tamil Nadu, India": [
+{
+"place_id": 253917920,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5300821191,
+"lat": "10.9446343",
+"lon": "79.3562707",
+"category": "railway",
+"type": "halt",
+"place_rank": 30,
+"importance": 5.3616388189471544e-05,
+"addresstype": "railway",
+"name": "Darasuram",
+"display_name": "Darasuram, Thittai - Dharasuram Road, Annalagraharam, Dharasuram, Kumbakonam, Thanjavur, Tamil Nadu, 612001, India",
+"boundingbox": [
+"10.9445843",
+"10.9446843",
+"79.3562207",
+"79.3563207"
+]
+}
+],
+"Gangaikondacholapuram, Ariyalur, Tamil Nadu, India": [
+{
+"place_id": 253904414,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 1192534130,
+"lat": "11.2075353",
+"lon": "79.4490929",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.3807705141182751,
+"addresstype": "village",
+"name": "Gangaikondacholapuram",
+"display_name": "Gangaikondacholapuram, Udayarpalayam, Ariyalur, Tamil Nadu, 612901, India",
+"boundingbox": [
+"11.1875353",
+"11.2275353",
+"79.4290929",
+"79.4690929"
+]
+}
+],
+"Thanjavur, Thanjavur, Tamil Nadu, India": [
+{
+"place_id": 259919790,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245587589,
+"lat": "10.7860267",
+"lon": "79.1381497",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.5094266432651668,
+"addresstype": "city",
+"name": "Thanjavur",
+"display_name": "Thanjavur, Tamil Nadu, 613001, India",
+"boundingbox": [
+"10.6260267",
+"10.9460267",
+"78.9781497",
+"79.2981497"
+]
+}
+],
+"Thogur, Thanjavur, Tamil Nadu, India": [
+{
+"place_id": 251968139,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 9375019794,
+"lat": "10.8303344",
+"lon": "78.8110685",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670540856031125,
+"addresstype": "village",
+"name": "Thogur",
+"display_name": "Thogur, Thiruvaiyaru, Thanjavur, Tamil Nadu, 620014, India",
+"boundingbox": [
+"10.8103344",
+"10.8503344",
+"78.7910685",
+"78.8310685"
+]
+}
+],
+"Thiruvaiyaru, Thanjavur, Tamil Nadu, India": [
+{
+"place_id": 253918173,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 885541408,
+"lat": "10.8797198",
+"lon": "79.1039298",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.3922202821662208,
+"addresstype": "town",
+"name": "Thiruvaiyaru",
+"display_name": "Thiruvaiyaru, Thanjavur, Tamil Nadu, 613204, India",
+"boundingbox": [
+"10.8397198",
+"10.9197198",
+"79.0639298",
+"79.1439298"
+]
+}
+],
+"Kodikkarai, Nagapattinam, Tamil Nadu, India": [
+{
+"place_id": 253424392,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 387629695,
+"lat": "10.2749692",
+"lon": "79.8236364",
+"category": "man_made",
+"type": "pier",
+"place_rank": 30,
+"importance": 3.750133516437045e-05,
+"addresstype": "man_made",
+"name": "Kodikkarai",
+"display_name": "Kodikkarai, Beach access Road, Kodiyakkarai, Vedaranyam, Nagapattinam, Tamil Nadu, 614807, India",
+"boundingbox": [
+"10.2746827",
+"10.2750905",
+"79.8233874",
+"79.8239717"
+]
+}
+],
+"Tiruchirappalli, Tiruchirappalli, Tamil Nadu, India": [
+{
+"place_id": 254001815,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10318360,
+"lat": "10.8071144",
+"lon": "78.6880939",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.5421586885764348,
+"addresstype": "city",
+"name": "Tiruchirappalli",
+"display_name": "Tiruchirappalli, Tiruchchir\u0101ppalli, Tiruchirappalli, Tamil Nadu, India",
+"boundingbox": [
+"10.7273005",
+"10.8457612",
+"78.6461234",
+"78.7426615"
+]
+}
+],
+"Srirangam, Tiruchirappalli, Tamil Nadu, India": [
+{
+"place_id": 251979841,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 367564056,
+"lat": "10.8573308",
+"lon": "78.6930848",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.429220599380745,
+"addresstype": "suburb",
+"name": "Srirangam",
+"display_name": "Srirangam, Trichy Zone I, Trichy Corporation Limits, Srirangam, Tiruchirappalli, Tamil Nadu, 620006, India",
+"boundingbox": [
+"10.8373308",
+"10.8773308",
+"78.6730848",
+"78.7130848"
+]
+}
+],
+"Rameswaram, Ramanathapuram, Tamil Nadu, India": [
+{
+"place_id": 250779444,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 339884241,
+"lat": "9.2844657",
+"lon": "79.3125553",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4585153154700323,
+"addresstype": "town",
+"name": "Rameswaram",
+"display_name": "Rameswaram, Ramanathapuram, Tamil Nadu, 623526, India",
+"boundingbox": [
+"9.2444657",
+"9.3244657",
+"79.2725553",
+"79.3525553"
+]
+}
+],
+"Kodaikanal, Dindigul, Tamil Nadu, India": [
+{
+"place_id": 253262225,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 668284157,
+"lat": "10.2337120",
+"lon": "77.4919719",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.44357265160904613,
+"addresstype": "town",
+"name": "Kodaikanal",
+"display_name": "Kodaikanal, Dindigul, Tamil Nadu, India",
+"boundingbox": [
+"10.2189607",
+"10.2627757",
+"77.4636089",
+"77.5151202"
+]
+}
+],
+"Palani, Dindigul, Tamil Nadu, India": [
+{
+"place_id": 252933772,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 778229947,
+"lat": "10.4511094",
+"lon": "77.5154495",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.41828013814504167,
+"addresstype": "town",
+"name": "Palani",
+"display_name": "Palani, Dindigul, Tamil Nadu, 624600, India",
+"boundingbox": [
+"10.4111094",
+"10.4911094",
+"77.4754495",
+"77.5554495"
+]
+}
+],
+"Madurai, Madurai, Tamil Nadu, India": [
+{
+"place_id": 253589467,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 11268397,
+"lat": "9.9261153",
+"lon": "78.1140983",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 16,
+"importance": 0.5855094255620709,
+"addresstype": "city",
+"name": "Madurai",
+"display_name": "Madurai, Madurai South, Madurai, Tamil Nadu, India",
+"boundingbox": [
+"9.8245041",
+"9.9933722",
+"78.0155927",
+"78.2030091"
+]
+}
+],
+"Madurai Bazaar, Madurai, Tamil Nadu, India": [
+{
+"place_id": 252596052,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 9859758919,
+"lat": "9.9206397",
+"lon": "78.1185659",
+"category": "tourism",
+"type": "gallery",
+"place_rank": 30,
+"importance": 6.324940871285599e-05,
+"addresstype": "tourism",
+"name": "Madurai. Bazaar",
+"display_name": "Madurai. Bazaar, Vadakku Chithirai Veethi, Goripalayam, Madurai, Madurai South, Madurai, Tamil Nadu, 625001, India",
+"boundingbox": [
+"9.9205897",
+"9.9206897",
+"78.1185159",
+"78.1186159"
+]
+}
+],
+"Thiruparankundram, Madurai, Tamil Nadu, India": [
+{
+"place_id": 252117545,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 807725225,
+"lat": "9.8763294",
+"lon": "78.0711950",
+"category": "natural",
+"type": "bare_rock",
+"place_rank": 22,
+"importance": 0.10672991607537954,
+"addresstype": "bare_rock",
+"name": "Thiruparankundram",
+"display_name": "Thiruparankundram, Vilachery, Thirupparankundram, Madurai, Madurai South, Madurai, Tamil Nadu, 625005, India",
+"boundingbox": [
+"9.8731783",
+"9.8794416",
+"78.0659712",
+"78.0748974"
+]
+}
+],
+"Alagarkovil, Madurai, Tamil Nadu, India": [
+{
+"place_id": 252705415,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 315046026,
+"lat": "10.0684403",
+"lon": "78.2157093",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Alagarkovil",
+"display_name": "Alagarkovil, Melur, Madurai, Tamil Nadu, 625301, India",
+"boundingbox": [
+"10.0484403",
+"10.0884403",
+"78.1957093",
+"78.2357093"
+]
+}
+],
+"Kalakad, Tirunelveli, Tamil Nadu, India": [
+{
+"place_id": 381215803,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 548612227,
+"lat": "8.5008058",
+"lon": "77.6174353",
+"category": "highway",
+"type": "primary",
+"place_rank": 26,
+"importance": 0.05337309147783623,
+"addresstype": "primary",
+"name": "Nanguneri - Kalakad Road",
+"display_name": "Nanguneri - Kalakad Road, Nanguneri, Tirunelveli, Tamil Nadu, 627108, India",
+"boundingbox": [
+"8.4916810",
+"8.5116815",
+"77.5856021",
+"77.6492442"
+]
+}
+],
+"Courtallam, Tenkasi, Tamil Nadu, India": [
+{
+"place_id": 254128820,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 353064240,
+"lat": "8.9328828",
+"lon": "77.2714628",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.38057472762224825,
+"addresstype": "village",
+"name": "Courtallam",
+"display_name": "Courtallam, Tenkasi, Tamil Nadu, 627802, India",
+"boundingbox": [
+"8.9128828",
+"8.9528828",
+"77.2514628",
+"77.2914628"
+]
+}
+],
+"Manapad, Thoothukudi, Tamil Nadu, India": [
+{
+"place_id": 255345759,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5008899225,
+"lat": "8.3764832",
+"lon": "78.0561340",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.26244239079806453,
+"addresstype": "village",
+"name": "Manappadu",
+"display_name": "Manappadu, Tiruchendur, Thoothukudi, Tamil Nadu, 628206, India",
+"boundingbox": [
+"8.3564832",
+"8.3964832",
+"78.0361340",
+"78.0761340"
+]
+}
+],
+"Tiruchendur, Thoothukudi, Tamil Nadu, India": [
+{
+"place_id": 254203303,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 3421197615,
+"lat": "8.4955680",
+"lon": "78.1233240",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.40280626061957847,
+"addresstype": "town",
+"name": "Tiruchendur",
+"display_name": "Tiruchendur, Thoothukudi, Tamil Nadu, 628200, India",
+"boundingbox": [
+"8.4555680",
+"8.5355680",
+"78.0833240",
+"78.1633240"
+]
+}
+],
+"Ettayapuram, Thoothukudi, Tamil Nadu, India": [
+{
+"place_id": 253834915,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 10311690,
+"lat": "9.1806106",
+"lon": "78.0230534",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.23094323434513592,
+"addresstype": "county",
+"name": "Ettayapuram",
+"display_name": "Ettayapuram, Thoothukudi, Tamil Nadu, India",
+"boundingbox": [
+"8.9985657",
+"9.3625888",
+"77.9105329",
+"78.1221781"
+]
+}
+],
+"Muttom, Kanniyakumari, Tamil Nadu, India": [
+{
+"place_id": 253941592,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 5327243405,
+"lat": "8.1242258",
+"lon": "77.3178077",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.30663527500158994,
+"addresstype": "village",
+"name": "Muttom",
+"display_name": "Muttom, Kalkulam, Kanniyakumari, Tamil Nadu, 629202, India",
+"boundingbox": [
+"8.1042258",
+"8.1442258",
+"77.2978077",
+"77.3378077"
+]
+}
+],
+"Kanniyakumari, Kanniyakumari, Tamil Nadu, India": [
+{
+"place_id": 254506399,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 2595195129,
+"lat": "8.0879641",
+"lon": "77.5467414",
+"category": "railway",
+"type": "station",
+"place_rank": 30,
+"importance": 0.21822785325192331,
+"addresstype": "railway",
+"name": "Kanniyakumari",
+"display_name": "Kanniyakumari, Main Road, Ottayalvilai, Vivekanandapuram, Agastheeswaram, Kanyakumari, Agastheeswaram, Kanniyakumari, Tamil Nadu, 629702, India",
+"boundingbox": [
+"8.0829641",
+"8.0929641",
+"77.5417414",
+"77.5517414"
+]
+}
+],
+"Tiruttani, Thiruvallur, Tamil Nadu, India": [
+{
+"place_id": 252197067,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "relation",
+"osm_id": 6286164,
+"lat": "13.1610832",
+"lon": "79.5515842",
+"category": "boundary",
+"type": "administrative",
+"place_rank": 12,
+"importance": 0.4514027827507835,
+"addresstype": "county",
+"name": "Tiruttani",
+"display_name": "Tiruttani, Thiruvallur, Tamil Nadu, India",
+"boundingbox": [
+"13.0247639",
+"13.2974415",
+"79.4693470",
+"79.8255658"
+]
+}
+],
+"Kanchipuram, Kanchipuram, Tamil Nadu, India": [
+{
+"place_id": 252039531,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 256777854,
+"lat": "12.8363930",
+"lon": "79.7053304",
+"category": "place",
+"type": "city",
+"place_rank": 16,
+"importance": 0.48974932769785967,
+"addresstype": "city",
+"name": "Kanchipuram",
+"display_name": "Kanchipuram, Chennai Metropolitan Area, Kancheepuram, Kanchipuram, Tamil Nadu, 631501, India",
+"boundingbox": [
+"12.6763930",
+"12.9963930",
+"79.5453304",
+"79.8653304"
+]
+}
+],
+"CMC Hospital, Vellore, Vellore, Tamil Nadu, India": [
+{
+"place_id": 253089260,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 4693433970,
+"lat": "12.9255495",
+"lon": "79.1333775",
+"category": "highway",
+"type": "bus_stop",
+"place_rank": 30,
+"importance": 5.360570687414385e-05,
+"addresstype": "highway",
+"name": "CMC Hospital",
+"display_name": "CMC Hospital, NH38, Kosapet, Vellore, Tamil Nadu, 632008, India",
+"boundingbox": [
+"12.9254995",
+"12.9255995",
+"79.1333275",
+"79.1334275"
+]
+}
+],
+"Vellore Fort, Vellore, Tamil Nadu, India": [
+{
+"place_id": 252958017,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 557512110,
+"lat": "12.9204669",
+"lon": "79.1281816",
+"category": "historic",
+"type": "fort",
+"place_rank": 30,
+"importance": 0.3692588589939114,
+"addresstype": "historic",
+"name": "Vellore Fort",
+"display_name": "Vellore Fort, Fort Round Road, Kosapet, Vellore, Tamil Nadu, 632008, India",
+"boundingbox": [
+"12.9175774",
+"12.9233644",
+"79.1260199",
+"79.1306484"
+]
+}
+],
+"Kavalur, Tirupathur, Tamil Nadu, India": [],
+"Hasthampatti, Salem, Tamil Nadu, India": [
+{
+"place_id": 254434593,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 358785942,
+"lat": "11.6764214",
+"lon": "78.1581382",
+"category": "place",
+"type": "suburb",
+"place_rank": 19,
+"importance": 0.146723580529488,
+"addresstype": "suburb",
+"name": "Hasthampatti",
+"display_name": "Hasthampatti, Salem, Tamil Nadu, 636007, India",
+"boundingbox": [
+"11.6564214",
+"11.6964214",
+"78.1381382",
+"78.1781382"
+]
+}
+],
+"Tiruchengodu, Namakkal, Tamil Nadu, India": [
+{
+"place_id": 253357136,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245591866,
+"lat": "11.3786608",
+"lon": "77.8949223",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16004500877393757,
+"addresstype": "town",
+"name": "Tiruchengodu",
+"display_name": "Tiruchengodu, Tiruchengode, Namakkal, Tamil Nadu, 637200, India",
+"boundingbox": [
+"11.3386608",
+"11.4186608",
+"77.8549223",
+"77.9349223"
+]
+}
+],
+"Bhavani, Erode, Tamil Nadu, India": [
+{
+"place_id": 254167585,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "way",
+"osm_id": 70237216,
+"lat": "11.4699779",
+"lon": "77.3312149",
+"category": "waterway",
+"type": "river",
+"place_rank": 19,
+"importance": 0.41476986573684055,
+"addresstype": "river",
+"name": "Bhavani",
+"display_name": "Bhavani, Gobichettipalayam, Erode, Tamil Nadu, India",
+"boundingbox": [
+"11.4548526",
+"11.5252056",
+"77.1136358",
+"77.5626585"
+]
+}
+],
+"TNAU-Lawley Road, Coimbatore, Tamil Nadu, India": [],
+"Perur, Coimbatore, Coimbatore, Tamil Nadu, India": [
+{
+"place_id": 253122031,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 294521062,
+"lat": "10.9764060",
+"lon": "76.9141784",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.16006338521400776,
+"addresstype": "town",
+"name": "Perur",
+"display_name": "Perur, Coimbatore South, Coimbatore, Tamil Nadu, 641010, India",
+"boundingbox": [
+"10.9364060",
+"11.0164060",
+"76.8741784",
+"76.9541784"
+]
+}
+],
+"Anaikatti, Coimbatore, Tamil Nadu, India": [
+{
+"place_id": 253147626,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245589432,
+"lat": "11.1161249",
+"lon": "76.7480411",
+"category": "place",
+"type": "village",
+"place_rank": 19,
+"importance": 0.14670416800183103,
+"addresstype": "village",
+"name": "Anaikatti",
+"display_name": "Anaikatti, Coimbatore North, Coimbatore, Tamil Nadu, 678741, India",
+"boundingbox": [
+"11.0961249",
+"11.1361249",
+"76.7280411",
+"76.7680411"
+]
+}
+],
+"Ishana Vihar, Coimbatore, Tamil Nadu, India": [],
+"Karumathampatti, Coimbatore, Tamil Nadu, India": [
+{
+"place_id": 251718130,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 10959201995,
+"lat": "11.1076538",
+"lon": "77.1770895",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.1600375013351644,
+"addresstype": "town",
+"name": "Karumathampatti",
+"display_name": "Karumathampatti, Sulur, Coimbatore, Tamil Nadu, 641668, India",
+"boundingbox": [
+"11.0676538",
+"11.1476538",
+"77.1370895",
+"77.2170895"
+]
+}
+],
+"Top Slip, Coimbatore, Tamil Nadu, India": [],
+"Udagamandalam, The Nilgiris, Tamil Nadu, India": [
+{
+"place_id": 253864570,
+"licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+"osm_type": "node",
+"osm_id": 245592179,
+"lat": "11.4126769",
+"lon": "76.7030504",
+"category": "place",
+"type": "town",
+"place_rank": 18,
+"importance": 0.4718522589509839,
+"addresstype": "town",
+"name": "Udhagamandalam",
+"display_name": "Udhagamandalam, Nilgiris, Tamil Nadu, 643001, India",
+"boundingbox": [
+"11.3726769",
+"11.4526769",
+"76.6630504",
+"76.7430504"
+]
+}
+],
+"Coonoor Railway Station, The Nilgiris, Tamil Nadu, India": [],
+"Mudumalai Sanctuary, The Nilgiris, Tamil Nadu, India": []
+}

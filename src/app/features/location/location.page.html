@@ -1,0 +1,78 @@
+@if (loc(); as l) {
+  <a class="back" [routerLink]="['/passport', l.passport]">← {{ l.passport === 'KA' ? 'Karnataka' : 'Tamil Nadu' }} passport</a>
+  <article class="sheet card">
+    <div class="top">
+      <div>
+        <p class="kicker">#{{ l.order }} · {{ l.district }}, {{ l.state }}</p>
+        <h1>{{ l.place }}</h1>
+        <p class="theme">Cancellation design: “{{ l.ppcTheme }}”@if (l.ppcSince) { <span class="muted"> · in use since {{ l.ppcSince }}</span> }</p>
+      </div>
+      <pp-cancellation-mark [office]="l.postOffice" [pin]="l.pin" [date]="visit()?.date" [seed]="l.id" />
+    </div>
+    @if (l.guide) { <p class="guide">{{ l.guide }}</p> }
+
+    <dl class="facts">
+      <div><dt>{{ 'common.postOffice' | t }}</dt><dd>{{ l.postOffice }} <span class="muted mono">({{ l.postOfficeRank }})</span></dd></div>
+      <div><dt>{{ 'common.pin' | t }}</dt><dd class="mono">{{ l.pin }}</dd></div>
+      <div><dt>{{ 'common.officeType' | t }}</dt><dd>{{ l.officeType ?? 'Unknown' }}</dd></div>
+      <div><dt>Hours</dt><dd class="muted">Not verified. Branch offices (BO) often keep short hours; call ahead.</dd></div>
+    </dl>
+
+    <div class="row">
+      <a class="btn" [href]="mapsUrl()" target="_blank" rel="noopener">{{ 'common.directions' | t }} ↗</a>
+      @if (osmUrl()) { <a class="btn ghost" [href]="osmUrl()" target="_blank" rel="noopener">OpenStreetMap ↗</a> }
+    </div>
+    @if (l.confidence.coords !== 'medium' && l.confidence.coords !== 'high') {
+      <p class="warn">⚠ {{ 'common.approxLocation' | t }}: {{ l.geocode.note }}</p>
+    }
+    @for (n of l.notes; track n) { <p class="warn">⚠ {{ n }}</p> }
+  </article>
+
+  <section class="card">
+    <h2>Your visit</h2>
+    @if (visit(); as v) {
+      <div class="visit">
+        <label class="field">{{ 'common.collectedOn' | t }}<input type="date" [value]="v.date" (change)="setDate($any($event.target).value)" /></label>
+        <label class="field grow">Note<input type="text" [value]="v.note ?? ''" placeholder="Queue, counter staff, what you stamped…" (change)="setNote($any($event.target).value)" /></label>
+        <button class="btn ghost" (click)="visits.unmark(l.id)">{{ 'common.unmark' | t }}</button>
+      </div>
+    } @else {
+      <button class="btn red" (click)="visits.mark(l.id)">✓ {{ 'common.markVisited' | t }}</button>
+    }
+
+    <h3>{{ 'common.photos' | t }}</h3>
+    <p class="muted small">Photos stay on this device (IndexedDB). Nothing is uploaded.</p>
+    <label class="btn ghost upload">
+      📷 {{ busy() ? 'Saving…' : ('common.addPhoto' | t) }}
+      <input type="file" accept="image/*" capture="environment" multiple (change)="onFiles($event)" [disabled]="busy()" />
+    </label>
+    <div class="photos">
+      @for (p of photos(); track p.key) {
+        <figure>
+          <img [src]="p.url" alt="Photo of the ink cancellation" loading="lazy" />
+          <figcaption>
+            <span class="mono">{{ p.createdAt | date: 'dd MMM yyyy' }}</span>
+            <button class="x" (click)="remove(p)" aria-label="Delete photo">✕</button>
+          </figcaption>
+        </figure>
+      }
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>{{ 'common.confidence' | t }}</h2>
+    <p class="muted small">{{ l.booklet.note }}</p>
+    <table class="conf">
+      @for (row of confidenceRows(); track row[0]) {
+        <tr><th>{{ row[0] }}</th><td><pp-confidence [level]="row[1]" /></td></tr>
+      }
+    </table>
+    <h3>{{ 'common.sources' | t }}</h3>
+    <ul class="sources">
+      @for (s of l.sources; track s) { <li class="mono">{{ s }}</li> }
+      <li class="mono">coords: {{ l.geocode.method }}</li>
+    </ul>
+  </section>
+} @else {
+  <p class="muted">Location not found.</p>
+}

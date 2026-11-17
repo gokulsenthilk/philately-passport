@@ -1,0 +1,37 @@
+<div class="toolbar">
+  <div class="chip-row" role="group" aria-label="Passport">
+    <button class="chip" [class.on]="passportF() === 'ALL'" (click)="setPassport('ALL')">{{ 'common.allStates' | t }}</button>
+    <button class="chip" [class.on]="passportF() === 'KA'" (click)="setPassport('KA')">Karnataka</button>
+    <button class="chip" [class.on]="passportF() === 'TN'" (click)="setPassport('TN')">Tamil Nadu</button>
+  </div>
+  <label class="field">
+    {{ 'common.district' | t }}
+    <select [value]="districtF()" (change)="districtF.set($any($event.target).value); fit()">
+      <option value="">{{ 'common.allDistricts' | t }}</option>
+      @for (d of districts(); track d) {
+        <option [value]="d">{{ d }}</option>
+      }
+    </select>
+  </label>
+  <label class="field">
+    Status
+    <select [value]="statusF()" (change)="statusF.set($any($event.target).value)">
+      <option value="all">All</option>
+      <option value="todo">{{ 'map.legend.todo' | t }}</option>
+      <option value="done">{{ 'map.legend.visited' | t }}</option>
+    </select>
+  </label>
+  <div class="actions">
+    <button class="btn ghost" (click)="fit()">Fit</button>
+    <button class="btn ghost" (click)="locate()">◎ Me</button>
+  </div>
+</div>
+<div class="map-wrap card">
+  <div #map class="map" aria-label="Map of stamp locations"></div>
+  <div class="legend">
+    <span><i class="dot todo"></i>{{ 'map.legend.todo' | t }}</span>
+    <span><i class="dot done"></i>{{ 'map.legend.visited' | t }}</span>
+    <span><i class="dot approx"></i>{{ 'map.legend.approx' | t }}</span>
+    <span class="mono">{{ counts().done }}/{{ counts().shown }}</span>
+  </div>
+</div>

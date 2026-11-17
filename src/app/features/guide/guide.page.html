@@ -1,0 +1,64 @@
+<h1>{{ 'guide.title' | t }}</h1>
+
+<section class="card">
+  <h2>The idea in one minute</h2>
+  <ol>
+    <li><strong>Buy the booklet</strong> at a designated counter (see below). It is a souvenir journal, not a travel document.</li>
+    <li><strong>Go to the post office</strong> listed for a page. The pictorial cancellation is kept at that office, which is not always at the monument itself.</li>
+    <li><strong>Buy a postage stamp</strong>, stick it on the page, and ask the counter to cancel it with the Permanent Pictorial Cancellation (PPC).</li>
+    <li><strong>Tick it here</strong>, add the date and a photo of the ink impression, and watch your district map fill up.</li>
+  </ol>
+</section>
+
+<section class="card">
+  <h2>Where to buy</h2>
+  <div class="two">
+    <div>
+      <h3>Karnataka · ₹600</h3>
+      <p>Sold in person at select head post offices and philatelic bureaus of the Karnataka Postal Circle, reported as:</p>
+      <ul><li>Bengaluru GPO</li><li>Mysuru Head Post Office</li><li>Mangaluru Head Post Office</li><li>Belagavi Head Post Office</li></ul>
+      <p class="muted small">Batches sell out within hours; people queue from early morning. Source: Condé Nast Traveller India, Aug 2026.</p>
+    </div>
+    <div>
+      <h3>Tamil Nadu · ₹650</h3>
+      <p>Philatelic Bureau counters at:</p>
+      <ul><li>Anna Road Head Post Office, Chennai</li><li>Coimbatore Head Post Office</li><li>Madurai Head Post Office</li><li>Tiruchirappalli Head Post Office</li><li>Puducherry Head Post Office</li></ul>
+      <p class="muted small">On sale since late Oct 2026; advance registration was offered when stock ran out. Source: TNC News, 31 Oct 2026.</p>
+    </div>
+  </div>
+  <p class="muted small">Stock and counters change. Check the circle's social media or call the head post office before travelling.</p>
+</section>
+
+<section class="card">
+  <h2>Tips from collectors</h2>
+  <ul>
+    <li><strong>Check the office, not the monument.</strong> Several cancellations are held at a town office some distance from the site.</li>
+    <li><strong>Branch offices (BO) keep short hours</strong>, often a few hours in the morning, and close on Sundays and holidays. Go early on weekdays.</li>
+    <li><strong>Carry small change and a few spare stamps</strong>. Some counters run out of low-value stamps.</li>
+    <li><strong>Ask politely for a clean, full impression.</strong> Hold the page flat and let the ink dry before closing the booklet.</li>
+    <li><strong>Cluster your trips.</strong> Use <em>Near me → Weekend clusters</em> to group nearby offices, and stay in the nearest larger town.</li>
+    <li><strong>Back up your ticks</strong> from the Progress page. Data lives only in this browser.</li>
+  </ul>
+</section>
+
+<section class="card" id="data">
+  <h2>About the data</h2>
+  <p>
+    Compiled on 17 Nov 2026 from public sources: a community list of Permanent Pictorial Cancellations of India (post office, rank, district, PIN),
+    an unofficial list of the 100 Karnataka passport locations, press coverage of the Tamil Nadu launch, OpenStreetMap and GeoNames.
+    The official Tamil Nadu circle PPC page could not be read automatically and is not used yet.
+  </p>
+  <ul>
+    <li><strong>Karnataka:</strong> {{ stats().ka }} of 100 locations, each matched to a known PPC. The list comes from an unofficial tracker, not the printed booklet. {{ stats().conflicts }} entries have a PIN that differs between sources and are flagged.</li>
+    <li><strong>Tamil Nadu:</strong> {{ stats().tn }} pictorial cancellations in the Tamil Nadu circle (incl. Puducherry) for 58 booklet slots. Press says the passport gathers the circle's existing PPCs, but the official 58-list is not online; {{ stats().tnPress }} are named in press coverage.</li>
+    <li><strong>Coordinates:</strong> {{ stats().osm }} matched to an OpenStreetMap post office; {{ stats().town }} are town or village centres (OSM Nominatim); {{ stats().geonames }} are GeoNames localities; {{ stats().centroid }} are PIN-area centroids. Everything except OSM post-office matches is <em>approximate</em> and shown with a dashed ring.</li>
+    <li><strong>Guide text</strong> is short original wording written for this app (marked "editorial"). It is not copied from the booklet.</li>
+    <li><strong>Post office hours</strong> are not included yet because no reliable public source was found.</li>
+  </ul>
+  <p class="muted small">Spot an error? The dataset is one JSON file (<code>public/data/locations.json</code>) built by <code>scripts/compile_data.py</code>.</p>
+</section>
+
+<section class="card disclaimer">
+  <h2>Disclaimer</h2>
+  <p>{{ 'disclaimer.long' | t }}</p>
+</section>

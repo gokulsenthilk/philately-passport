@@ -1,0 +1,69 @@
+<header class="head">
+  <div class="tabs chip-row" role="tablist">
+    <a class="chip" role="tab" routerLink="/passport/KA" [class.on]="code() === 'KA'">Karnataka</a>
+    <a class="chip" role="tab" routerLink="/passport/TN" [class.on]="code() === 'TN'">Tamil Nadu</a>
+  </div>
+  <h1>{{ meta()?.name }}</h1>
+  <p class="muted small">
+    {{ meta()?.edition }} · booklet has {{ meta()?.slots }} cancellations · {{ store.forPassport(code()).length }} locations in this app.
+    @if (code() === 'TN') {
+      The exact list printed in the Tamil Nadu booklet is not published online yet; these are all pictorial cancellations in the Tamil Nadu circle (incl. Puducherry).
+    } @else {
+      Page order here is by district; it may differ from the printed booklet.
+    }
+  </p>
+  <pp-progress-bar label="Collected" [done]="done()" [total]="meta()?.slots ?? 0" />
+  <div class="filters">
+    <label class="field grow">
+      <span class="sr-only">Search</span>
+      <input type="search" [placeholder]="'common.search' | t" [value]="query()" (input)="query.set($any($event.target).value)" />
+    </label>
+    <label class="field">
+      <span class="sr-only">{{ 'common.district' | t }}</span>
+      <select [value]="district()" (change)="district.set($any($event.target).value)">
+        <option value="">{{ 'common.allDistricts' | t }}</option>
+        @for (d of districts(); track d) {
+          <option [value]="d">{{ d }}</option>
+        }
+      </select>
+    </label>
+  </div>
+</header>
+
+<ol class="pages">
+  @for (l of pages(); track l.id) {
+    @let v = visits.visits()[l.id];
+    <li class="page" [class.done]="!!v">
+      <div class="page-head">
+        <span class="no mono">{{ l.order.toString().padStart(3, '0') }}</span>
+        <span class="kicker">{{ l.district }}</span>
+        @if (l.booklet.status !== 'listed') {
+          <span class="tag" [title]="l.booklet.note">{{ l.booklet.status === 'press-mentioned' ? 'in press' : 'unconfirmed' }}</span>
+        }
+      </div>
+      <h2><a [routerLink]="['/location', l.id]">{{ l.place }}</a></h2>
+      <p class="theme">“{{ l.ppcTheme }}”</p>
+      @if (l.guide) { <p class="guide">{{ l.guide }}</p> }
+      <p class="office mono">{{ l.postOffice }} · {{ l.pin }}@if (l.officeType) { · {{ l.officeType }} }</p>
+      <div class="stamp-box">
+        <pp-cancellation-mark [office]="l.postOffice" [pin]="l.pin" [date]="v?.date" [seed]="l.id" />
+        <div class="actions">
+          @if (v) {
+            <label class="field">
+              {{ 'common.collectedOn' | t }}
+              <input type="date" [value]="v.date" (change)="setDate(l.id, $any($event.target).value)" />
+            </label>
+            <button class="btn ghost small" (click)="visits.unmark(l.id)">{{ 'common.unmark' | t }}</button>
+          } @else {
+            <button class="btn red small" (click)="visits.mark(l.id)">✓ {{ 'common.markVisited' | t }}</button>
+          }
+          <a class="link" [routerLink]="['/location', l.id]">
+            📷 {{ photos.counts()[l.id] ?? 0 }} · {{ 'common.details' | t }} →
+          </a>
+        </div>
+      </div>
+    </li>
+  } @empty {
+    <li class="muted">No pages match.</li>
+  }
+</ol>

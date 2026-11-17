@@ -1,0 +1,54 @@
+<section class="hero perforated">
+  <div>
+    <p class="kicker">Karnataka · Tamil Nadu</p>
+    <h1>{{ 'home.hero' | t }}</h1>
+    <p class="muted">
+      India Post's state Philately Passports send you to post offices that keep a Permanent Pictorial Cancellation (PPC).
+      This companion maps every location, lets you tick off pages and keep photos of your real ink stamps, all on your device.
+    </p>
+    <div class="cta">
+      <a class="btn red" routerLink="/map">{{ 'home.start' | t }}</a>
+      <a class="btn ghost" routerLink="/passport/KA">{{ 'home.continue' | t }}</a>
+    </div>
+  </div>
+  <img src="icons/icon-192x192.png" alt="" class="hero-art" width="140" height="140" />
+</section>
+
+@if (store.loading()) {
+  <p class="muted">Loading stamp locations…</p>
+} @else if (store.error()) {
+  <p class="card">Could not load the location data. If you are offline, open the app once online so it can be cached.</p>
+}
+
+<section class="passports">
+  @for (c of cards(); track c.code) {
+    <a class="passport-card card" [routerLink]="['/passport', c.code]" [attr.data-code]="c.code">
+      <div class="cover">
+        <span class="emblem">{{ c.code }}</span>
+        <span class="cover-title">PHILATELY<br />PASSPORT</span>
+      </div>
+      <div class="info">
+        <h2>{{ c.meta?.name }}</h2>
+        <p class="muted small">{{ c.meta?.edition }} · {{ c.meta?.slots }} cancellations in booklet · ₹{{ c.meta?.price }} · {{ c.total }} locations here across {{ c.districts }} districts</p>
+        <pp-progress-bar [label]="'Collected'" [done]="c.done" [total]="c.meta?.slots ?? c.total" />
+      </div>
+    </a>
+  }
+</section>
+
+<section class="quick">
+  <a class="card" routerLink="/nearby"><strong>◎ Near me</strong><span class="muted">Closest stamps and weekend clusters</span></a>
+  <a class="card" routerLink="/progress"><strong>★ Progress</strong><span class="muted">By state and district, with backup</span></a>
+  <a class="card" routerLink="/guide"><strong>? How it works</strong><span class="muted">Where to buy, etiquette and tips</span></a>
+</section>
+
+@if (recent().length) {
+  <section>
+    <h2>Recently collected</h2>
+    <div class="list">
+      @for (l of recent(); track l!.id) {
+        <pp-location-card [loc]="l!" />
+      }
+    </div>
+  </section>
+}

@@ -1,0 +1,41 @@
+<header class="masthead">
+  <a routerLink="/" class="brand" aria-label="Home">
+    <span class="brand-stamp" aria-hidden="true">PP</span>
+    <span class="brand-text">
+      <strong>{{ 'app.title' | t }}</strong>
+      <small>{{ 'app.tagline' | t }}</small>
+    </span>
+  </a>
+  <nav class="top-nav" aria-label="Primary">
+    @for (item of nav; track item.path) {
+      <a [routerLink]="item.path" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: item.path === '/' }">{{ item.key | t }}</a>
+    }
+  </nav>
+  <label class="lang">
+    <span class="sr-only">Language</span>
+    <select [value]="i18n.lang()" (change)="setLang($any($event.target).value)">
+      @for (l of langs; track l.code) {
+        <option [value]="l.code">{{ l.label }}</option>
+      }
+    </select>
+  </label>
+</header>
+
+<p class="ribbon" role="note"><strong>UNOFFICIAL</strong> {{ 'disclaimer.short' | t }}</p>
+
+<main>
+  <router-outlet />
+</main>
+
+<footer class="foot">
+  <p>{{ 'disclaimer.long' | t }}</p>
+  <p class="credits">Map data © OpenStreetMap contributors · Postal codes © GeoNames (CC-BY 4.0) · PPC list compiled by community philatelists. <a routerLink="/guide" fragment="data">About the data</a></p>
+</footer>
+
+<nav class="tabbar" aria-label="Primary (mobile)">
+  @for (item of nav; track item.path) {
+    <a [routerLink]="item.path" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: item.path === '/' }">
+      <span aria-hidden="true">{{ item.icon }}</span>{{ item.key | t }}
+    </a>
+  }
+</nav>

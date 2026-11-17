@@ -1,0 +1,702 @@
+[
+ {
+  "district": "Bagalkot",
+  "place": "Aihole Chalukya Temples",
+  "po": "Aihole Branch Post Office",
+  "pin": "587124",
+  "link": "/cancellations/aihole-heritage-complex/"
+ },
+ {
+  "district": "Bagalkot",
+  "place": "Badami Cave Temples",
+  "po": "Badami Post Office",
+  "pin": "587201",
+  "link": "/cancellations/badami-cave-temples/"
+ },
+ {
+  "district": "Bagalkot",
+  "place": "Pattadakal Temples",
+  "po": "Pattadakallu Branch Post Office",
+  "pin": "587201",
+  "link": "/cancellations/pattadakal-temples/"
+ },
+ {
+  "district": "Ballari",
+  "place": "Ballari Fort",
+  "po": "Ballary Fort Post Office",
+  "pin": "583102",
+  "link": "/cancellations/ballari-fort/"
+ },
+ {
+  "district": "Ballari",
+  "place": "Sandur Kumaraswamy Temple",
+  "po": "Sandur Post Office",
+  "pin": "583119",
+  "link": "/cancellations/sandur-kumaraswamy-temple/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Belagavi Clock Tower",
+  "po": "Belagavi Head Post Office",
+  "pin": "590001",
+  "link": "/cancellations/belagavi-clock-tower/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Bhimgad Wildlife Sanctuary",
+  "po": "Shiroli Branch Post Office",
+  "pin": "591302",
+  "link": "/cancellations/bhimgad-wildlife-sanctuary/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Gokak Falls",
+  "po": "Gokak Falls Post Office",
+  "pin": "591308",
+  "link": "/cancellations/gokak-falls/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Halashi Kadamba Emblem",
+  "po": "Halashi Branch Post Office",
+  "pin": "591142",
+  "link": "/cancellations/halashi-kadamba-emblem/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Hooli Panchalingeshwara Temple",
+  "po": "Hooli Branch Post Office",
+  "pin": "591126",
+  "link": "/cancellations/hooli-panchalingeshwara-temple/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Kamal Basadi, Belagavi Fort",
+  "po": "Belagavi Fort Post Office",
+  "pin": "590016",
+  "link": "/cancellations/kamal-basadi-jain-temple/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Kittur Rani Chennamma",
+  "po": "Kittur Post Office",
+  "pin": "591115",
+  "link": "/cancellations/kittur-rani-channamma-fort/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Sangolli Rayanna, Nandgad",
+  "po": "Nandgad Post Office",
+  "pin": "591120",
+  "link": "/cancellations/sangolli-rayanna-nandgad/"
+ },
+ {
+  "district": "Belagavi",
+  "place": "Saundatti Yellamma Temple",
+  "po": "Yallamma Hill Post Office",
+  "pin": "591173",
+  "link": "/cancellations/saundatti-yellamma-temple/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Ashoka Pillar, Jayanagar",
+  "po": "Jayanagar 3rd Block Post Office",
+  "pin": "560011",
+  "link": "/cancellations/ashoka-pillar/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Bannerghatta Butterfly Park",
+  "po": "Bannerghatta Post Office",
+  "pin": "560083",
+  "link": "/cancellations/bannerghatta-national-park-butterfly-sanctuary/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Beaulieu Heritage Building",
+  "po": "Dr. Ambedkar Veedhi Post Office",
+  "pin": "560001",
+  "link": "/cancellations/beaulieu-heritage-mansion/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "High Court of Karnataka",
+  "po": "High Court Post Office",
+  "pin": "560001",
+  "link": "/cancellations/high-court-attara-kacheri/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Indian Institute of Science",
+  "po": "Science Institute Post Office",
+  "pin": "560012",
+  "link": "/cancellations/indian-institute-of-science-iisc/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "ISRO",
+  "po": "NAL Post Office",
+  "pin": "560017",
+  "link": "/cancellations/isro-headquarters-landmark/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Kempegowda Tower, Lalbagh",
+  "po": "Basavanagudi Head Post Office",
+  "pin": "560004",
+  "link": "/cancellations/kempegowda-tower/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Rajajinagar Foundation Pillar",
+  "po": "Rajajinagar Head Post Office",
+  "pin": "560010",
+  "link": "/cancellations/rajajinagar-foundation-pillar/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Sandesh Museum of Communication",
+  "po": "Museum Road Post Office",
+  "pin": "560025",
+  "link": "/cancellations/sandesh-museum-of-communication/"
+ },
+ {
+  "district": "Bengaluru Urban",
+  "place": "Vidhana Soudha",
+  "po": "Bengaluru GPO",
+  "pin": "560001",
+  "link": "/cancellations/vidhana-soudha/"
+ },
+ {
+  "district": "Bidar",
+  "place": "Anubhava Mantapa, Basavakalyana",
+  "po": "Basavakalyana Post Office",
+  "pin": "585327",
+  "link": "/cancellations/anubhava-mantapa-basavakalyana/"
+ },
+ {
+  "district": "Bidar",
+  "place": "Gurudwara Nanak Jhira Sahib",
+  "po": "Bidar Gurunanak Jhira Post Office",
+  "pin": "585402",
+  "link": "/cancellations/gurudwara-nanak-jhira-sahib/"
+ },
+ {
+  "district": "Bidar",
+  "place": "Kamthana Parshvanath Jain Temple",
+  "po": "Kamthana Post Office",
+  "pin": "585226",
+  "link": "/cancellations/kamthana-jain-temple/"
+ },
+ {
+  "district": "Bidar",
+  "place": "Mahmud Gawan Madrasa",
+  "po": "Bidar Head Post Office",
+  "pin": "585401",
+  "link": "/cancellations/mahmud-gawan-madrasa/"
+ },
+ {
+  "district": "Chamarajanagar",
+  "place": "Bandipur Tiger Reserve",
+  "po": "Bandipur Branch Post Office",
+  "pin": "571126",
+  "link": "/cancellations/bandipur-tiger-reserve/"
+ },
+ {
+  "district": "Chamarajanagar",
+  "place": "BR Hills Wildlife Sanctuary",
+  "po": "Kyathadevaragudi Branch Post Office",
+  "pin": "571342",
+  "link": "/cancellations/br-hills-wildlife-sanctuary/"
+ },
+ {
+  "district": "Chamarajanagar",
+  "place": "Male Mahadeshwara Hills",
+  "po": "Male Mahadeshwara Hills Post Office",
+  "pin": "571490",
+  "link": "/cancellations/male-mahadeshwara-hills/"
+ },
+ {
+  "district": "Chikballapur",
+  "place": "Nandi Hills",
+  "po": "Nandi Hills Branch Post Office",
+  "pin": "562101",
+  "link": "/cancellations/nandi-hills-historical-site/"
+ },
+ {
+  "district": "Chikkamagaluru",
+  "place": "Chikkamagaluru Coffee Estates",
+  "po": "Chikkamagaluru Head Post Office",
+  "pin": "577101",
+  "link": "/cancellations/chikkamagaluru-coffee-estates/"
+ },
+ {
+  "district": "Chikkamagaluru",
+  "place": "Sringeri Vidyashankara Temple",
+  "po": "Sringeri Post Office",
+  "pin": "577139",
+  "link": "/cancellations/vidyashankara-temple/"
+ },
+ {
+  "district": "Chitradurga",
+  "place": "Onake Obavva, Chitradurga Fort",
+  "po": "Chitradurga Head Post Office",
+  "pin": "577501",
+  "link": "/cancellations/chitradurga-fort-seven-circles/"
+ },
+ {
+  "district": "Dakshina Kannada",
+  "place": "Dharmasthala Manjunatha Temple",
+  "po": "Dharmasthala Post Office",
+  "pin": "574216",
+  "link": "/cancellations/dharmasthala-manjunatha-temple/"
+ },
+ {
+  "district": "Dakshina Kannada",
+  "place": "Kateel Durgaparameshwari Temple",
+  "po": "Kateel Post Office",
+  "pin": "574148",
+  "link": "/cancellations/kateel-durgaparameshwari-temple/"
+ },
+ {
+  "district": "Dakshina Kannada",
+  "place": "Kukke Subrahmanya Temple",
+  "po": "Subrahmanya Post Office",
+  "pin": "574238",
+  "link": "/cancellations/kukke-subrahmanya-temple/"
+ },
+ {
+  "district": "Dakshina Kannada",
+  "place": "Mangaluru Lighthouse",
+  "po": "Mangaluru Head Post Office",
+  "pin": "575001",
+  "link": "/cancellations/mangaluru-lighthouse/"
+ },
+ {
+  "district": "Dakshina Kannada",
+  "place": "Moodabidri Thousand Pillar Basadi",
+  "po": "Moodabidri Post Office",
+  "pin": "574227",
+  "link": "/cancellations/moodabidri-thousand-pillar-jain-temple/"
+ },
+ {
+  "district": "Dakshina Kannada",
+  "place": "Rani Abbakka, Ullal",
+  "po": "Ullal Post Office",
+  "pin": "575020",
+  "link": "/cancellations/rani-abbakka-ullal/"
+ },
+ {
+  "district": "Dakshina Kannada",
+  "place": "Venur Gommateshwara",
+  "po": "Venur Post Office",
+  "pin": "574242",
+  "link": "/cancellations/venur-gommateshwara/"
+ },
+ {
+  "district": "Davanagere",
+  "place": "Davanagere Clock Tower",
+  "po": "Davangere Head Post Office",
+  "pin": "577001",
+  "link": "/cancellations/davanagere-clock-tower/"
+ },
+ {
+  "district": "Dharwad",
+  "place": "Adikavi Pampa, Annigeri",
+  "po": "Annigeri Post Office",
+  "pin": "582201",
+  "link": "/cancellations/adikavi-pampa-annigeri/"
+ },
+ {
+  "district": "Dharwad",
+  "place": "Bendre Bhavana, Dharwad",
+  "po": "Narayanapura Post Office",
+  "pin": "580008",
+  "link": "/cancellations/bendre-bhavana-dharwad/"
+ },
+ {
+  "district": "Dharwad",
+  "place": "Vivekananda Statue, Unkal Lake",
+  "po": "Hubli Head Post Office",
+  "pin": "580020",
+  "link": "/cancellations/unkal-lake-vivekananda-statue/"
+ },
+ {
+  "district": "Gadag",
+  "place": "Kumaravyasa, Gadag",
+  "po": "Gadag Head Post Office",
+  "pin": "582101",
+  "link": "/cancellations/kumaravyasa-gadag/"
+ },
+ {
+  "district": "Gadag",
+  "place": "Lakkundi Brahma Jinalaya",
+  "po": "Lakkundi Post Office",
+  "pin": "582115",
+  "link": "/cancellations/lakkundi-temple-complex/"
+ },
+ {
+  "district": "Hassan",
+  "place": "Belur Chennakeshava Temple",
+  "po": "Belur Post Office",
+  "pin": "573115",
+  "link": "/cancellations/belur-chennakeshava-temple/"
+ },
+ {
+  "district": "Hassan",
+  "place": "Halebidu Hoysaleswara Temple",
+  "po": "Halebeedu Post Office",
+  "pin": "573121",
+  "link": "/cancellations/halebidu-hoysaleswara-temple/"
+ },
+ {
+  "district": "Hassan",
+  "place": "Shravanabelagola Gommateshwara",
+  "po": "Shravanabelagola Post Office",
+  "pin": "573135",
+  "link": "/cancellations/shravanabelagola-monolithic-gommateshwara-statue/"
+ },
+ {
+  "district": "Haveri",
+  "place": "Ranebennur Blackbuck Sanctuary",
+  "po": "Ranebennur Post Office",
+  "pin": "581115",
+  "link": "/cancellations/ranebennur-blackbuck-sanctuary/"
+ },
+ {
+  "district": "Haveri",
+  "place": "Santa Shishunala Sharifa",
+  "po": "Shishuvinhal Branch Post Office",
+  "pin": "581126",
+  "link": "/cancellations/shishunala-sharifa-shishuvinhal/"
+ },
+ {
+  "district": "Kalaburagi",
+  "place": "Kalaburagi Fort & Bara Gazi Cannon",
+  "po": "Kalaburgi Head Post Office",
+  "pin": "585101",
+  "link": "/cancellations/kalaburagi-fort-bara-gazi-cannon/"
+ },
+ {
+  "district": "Kodagu",
+  "place": "Kodava Emblem, Madikeri",
+  "po": "Madikeri Head Post Office",
+  "pin": "571201",
+  "link": "/cancellations/kodava-emblem-madikeri/"
+ },
+ {
+  "district": "Kodagu",
+  "place": "Nagarahole National Park",
+  "po": "Nagarahole Branch Post Office",
+  "pin": "571258",
+  "link": "/cancellations/nagarahole-national-park/"
+ },
+ {
+  "district": "Kolar",
+  "place": "KGF Miner Statue",
+  "po": "Oorgaum (KGF) Post Office",
+  "pin": "563120",
+  "link": "/cancellations/kgf-miner-statue/"
+ },
+ {
+  "district": "Kolar",
+  "place": "Masti Venkatesha Iyengar, Masti",
+  "po": "Masthi Post Office",
+  "pin": "563139",
+  "link": "/cancellations/masti-venkatesha-iyengar/"
+ },
+ {
+  "district": "Koppal",
+  "place": "Anjanadri Hill, Anegundi",
+  "po": "Anegundi Branch Post Office",
+  "pin": "583227",
+  "link": "/cancellations/anjanadri-hill-anegundi/"
+ },
+ {
+  "district": "Koppal",
+  "place": "Gavisiddeshwara Math, Koppal",
+  "po": "Koppal Head Post Office",
+  "pin": "583231",
+  "link": "/cancellations/gavisiddeshwara-math-koppal/"
+ },
+ {
+  "district": "Mandya",
+  "place": "Kokkare Bellur Pelicanry",
+  "po": "Kokkare Bellur Branch Post Office",
+  "pin": "571433",
+  "link": "/cancellations/kokkare-bellur-pelicanry/"
+ },
+ {
+  "district": "Mandya",
+  "place": "Tipu Sultan, Srirangapatna",
+  "po": "Srirangapatna Post Office",
+  "pin": "571438",
+  "link": "/cancellations/tipu-sultan-srirangapatna/"
+ },
+ {
+  "district": "Mysuru",
+  "place": "Chamundi Hills",
+  "po": "Chamundi Betta Branch Post Office",
+  "pin": "570010",
+  "link": "/cancellations/chamundi-hills-nandi-monolith/"
+ },
+ {
+  "district": "Mysuru",
+  "place": "Mysuru Dasara Elephant",
+  "po": "Mysuru Head Post Office",
+  "pin": "570001",
+  "link": "/cancellations/mysuru-dasara-elephant/"
+ },
+ {
+  "district": "Mysuru",
+  "place": "Mysuru Dasara Emblem",
+  "po": "Saraswathipuram Head Post Office",
+  "pin": "570009",
+  "link": "/cancellations/mysuru-dasara-emblem/"
+ },
+ {
+  "district": "Mysuru",
+  "place": "Mysuru Silver Jubilee Clock Tower",
+  "po": "Lakshmipuram Post Office",
+  "pin": "570004",
+  "link": "/cancellations/mysuru-silver-jubilee-clock-tower/"
+ },
+ {
+  "district": "Mysuru",
+  "place": "Nada Mantapa, Ganapathy Sachchidananda Ashram",
+  "po": "SGS Ashram Post Office",
+  "pin": "570025",
+  "link": "/cancellations/nada-mantapa-sgs-ashram/"
+ },
+ {
+  "district": "Mysuru",
+  "place": "Somanathapura Chennakeshava Temple",
+  "po": "Somanathapura Branch Post Office",
+  "pin": "571120",
+  "link": "/cancellations/somnathpur-keshava-temple/"
+ },
+ {
+  "district": "Mysuru",
+  "place": "Talakad Panchalinga Temples",
+  "po": "Talakad Post Office",
+  "pin": "571122",
+  "link": "/cancellations/talakad-panchalinga-temples/"
+ },
+ {
+  "district": "Raichur",
+  "place": "Appanacharya's House, Bichali",
+  "po": "Bichali Branch Post Office",
+  "pin": "584140",
+  "link": "/cancellations/appanacharya-house-bichali/"
+ },
+ {
+  "district": "Ramanagara",
+  "place": "Grizzled Giant Squirrel, Helagalli",
+  "po": "Helagalli Branch Post Office",
+  "pin": "562117",
+  "link": "/cancellations/grizzled-giant-squirrel-helagalli/"
+ },
+ {
+  "district": "Shivamogga",
+  "place": "Agumbe King Cobra",
+  "po": "Agumbe Post Office",
+  "pin": "577411",
+  "link": "/cancellations/agumbe-king-cobra/"
+ },
+ {
+  "district": "Shivamogga",
+  "place": "Humcha Padmavathi Temple",
+  "po": "Humcha Branch Post Office",
+  "pin": "577436",
+  "link": "/cancellations/humcha-padmavathi-temple/"
+ },
+ {
+  "district": "Shivamogga",
+  "place": "Jog Falls",
+  "po": "Jog Falls Post Office",
+  "pin": "577435",
+  "link": "/cancellations/jog-falls/"
+ },
+ {
+  "district": "Shivamogga",
+  "place": "Kavishaila, Kuppalli",
+  "po": "Devangi Post Office",
+  "pin": "577415",
+  "link": "/cancellations/kavishaila-kuppalli/"
+ },
+ {
+  "district": "Shivamogga",
+  "place": "Kundadri Jain Shrine",
+  "po": "Kendalbailu Branch Post Office",
+  "pin": "577411",
+  "link": "/cancellations/kundadri-jain-shrine/"
+ },
+ {
+  "district": "Tumakuru",
+  "place": "Mandaragiri Pinchi Basadi",
+  "po": "Hirehalli Post Office",
+  "pin": "572168",
+  "link": "/cancellations/mandaragiri-pinchi-basadi/"
+ },
+ {
+  "district": "Tumakuru",
+  "place": "Siddaganga Math",
+  "po": "Siddaganga Mutt Post Office",
+  "pin": "572104",
+  "link": "/cancellations/siddaganga-matha-landmark/"
+ },
+ {
+  "district": "Udupi",
+  "place": "K. Shivarama Karanth, Kota",
+  "po": "Kota Post Office",
+  "pin": "576221",
+  "link": "/cancellations/shivarama-karanth-kota/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Karkala Jain Centre",
+  "po": "Karkala Head Post Office",
+  "pin": "574104",
+  "link": "/cancellations/karkala-gommateshwara-statue/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Kathale Basadi, Barkur",
+  "po": "Barkur Post Office",
+  "pin": "576210",
+  "link": "/cancellations/kathale-basadi-barkur/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Kaup Lighthouse",
+  "po": "Kaup Post Office",
+  "pin": "574106",
+  "link": "/cancellations/kaup-lighthouse/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Kollur Mookambika Temple",
+  "po": "Kollur Post Office",
+  "pin": "576220",
+  "link": "/cancellations/kollur-mookambika-temple/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Mahakavi Muddana, Nandalike",
+  "po": "Nandalike Branch Post Office",
+  "pin": "576111",
+  "link": "/cancellations/muddana-nandalike/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Mandarthi Durgaparameshwari Temple",
+  "po": "Mandarthi Post Office",
+  "pin": "576223",
+  "link": "/cancellations/mandarthi-durgaparameshwari-temple/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Manipal Venugopal Temple",
+  "po": "Manipal Head Post Office",
+  "pin": "576104",
+  "link": "/cancellations/manipal-venugopal-temple/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Mattu Gulla Brinjal, Katapadi",
+  "po": "Katapadi Post Office",
+  "pin": "574105",
+  "link": "/cancellations/mattu-gulla-katapadi/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Panchagangavali River, Kundapura",
+  "po": "Kundapura Head Post Office",
+  "pin": "576201",
+  "link": "/cancellations/panchagangavali-kundapura/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Shankarapura Jasmine",
+  "po": "Shankarapura Post Office",
+  "pin": "574115",
+  "link": "/cancellations/shankarapura-jasmine/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Someshwara Wildlife Sanctuary",
+  "po": "Someshwara Branch Post Office",
+  "pin": "576112",
+  "link": "/cancellations/someshwara-wildlife-sanctuary/"
+ },
+ {
+  "district": "Udupi",
+  "place": "St Lawrence Basilica, Attur",
+  "po": "Attur Branch Post Office",
+  "pin": "576117",
+  "link": "/cancellations/attur-st-lawrence-basilica/"
+ },
+ {
+  "district": "Udupi",
+  "place": "St. Mary's Islands, Malpe",
+  "po": "Malpe Post Office",
+  "pin": "576108",
+  "link": "/cancellations/malpe-st-mary-s-island/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Udupi Sri Krishna Mutt",
+  "po": "Udupi Head Post Office",
+  "pin": "576101",
+  "link": "/cancellations/udupi-sri-krishna-mutt/"
+ },
+ {
+  "district": "Udupi",
+  "place": "Varanga Kere Basadi",
+  "po": "Varanga Branch Post Office",
+  "pin": "574108",
+  "link": "/cancellations/varanga-kere-basadi/"
+ },
+ {
+  "district": "Uttara Kannada",
+  "place": "Manjuguni Venkataramana Temple",
+  "po": "Manjuguni Branch Post Office",
+  "pin": "581315",
+  "link": "/cancellations/manjuguni-venkataramana-temple/"
+ },
+ {
+  "district": "Uttara Kannada",
+  "place": "Murudeshwar Shiva Statue",
+  "po": "Murudeshwara Post Office",
+  "pin": "581350",
+  "link": "/cancellations/murudeshwar-shiva-statue/"
+ },
+ {
+  "district": "Vijayanagara",
+  "place": "Daroji Sloth Bear Sanctuary",
+  "po": "Kannada University Campus Post Office",
+  "pin": "583276",
+  "link": "/cancellations/daroji-sloth-bear-sanctuary/"
+ },
+ {
+  "district": "Vijayanagara",
+  "place": "Hampi Stone Chariot",
+  "po": "Hampi Post Office",
+  "pin": "583239",
+  "link": "/cancellations/hampi-stone-chariot/"
+ },
+ {
+  "district": "Vijayapura",
+  "place": "Gol Gumbaz",
+  "po": "Vijayapura Head Post Office",
+  "pin": "586101",
+  "link": "/cancellations/gol-gumbaz-whispering-gallery/"
+ },
+ {
+  "district": "Yadgir",
+  "place": "Bonal Bird Sanctuary",
+  "po": "Bonal Branch Post Office",
+  "pin": "585224",
+  "link": "/cancellations/bonal-bird-sanctuary/"
+ }
+]

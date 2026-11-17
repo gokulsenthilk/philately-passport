@@ -1,0 +1,9 @@
+.grid { display: grid; gap: 1rem; margin-bottom: 1rem; }
+.districts { display: grid; gap: .55rem; }
+.d { text-decoration: none; color: inherit; }
+h2 a { color: inherit; }
+.small { font-size: .85rem; }
+.row { display: flex; gap: .6rem; flex-wrap: wrap; }
+.upload { position: relative; overflow: hidden; }
+.upload input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+@media (min-width: 900px) { .grid { grid-template-columns: 1fr 1fr; } }

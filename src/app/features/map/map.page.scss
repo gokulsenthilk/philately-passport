@@ -1,0 +1,12 @@
+.toolbar { display: flex; flex-wrap: wrap; gap: .6rem; align-items: flex-end; margin-bottom: .7rem; }
+.toolbar .field { min-width: 140px; flex: 1; }
+.actions { display: flex; gap: .4rem; }
+.actions .btn { padding: .4rem .7rem; }
+.map-wrap { padding: 0; overflow: hidden; }
+.map { height: calc(100dvh - 300px); min-height: 380px; }
+.legend { display: flex; flex-wrap: wrap; gap: .9rem; padding: .5rem .8rem; font-size: .78rem; color: var(--ink-soft); border-top: 1px solid var(--line); }
+.legend span:last-child { margin-left: auto; }
+.dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: .3rem; vertical-align: -2px; border: 2px solid var(--postal-red); background: var(--card); }
+.dot.done { border-color: var(--ink-cancel); background: var(--ink-cancel); }
+.dot.approx { border-style: dashed; }
+@media (min-width: 900px) { .map { height: calc(100dvh - 260px); } }

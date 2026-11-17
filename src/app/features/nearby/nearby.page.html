@@ -1,0 +1,52 @@
+<h1>{{ 'nav.nearby' | t }}</h1>
+<div class="card controls">
+  <button class="btn red" (click)="geo.locate()" [disabled]="geo.status() === 'locating'">
+    ◎ {{ geo.status() === 'locating' ? ('nearby.locating' | t) : ('nearby.locate' | t) }}
+  </button>
+  @if (geo.status() === 'denied' || geo.status() === 'unavailable') { <p class="warn">{{ 'nearby.denied' | t }}</p> }
+  <div class="chip-row">
+    <span class="muted small">{{ 'nearby.pickCity' | t }}</span>
+    @for (c of cities; track c.name) {
+      <button class="chip" (click)="geo.setManual(c)">{{ c.name }}</button>
+    }
+  </div>
+  <div class="chip-row">
+    <label class="chk"><input type="checkbox" [checked]="onlyTodo()" (change)="onlyTodo.set($any($event.target).checked)" /> Only stamps I still need</label>
+    <label class="field inline">Cluster radius
+      <select (change)="radius.set(+$any($event.target).value)">
+        @for (r of [25, 40, 60, 100]; track r) { <option [value]="r" [selected]="r === radius()">{{ r }} km</option> }
+      </select>
+    </label>
+  </div>
+</div>
+
+@if (closest().length) {
+  <h2>{{ 'nearby.closest' | t }}</h2>
+  <p class="muted small">Straight-line distance. Pins marked approximate may be a few km off.</p>
+  <div class="list">
+    @for (c of closest(); track c.l.id) {
+      <pp-location-card [loc]="c.l" [distanceKm]="c.d" />
+    }
+  </div>
+  <button class="btn ghost more" (click)="limit.set(limit() + 12)">Show more</button>
+}
+
+<h2>{{ 'nearby.clusters' | t }}</h2>
+<p class="muted small">{{ 'nearby.clustersHint' | t: { r: radius() } }}</p>
+<div class="clusters">
+  @for (c of clusters(); track c.anchor.id) {
+    <details class="card cluster">
+      <summary>
+        <strong>{{ c.districts.join(' · ') }}</strong>
+        <span class="mono">{{ c.members.length }} stamps · ~{{ c.routeKm.toFixed(0) }} km between them@if (c.fromMe !== null) { · {{ c.fromMe.toFixed(0) }} km from you }</span>
+      </summary>
+      <ol class="route">
+        @for (m of c.route; track m.id) {
+          <li><pp-location-card [loc]="m" /></li>
+        }
+      </ol>
+    </details>
+  } @empty {
+    <p class="muted">No clusters at this radius.</p>
+  }
+</div>

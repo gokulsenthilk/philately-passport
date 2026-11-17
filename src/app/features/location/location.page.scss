@@ -1,0 +1,24 @@
+.back { display: inline-block; margin-bottom: .6rem; font-size: .9rem; }
+.sheet, section { margin-bottom: 1rem; }
+.top { display: flex; justify-content: space-between; gap: 1rem; align-items: flex-start; --mark-size: 110px; }
+.theme { margin: 0; font-style: italic; color: var(--ink-soft); }
+.guide { font-size: 1.02rem; }
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .6rem 1rem; margin: 1rem 0; }
+.facts dt { font: 700 .68rem var(--font-mono); letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); }
+.facts dd { margin: 0; }
+.row { display: flex; gap: .6rem; flex-wrap: wrap; }
+.warn { color: var(--amber); font-size: .85rem; margin: .5rem 0 0; }
+.visit { display: flex; gap: .6rem; flex-wrap: wrap; align-items: flex-end; }
+.grow { flex: 1; min-width: 200px; }
+.small { font-size: .82rem; }
+.upload { position: relative; overflow: hidden; }
+.upload input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+.photos { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .6rem; margin-top: .8rem; }
+figure { margin: 0; background: #fff; padding: 6px 6px 4px; box-shadow: 0 3px 10px -4px rgb(0 0 0 / .3); transform: rotate(-1deg); }
+figure:nth-child(even) { transform: rotate(1.2deg); }
+figure img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; }
+figcaption { display: flex; justify-content: space-between; font-size: .72rem; padding-top: 4px; }
+.x { border: 0; background: none; cursor: pointer; color: var(--postal-red); }
+.conf { border-collapse: collapse; }
+.conf th { text-align: left; font-weight: 500; padding: .2rem 1rem .2rem 0; font-size: .88rem; }
+.sources { font-size: .75rem; padding-left: 1rem; word-break: break-all; }

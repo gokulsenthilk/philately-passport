@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1794896307725,
+  "index": "/philately-passport/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/philately-passport/chunk-B-PTu9AK.js",
+        "/philately-passport/chunk-BYmw3ppW.js",
+        "/philately-passport/chunk-BcmbDJkk.js",
+        "/philately-passport/chunk-Bifj5604.js",
+        "/philately-passport/chunk-BmZepOvL.js",
+        "/philately-passport/chunk-Bz8G8nJT.js",
+        "/philately-passport/chunk-C7EchbXJ.js",
+        "/philately-passport/chunk-CGw76AUF.js",
+        "/philately-passport/chunk-CW7o_69o.js",
+        "/philately-passport/chunk-CaM4cHK2.js",
+        "/philately-passport/chunk-DUeKqI6P.js",
+        "/philately-passport/chunk-Dl3sdScq.js",
+        "/philately-passport/chunk-RpmyBSKW.js",
+        "/philately-passport/chunk-s2g0F5nV.js",
+        "/philately-passport/favicon.ico",
+        "/philately-passport/index.html",
+        "/philately-passport/main-AH2OAFB4.js",
+        "/philately-passport/manifest.webmanifest",
+        "/philately-passport/styles-FH64JDPG.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/philately-passport/icons/icon-128x128.png",
+        "/philately-passport/icons/icon-144x144.png",
+        "/philately-passport/icons/icon-152x152.png",
+        "/philately-passport/icons/icon-192x192.png",
+        "/philately-passport/icons/icon-384x384.png",
+        "/philately-passport/icons/icon-512x512.png",
+        "/philately-passport/icons/icon-72x72.png",
+        "/philately-passport/icons/icon-96x96.png",
+        "/philately-passport/media/layers-2x-TBM42ERR.png",
+        "/philately-passport/media/layers-55W3Q4RM.png",
+        "/philately-passport/media/marker-icon-2V3QKKVC.png"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "data",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/philately-passport/data/locations.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "osm-tiles",
+      "patterns": [
+        "https:\\/\\/tile\\.openstreetmap\\.org\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 800,
+      "maxAge": 2592000000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/philately-passport/chunk-B-PTu9AK.js": "de259b0dde09d9d1a076faea9f3347fed050a384",
+    "/philately-passport/chunk-BYmw3ppW.js": "cec07283c015d3e58361dbf20758d5b82b459db4",
+    "/philately-passport/chunk-BcmbDJkk.js": "75dfa655e7dde72aea317a35f78fdbdb0e6d564a",
+    "/philately-passport/chunk-Bifj5604.js": "c8d90f76399a62e5677cae07c6c3a5d7cbb2fae2",
+    "/philately-passport/chunk-BmZepOvL.js": "5064af0e3532b58dec669c46da6fdcfbc99388dc",
+    "/philately-passport/chunk-Bz8G8nJT.js": "04c73c066e93cc4f0b76b8ad1b382446f7fbf0d5",
+    "/philately-passport/chunk-C7EchbXJ.js": "c16f8c9589ca1d7a8af784ae49ac25b479879a21",
+    "/philately-passport/chunk-CGw76AUF.js": "e7702011cbdb4e2a033ec6171e290233bcbfea15",
+    "/philately-passport/chunk-CW7o_69o.js": "8c09390eca8bf92bd1beac2346e747f5af8fb8c3",
+    "/philately-passport/chunk-CaM4cHK2.js": "a7faa2d9eb255333d76b581099bd9a6c85cfde18",
+    "/philately-passport/chunk-DUeKqI6P.js": "4159b4a22cc3fee53477377bb56bd30e50784922",
+    "/philately-passport/chunk-Dl3sdScq.js": "2676aad89c8afd69ee72fab790101decc2e2b4b6",
+    "/philately-passport/chunk-RpmyBSKW.js": "265cb53bdac7fcf4f9fda50eb7486c6b9e2bd9d7",
+    "/philately-passport/chunk-s2g0F5nV.js": "6ee35ee8c5e5973c3c5a5de59724fbba3eac84ac",
+    "/philately-passport/data/locations.json": "04adb6b84ea500ff1670a096225664b401b3febf",
+    "/philately-passport/favicon.ico": "5498b0e83dd6bcc3ec197936af60e3f932c9fa54",
+    "/philately-passport/icons/icon-128x128.png": "a2ac49ba0520608c8b4754d3917347e830c4e5d0",
+    "/philately-passport/icons/icon-144x144.png": "96f3783500de6e8721098ceab1d35960e39beed6",
+    "/philately-passport/icons/icon-152x152.png": "1593f119690af6b444cd36f96e469e027e0e87c9",
+    "/philately-passport/icons/icon-192x192.png": "b0d7a3fc7aa9122b9c24ed4091cbbd5743182c8e",
+    "/philately-passport/icons/icon-384x384.png": "e16777b709ea262de15e0e2c93939332e70eb50b",
+    "/philately-passport/icons/icon-512x512.png": "649775bfcda16b9f15481b01fcf8aebda4e7c01d",
+    "/philately-passport/icons/icon-72x72.png": "d13d28d447ec2afa38c87633c112860344929780",
+    "/philately-passport/icons/icon-96x96.png": "a42c86b3a28022eb85e55545bd0aedc9152ceaf2",
+    "/philately-passport/index.html": "8b322cc115920e55dc8ef3ca9c7514fc07e377dd",
+    "/philately-passport/main-AH2OAFB4.js": "0e40293c929a112175e7e820eef0f6370c160484",
+    "/philately-passport/manifest.webmanifest": "b9de024b3309d8674be0f292a96d24c0d519a1be",
+    "/philately-passport/media/layers-2x-TBM42ERR.png": "152a162333e46d24f9d89f566312fc0c64011dee",
+    "/philately-passport/media/layers-55W3Q4RM.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+    "/philately-passport/media/marker-icon-2V3QKKVC.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+    "/philately-passport/styles-FH64JDPG.css": "c89097cdffed9fe14c484b1c4a4038a495bad7e9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
